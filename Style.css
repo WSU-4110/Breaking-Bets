@@ -1,0 +1,104 @@
+body {
+            font-family: verdana, sans-serif;
+            font-size: 100%;
+            background-color: grey;
+            margin: 0 5%;
+            font-family: sans-serif;
+            background-image: url(Pictures/Light_Triangles.jpg);
+            background-position: center top;
+            padding-bottom: 100px;
+            }
+
+        h1 {
+            font-family: "Marko One", Georgia, serif;
+            font-size: 1.5em;
+            color: gold;
+            text-align: center;
+            font-weight: normal;
+            text-transform: uppercase;
+            border-bottom: 1px solid#a9a9a9;
+            margin-top: 30px;
+            }
+        h2 {
+            font-family: "Marko One", Georgia, serif;
+            font-size: 2em;
+            color: gold;
+            margin-left: 100px;
+        }    
+        h3 {
+            font-family: "Marko One", Georgia, serif;
+            font-size: 1.25em;
+            color: gold;
+            
+        }
+        h4 {
+            text-align: center;
+            font-size: 1.15;
+            color: gold;
+            font-family: "Marko One", Georgia, Serif;;
+        }
+        dt { font-weight: bold; }
+        strong { 
+            font-style: italic;
+            }
+
+        
+        li{
+            display: inline;
+        }
+        ul{
+            color: maroon;
+            font-family: "Marko One", Georgia, Serif;;
+
+        }
+        button{
+            font-weight: bold;
+            font-family: Georgia, serif;
+            color: maroon;
+            cursor: pointer;
+            height: 200;
+            width: 500;
+
+        }
+        nav{
+            text-align: center;
+        }
+        #banner img{
+            display: block;
+            margin: 0 auto;
+            width: 10em;
+            height: 10em;
+        }
+ 
+          p{
+              color: rgb(66, 0, 0);
+              font-family: "Marko One", Georgia, serif;
+              font-size: 1em;
+              text-align: center;
+          }
+          footer {
+              font-size: .8em;
+              font-style: italic;
+              color: black;
+              position: fixed; bottom:0; left: 15px; right: 0; height: 60px;
+          }
+          .columns {
+            column-count: 3;
+            column-gap: 40px;
+          }
+          table {
+            font-family: "Marko One", Georgia, serif;
+            border-collapse: collapse;
+            width: 100%;
+          }
+          
+          td, th {
+            border: 1px solid #a7a7a7;
+            text-align: left;
+            padding: 8px;
+          }
+          
+          tr:nth-child(even) {
+            background-color: #dddddd;
+          }
+
