@@ -11,7 +11,7 @@ body {
 
         h1 {
             font-family: "Marko One", Georgia, serif;
-            font-size: 1.5em;
+            font-size: 2em;
             color: gold;
             text-align: center;
             font-weight: normal;
@@ -21,19 +21,19 @@ body {
             }
         h2 {
             font-family: "Marko One", Georgia, serif;
-            font-size: 2em;
+            font-size: 1.5em;
             color: gold;
-            margin-left: 100px;
+            text-align: center;
         }    
         h3 {
             font-family: "Marko One", Georgia, serif;
             font-size: 1.25em;
             color: gold;
-            
+            margin-top: 0px;
         }
         h4 {
             text-align: center;
-            font-size: 1.15;
+            font-size: 1.15em;
             color: gold;
             font-family: "Marko One", Georgia, Serif;;
         }
@@ -66,8 +66,8 @@ body {
         #banner img{
             display: block;
             margin: 0 auto;
-            width: 10em;
-            height: 10em;
+            width: 7em;
+            height: 7em;
         }
  
           p{
@@ -84,7 +84,8 @@ body {
           }
           .columns {
             column-count: 3;
-            column-gap: 40px;
+            column-rule: .1em solid;
+            border: .1em solid;
           }
           table {
             font-family: "Marko One", Georgia, serif;
