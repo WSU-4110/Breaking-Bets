@@ -30,6 +30,7 @@ body {
             font-size: 1.25em;
             color: gold;
             margin-top: 0px;
+            text-align: center;
         }
         h4 {
             text-align: center;
@@ -82,10 +83,14 @@ body {
               color: black;
               margin-top: 10em;
           }
-          .columns {
-            column-count: 3;
-            column-rule: .1em solid;
-            border: .1em solid;
+          .column {
+            float: left;
+            width: 33.33%;
+          }
+          .row:after {
+              content: "";
+              display: table;
+              clear: both;
           }
           table {
             font-family: "Marko One", Georgia, serif;
