@@ -21,15 +21,15 @@
 | 1 | Design a mock Players page | 5 | 2 | 2 | 2 | 1 |  |  |
 | 1 | Design a mock Fantasy page | 5 | 2 | 2 | 2 | 1 |  |  |
 | 1 | Design a mock News page | 5 | 2 | 2 | 2 | 1 |  |  |
-| 2 | Code Games Page Shell | 1 |  |  |  |  |  |  |
-| 2 | Code Games Page Shell | 1 |  |  |  |  |  |  |
-| 2 | Code Teams Page Shell | 1 |  |  |  |  |  |  |
-| 2 | Code Players Page Shell | 1 |  |  |  |  |  |  |
-| 2 | Code Fantasy Page Shell | 1 |  |  |  |  |  |  |
-| 2 | Code News Page Shell | 1 |  |  |  |  |  |  |
-| 3 | Code/Fill Home Page Shell | 1 |  |  |  |  |  |  |
-| 3 | Code/Fill Games Page Shell | 1 |  |  |  |  |  |  |
-| 3 | Code/Fill Teams Page Shell | 1 |  |  |  |  |  |  |
-| 3 | Code/Fill Players Page Shell | 1 |  |  |  |  |  |  |
-| 3 | Code/Fill Fantasy Page Shell | 1 |  |  |  |  |  |  |
-| 3 | Code/Fill News Page Shell | 1 |  |  |  |  |  |  |
+| 2 | Code Home Page Shell | 10 | 10 | 8 | 5 | 5 | 1 |  |
+| 2 | Code Games Page Shell | 10 | 10 | 8 | 5 | 5 | 1 |  |
+| 2 | Code Teams Page Shell | 10 | 10 | 8 | 5 | 5 | 1 |  |
+| 2 | Code Players Page Shell | 10 | 10 | 8 | 5 | 5 | 1 |  |
+| 2 | Code Fantasy Page Shell | 10 | 10 | 8 | 5 | 5 | 1 |  |
+| 2 | Code News Page Shell | 10 | 10 | 8 | 5 | 5 | 1 |  |
+| 3 | Code/Fill Home Page Shell | 12 | 11 | 7 | 7 | 2 |  |  |
+| 3 | Code/Fill Games Page Shell | 12 | 11 | 7 | 7 | 2 |  |  |
+| 3 | Code/Fill Teams Page Shell | 12 | 11 | 7 | 7 | 2 |  |  |
+| 3 | Code/Fill Players Page Shell | 12 | 11 | 11 | 5 | 2 |  |  |
+| 3 | Code/Fill Fantasy Page Shell | 12 | 11 | 11 | 5 | 2 |  |  ||
+| 3 | Code/Fill News Page Shell | 12 | 11 | 11 | 5 | 2 |  |  |
