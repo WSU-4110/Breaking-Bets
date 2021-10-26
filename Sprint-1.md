@@ -2,9 +2,10 @@
 ### Goal
 ### Team Capacity
 
-|       | Days Available |     |       | Days Available |     |
-| ---        |    :----:   |          --- | ---        |    :----:   |          --- |
-| Syntax      | Description | Test Text     | Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   | Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      | Paragraph   | Text        | And more      |
+| Member      | Tue | Wed     | Thu      | Fri | Sat | Sun | Mon   | Daily/Hours    | Week Hours    |
+| ---        |    :----:   |          --- | ---        |    :----:   |          --- | ---        |    :----:   |          --- |          --- |
+|Colin McClevarty   | X       | X|       |    |        |       |    |   |
+| George Mourtos  | X       | X|       |    |        |       |    |   |
+| Noah Boose   | X       | X|       |    |        |       |    |   |
+| Hussein El-Sibai | X       | X|       |    |        |       |    |   |
+|Tyler Webb   | X       | X|       |    |        |       |    |   |
