@@ -1,6 +1,9 @@
 # Sprint 1 Planning
 ### Goal
-
+The Sprint 1 Goal is to design and develop a working website
+that will serve as our starting point for Sprint 2.
+The website should resemble our vision for what the finished
+product will look like during Demo 3.
 ### Product Backlog
 
 | Backlog Item | Estimate |
