@@ -1,10 +1,14 @@
 # Sprint 1 Planning
-### Goal
+
+
+### Sprint Goal
 The Sprint 1 Goal is to design and develop a working website
 that will serve as our starting point for Sprint 2.
 The website should resemble our vision for what the finished
 product will look like during Demo 3.
+
 ### Product Backlog
+*Estimate values relate to Story Points, points which give value to the user or customer*
 
 | Backlog Item | Estimate |
 | --- | ----------- |
@@ -32,7 +36,7 @@ product will look like during Demo 3.
 | As a user, I want to see betting odds.               |  5 |
 
 ### Team Capacity
-
+*|Member name|Days that members are available to work|Expected hours worked per work day|Expected hours worked in a week|Total team expected hours worked for the week|*
 | Member          | Tue    | Wed   | Thu   | Fri   | Sat   | Sun   | Mon   | Daily/Hours | Week Hours    | Team Week Hours |
 | ---             | :---:  | :---: | :---: | :---: | :---: | :---: | :---: |   :---:     |     :---:     |      :---:      |
 |Colin McClevarty |   X    |   X   |       |   X   |       |       |  X    |     2       |       8       |         8       |
@@ -42,9 +46,9 @@ product will look like during Demo 3.
 |Tyler Webb       |   X    |   X   |   X   |   X   |       |       |       |     2       |       8       |        40       |
 
 ### Sprint Backlog
-
+*Numeric values equate to expected hours remaining to complete task*
 | Week | Tasks                     |Tue |Wed |Thu |Fri |Sat |Sun |Mon |
-| --- | -----------                | --- | --- | --- | --- | --- | --- | --- |
+| --- | ---------                  | ---| ---| ---| ---| ---| ---| ---|
 | 1 | Find a webhost               |  1 |    |    |    |    |    |    |
 | 1 | Design a mock Home page      |  5 |  2 |  2 |  2 |  1 |    |    |
 | 1 | Design a mock Games page     |  5 |  2 |  2 |  2 |  1 |    |    |
