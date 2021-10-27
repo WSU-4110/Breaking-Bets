@@ -1,6 +1,5 @@
 # Sprint 1 Planning
 
-
 ### Sprint Goal
 The Sprint 1 Goal is to design and develop a working website
 that will serve as our starting point for Sprint 2.
@@ -69,4 +68,17 @@ product will look like during Demo 3.
 | 3 | Code/Fill Fantasy Page Shell | 12 | 11 | 11 |  5 |  2 |    |    |
 | 3 | Code/Fill News Page Shell    | 12 | 11 | 11 |  5 |  2 |    |    |
 
-
+# Sprint Retrospective #
+### *What Went Well*
+The group worked well as a team, completing our first Sprint Planning while also managing our lab assignments.
+Although we were unhappy with our first Sprint Review (demo), this allowed us to determine areas for improvement.
+### *What Could Be Improved*
+Time management should be a priority so that we meet our Sprint 2 goals.
+More attention to pre-planning should be addressed as well.
+### *What We Will Commit To Improve*
+We will work on improving our time management and focus in four ways:
+1. Each task in the sprint log will be thoroughly discussed as a group, allowing members to focus their work on a well defined task.
+2. The Group Task Schedule will be made shareable so that members can see where the group currently stands with sprint tasks.
+Members will be able to offer help on tasks that they see falling behind.
+3. Members will strive to maintain their expected project work schedules.
+4. Communication will be improved, and the group will have a weekly goal to focus on.
