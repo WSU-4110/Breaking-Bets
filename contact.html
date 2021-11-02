@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Breaking Bets | Contact</title>
+    <link rel="stylesheet" href="Style.css"> 
+</head>
+
+<body>
+    <header>
+        <div id="banner">
+            <h1><img src="resources/tempbanner.png" alt = "Banner">Breaking Bets</h1>
+        </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html"><button id="id1" type="button">Home</button></a></li>
+                    <li><a href="games.html"><button id="id2" type="button">Upcoming Games</button></a></li>
+                    <li><a href="players.html"><button id="id3" type="button">Players</button></a></li>
+                    <li><a href="news.html"><button id="id4" type="button">Breaking News</button></a></li>
+                    <li><a href="faq.html"><button id="id4" type="button">FAQs</button></a></li>
+                    <li><a href="contact.html"><button id="id5" type="button">Contact</button></a></li>
+                </ul>
+            </nav>
+  </header>
+    <section>
+    <div id = "Intro">
+    <h2>Questions, suggestions, report?</h2>
+        <p>
+            Fill out this form if you have any questions regarding our platform, you would like to make a suggestion to streamline the use of the site, or if you have found something that is not functioning as you expect it to.
+        </p>
+    </div>
+    </section>
+
+
+    
+    <form action="mailto:breakingbets@protonmail.com" 
+    method="post"
+    enctype="multipart/form-data"
+    name="Breaking Bets Contact Form">
+    
+      <fieldset>
+    <legend>Your Information</legend>
+    <ul>
+      <li><label for="form-name">Name:</label> <input type="text" name="customername" id="form-name"></li>
+      <li><label for="form-email">Email:</label> <input type="text" name="email" id="form-email"></li>
+      <li><label for="form-age">Age:</label> <input type="text" name="age" id="form-age"></li>
+      
+      <legend>What is your reason for contacting the team? <em>(Select all that apply)</em>:</legend>
+      <li><label><input type="checkbox" name="reason[]" value="questions">Questions</label></li><br>
+      <li><label><input type="checkbox" name="reason[]" value="suggestions">Suggestions</label></li><br>
+      <li><label><input type="checkbox" name="reason[]" value="report">Report an issue</label></li><br>
+      <li><label><input type="checkbox" name="reason[]" value="ad">Partnership/Advertising</label></li><br>
+    </ul>
+    </fieldset>
+    
+    <fieldset>
+    <legend>Questions</legend>
+    
+    <fieldset>
+    <legend>After reviewing our FAQ, input your unanswered question here:</em>:</legend>
+    <ul>
+        <textarea name="use" rows="4" cols="60" maxlength="600" id="form-story" placeholder="600 Characters"></textarea></li>
+    </ul>
+    </fieldset>
+    
+    <fieldset>
+    <legend>Suggestions</legend>
+        
+    <fieldset>
+        <legend>What suggestions do you have for the team?</em>:</legend>
+        <ul>
+            <textarea name="use" rows="4" cols="60" maxlength="600" id="form-story" placeholder="600 Characters"></textarea></li>
+        </ul>
+        </fieldset>
+
+
+        <fieldset>
+            <legend>Report a problem:</em>:</legend>
+            <legend>What page is having a problem? <em>(Select all that apply)</em>:</legend>
+            <li><label><input type="checkbox" name="reason[]" value="home">Home</label></li><br>
+            <li><label><input type="checkbox" name="reason[]" value="upcoming">Upcoming Games</label></li><br>
+            <li><label><input type="checkbox" name="reason[]" value="players">Players</label></li><br>
+            <li><label><input type="checkbox" name="reason[]" value="news">Breaking News</label></li><br>
+            <li><label><input type="checkbox" name="reason[]" value="faqs">FAQs</label></li><br>
+            <ul>
+            <legend>What is occurring on the selected page(s)?</legend>
+                <textarea name="use" rows="4" cols="60" maxlength="600" id="form-story" placeholder="600 Characters"></textarea></li>
+            </ul>
+            </fieldset>
+        </fieldset>
+
+    
+    
+    <p><input type="submit" value="Submit">
+        <input type="reset"></p>
+    
+    </form>
+    
+    </body>
+    </html>
+    
