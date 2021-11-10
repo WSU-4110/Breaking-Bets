@@ -1,0 +1,52 @@
+97	Addison, Mario	DE	09/06/1987	34	6' 03"	254	Troy	CHI FA	11 CFA	11
+17	Allen, Josh	QB	05/21/1996	25	6' 05"	237	Wyoming	BUF	18 01 007	4
+96	Basham Jr., Carlos "Boogie"	DE	12/16/1997	23	6' 03"	281	Wake Forest	BUF	21 02 061	R
+2	Bass, Tyler	PK	02/14/1997	24	5' 10"	185	Georgia Southern	BUF	20 06 188	2
+71	Bates, Ryan	OG	02/14/1997	24	6' 04"	306	Penn State	PHI FA	19 CFA	3
+11	Beasley, Cole	WR	04/26/1989	32	5' 08"	177	SMU	DAL FA	12 CFA	10
+65	Boettger, Ike	OT	10/05/1994	27	6' 06"	307	Iowa	BUF FA	18 CFA	4
+22	Breida, Matt	RB	02/28/1995	26	5' 09"	180	Georgia Southern	SF FA	17 CFA	5
+79	Brown, Spencer	OT	02/28/1998	23	6' 08"	314	Northern Iowa	BUF	21 03 093	R
+94	Butler, Vernon	DT	06/14/1994	27	6' 04"	323	Louisiana Tech	CAR	16 01 030	6
+13	Davis, Gabriel	WR	04/01/1999	22	6' 02"	216	Central Florida	BUF	20 04 128	2
+73	Dawkins, Dion	OG	04/26/1994	27	6' 04"	317	Temple	BUF	17 02 063	5
+14	Diggs, Stefon	WR	11/29/1993	27	6' 00"	195	Maryland	MIN	15 05 146	7
+53	Dodson, Tyrel	OB	06/25/1998	23	6' 00"	237	Texas A&M	BUF FA	19 CFA	2
+77	Douglas, Jamil	OG	02/28/1992	29	6' 04"	304	Arizona State	MIA	15 04 114	4
+72	Doyle, Tommy	OT	05/06/1998	23	6' 08"	318	Miami University	BUF	21 05 161	R
+49	Edmunds, Tremaine	IB	05/02/1998	23	6' 04"	253	Virginia Tech	BUF	18 01 016	4
+57	Epenesa, AJ	DE	09/15/1998	23	6' 05"	275	Iowa	BUF	20 02 054	2
+69	Ferguson, Reid	LS	03/24/1994	27	6' 01"	243	LSU	BUF FA	16 CFA	5
+74	Ford, Cody	OG	12/28/1996	24	6' 04"	329	Oklahoma	BUF	19 02 038	3
+41	Gilliam, Reggie	TE/FB	08/20/1997	24	6' 01"	255	Toledo	BUF FA	20 CFA	2
+3	Haack, Matt	PT	07/25/1994	27	6' 01"	199	Arizona State	MIA FA	17 CFA	5
+31	Hamlin, Damar	SS	03/24/1998	23	6' 01"	201	Pittsburgh	BUF	21 06 212	R
+55	Hughes, Jerry	OLB	08/13/1988	33	6' 02"	255	TCU	IND	10 01 031	12
+23	Hyde, Micah	CB	12/31/1990	30	6' 00"	197	Iowa	GB	13 05 159	9
+30	Jackson, Dane	CB	11/29/1996	24	6' 00"	187	Pittsburgh	BUF	20 07 239	2
+46	Johnson, Jaquan	SS	11/13/1995	26	5' 10"	191	Miami	BUF	19 06 181	3
+24	Johnson, Taron	CB	07/27/1996	25	5' 11"	192	Weber State	BUF	18 04 121	4
+25	Jones, Taiwan	RB	07/26/1988	33	6' 00"	194	Eastern Washington	OAK	11 04 125	11
+54	Klein, AJ	OLB	07/30/1991	30	6' 01"	250	Iowa State	CAR	13 05 148	9
+88	Knox, Dawson	TE	11/14/1996	25	6' 04"	254	Mississippi	BUF	19 03 096	3
+15	Kumerow, Jake	WR	02/17/1992	29	6' 04"	202	Wisconsin-Whitewater	CIN FA	15 CFA	4
+44	Matakevich, Tyler	IB	12/22/1992	28	6' 00"	238	Temple	PIT	16 07 246	6
+19	McKenzie, Isaiah	WR	04/09/1995	26	5' 07"	173	Georgia	DEN	17 05 172	5
+58	Milano, Matt	OB	03/17/1995	26	6' 00"	216	Boston College	BUF	17 05 163	5
+60	Morse, Mitch	OT	04/21/1992	29	6' 05"	305	Missouri	KC	15 02 049	7
+20	Moss, Zack	RB	12/15/1997	23	5' 09"	223	Utah	BUF	20 03 086	2
+33	Neal, Siran	SS	08/04/1994	27	6' 00"	206	Jacksonville State	BUF	18 05 154	4
+93	Obada, Efe	DE/TE	04/13/1992	29	6' 06"	255	no college	DAL FA	15 SFA	4
+91	Oliver, Ed	DT	12/12/1997	23	6' 02"	287	Houston	BUF	19 01 009	3
+99	Phillips, Harrison	DT	01/25/1996	25	6' 03"	307	Stanford	BUF	18 03 096	4
+21	Poyer, Jordan	CB	04/25/1991	30	6' 00"	191	Oregon State	PHI	13 07 218	9
+50	Rousseau, Gregory	DE	04/05/2000	21	6' 06"	260	Miami	BUF	21 01 030	R
+1	Sanders, Emmanuel	WR	03/17/1987	34	5' 11"	180	SMU	PIT	10 03 082	12
+26	Singletary, Devin	RB	09/03/1997	24	5' 07"	203	Florida Atlantic	BUF	19 03 074	3
+59	Smith, Andre	IB	04/20/1997	24	6' 00"	237	North Carolina	CAR	18 07 234	4
+89	Sweeney, Tommy	TE	07/01/1995	26	6' 04"	251	Boston College	BUF	19 07 228	3
+45	Wade, Christian	RB	05/15/1991	30	5' 08"	190	No College	BUF FA	19 SFA	1
+39	Wallace, Levi	CB	06/12/1995	26	6' 00"	179	Alabama	BUF FA	18 CFA	4
+27	White, Tre'Davious	CB	01/16/1995	26	5' 11"	191	LSU	BUF	17 01 027	5
+75	Williams, Daryl	OT	08/31/1992	29	6' 05"	327	Oklahoma	CAR	15 04 102	7
+61	Zimmer, Justin	DT	10/23/1992	29	6' 03"	292	Ferris State	BUF FA	16 CFA	3

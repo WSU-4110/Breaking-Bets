@@ -1,0 +1,50 @@
+89	Andrews, Mark	TE	09/06/1995	26	6' 05"	256	Oklahoma	BAL	18 03 086	4
+23	Averett, Anthony	CB	11/30/1994	26	5' 11"	183	Alabama	BAL	18 04 118	4
+12	Bateman, Rashod	WR	11/29/1999	21	6' 01"	210	Minnesota	BAL	21 01 027	R
+17	Bell, Le'Veon	RB	02/18/1992	29	6' 01"	230	Michigan State	PIT	13 02 048	7
+49	Board, Chris	LB	07/23/1995	26	6' 01"	230	North Dakota State	BAL FA	18 CFA	4
+54	Bowser, Tyus	OB	05/23/1995	26	6' 02"	244	Houston	BAL	17 02 047	5
+80	Boykin, Miles	WR	10/12/1996	25	6' 04"	220	Notre Dame	BAL	19 03 093	3
+86	Boyle, Nick	TE	02/17/1993	28	6' 04"	268	Delaware	BAL	15 05 171A	7
+77	Bozeman, Bradley	OC	11/24/1994	26	6' 05"	319	Alabama	BAL	18 06 215	4
+5	Brown, Marquise	WR	06/04/1997	24	5' 09"	166	Oklahoma	BAL	19 01 025	3
+56	Bynes, Josh	ILB	08/24/1989	32	6' 01"	240	Auburn	BAL FA	11 CFA	11
+93	Campbell, Calais	DE	09/01/1986	35	6' 08"	300	Miami	ARZ	08 02 050	14
+36	Clark, Chuck	FS	04/19/1995	26	6' 00"	208	Virginia Tech	BAL	17 06 186	5
+63	Colon-Castillo, Trystan	OC	03/23/1998	23	6' 03"	313	Missouri	BAL FA	20 CFA	2
+13	Duvernay, Devin	WR	09/12/1997	24	5' 10"	202	Texas	BAL	20 03 092	2
+71	Ellis, Justin	NT	12/27/1990	30	6' 01"	334	Louisiana Tech	OAK	14 04 107	8
+45	Ferguson, Jaylon	DE	12/14/1995	25	6' 05"	259	Louisiana Tech	BAL	19 03 085	3
+33	Freeman, Devonta	RB	03/15/1992	29	5' 08"	206	Florida State	ATL	14 04 103	8
+50	Houston, Justin	OLB	01/12/1989	32	6' 03"	258	Georgia	KC	11 03 070	11
+44	Humphrey, Marlon	CB	07/08/1996	25	6' 00"	197	Alabama	BAL	17 01 016	5
+2	Huntley, Tyler	QB	02/03/1998	23	6' 01"	196	Utah	BAL FA	20 CFA	1
+8	Jackson, Lamar	QB	01/07/1997	24	6' 02"	216	Louisville	BAL	18 01 032	4
+4	Koch, Sam	PT	08/13/1982	39	6' 01"	218	Nebraska	BAL	06 06 203	16
+41	Levine, Anthony	FS	03/27/1987	34	5' 11"	203	Tennessee State	GB FA	10 CFA	10
+92	Madubuike, Justin	DT	11/17/1997	23	6' 03"	293	Texas A&M	BAL	20 03 071	2
+90	McPhee, Pernell	OLB	12/17/1988	32	6' 03"	280	Mississippi State	BAL	11 05 165	11
+46	Moore, Nick	LS	12/09/1992	28	6' 02"	246	Georgia	NO FA	19 CFA	1
+28	Murray, Latavius	RB	02/21/1991	30	6' 03"	223	Central Florida	OAK	13 06 181	9
+0	Ogbuehi, Cedric	OT	04/25/1992	29	6' 05"	306	Texas A&M	CIN	15 01 021	7
+84	Oliver, Josh	TE	03/21/1997	24	6' 05"	249	San Jose State	JAX	19 03 069	3
+99	Oweh, Odafe	DE	12/15/1998	22	6' 05"	252	Penn State	BAL	21 01 031	R
+74	Phillips, Tyre	OG	01/29/1997	24	6' 05"	331	Mississippi State	BAL	20 03 106	2
+72	Powers, Ben	OG	10/29/1996	25	6' 04"	307	Oklahoma	BAL	19 04 123	3
+11	Proche II, James	WR	09/21/1996	25	5' 11"	201	SMU	BAL	20 06 201	2
+6	Queen, Patrick	IB	08/13/1999	22	6' 00"	229	LSU	BAL	20 01 028	2
+42	Ricard, Patrick	DE/FB	05/27/1994	27	6' 04"	280	Maine	BAL FA	17 CFA	5
+22	Smith, Jimmy	CB	07/26/1988	33	6' 02"	205	Colorado	BAL	11 01 027	11
+21	Stephens, Brandon	CB	12/29/1997	23	6' 01"	219	SMU	BAL	21 03 104	R
+26	Stone, Geno	SS	04/19/1999	22	5' 10"	207	Iowa	BAL	20 07 219	2
+9	Tucker, Justin	PK	11/21/1989	31	6' 00"	180	Texas	BAL FA	12 CFA	10
+78	Villanueva, Alejandro	OT/DE	09/22/1988	33	6' 09"	277	Army	PHI FA	14 SFA	7
+16	Wallace, Tylan	WR	05/13/1999	22	5' 11"	193	Oklahoma State	BAL	21 04 131	R
+29	Washington, Ar'Darius	FS	11/02/1999	22	5' 08"	178	TCU	BAL FA	21 CFA	R
+96	Washington Jr., Broderick	DT	12/04/1996	24	6' 02"	305	Texas Tech	BAL	20 05 170	2
+14	Watkins, Sammy	WR	06/14/1993	28	6' 01"	211	Clemson	BUF	14 01 004	8
+57	Welch, Kristian	IB	05/24/1998	23	6' 03"	240	Iowa	BAL FA	20 CFA	2
+98	Williams, Brandon	NT	02/21/1989	32	6' 01"	335	Missouri Southern	BAL	13 03 094	9
+34	Williams, Ty'Son	RB	09/04/1996	25	6' 00"	220	BYU	BAL FA	20 CFA	1
+25	Young, Tavon	CB	03/14/1994	27	5' 09"	183	Temple	BAL	16 04 104	6
+70	Zeitler, Kevin	OG	03/08/1990	31	6' 04"	314	Wisconsin	CIN	12 01 027	10

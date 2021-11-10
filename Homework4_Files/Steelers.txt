@@ -1,0 +1,54 @@
+27	Allen, Marcus	FS	08/07/1996	25	6' 02"	215	Penn State	PIT	18 05 148	3
+29	Ballage, Kalen	RB	12/22/1995	25	6' 01"	228	Arizona State	MIA	18 04 131	4
+72	Banner, Zach	OT	12/25/1993	27	6' 08"	361	USC	IND	17 04 137	5
+9	Boswell, Chris	PK	03/16/1991	30	6' 02"	185	Rice	HOU FA	14 CFA	7
+96	Buggs, Isaiah	DT	08/24/1996	25	6' 03"	306	Alabama	PIT	19 06 192	3
+55	Bush Jr., Devin	IB	07/18/1998	23	5' 11"	234	Michigan	PIT	19 01 010	3
+98	Charlton, Taco	DE	11/07/1994	27	6' 06"	277	Michigan	DAL	17 01 028	5
+11	Claypool, Chase	WR	07/07/1998	23	6' 04"	238	Notre Dame	PIT	20 02 049	2
+69	Dotson, Kevin	OG	09/18/1996	25	6' 04"	310	Louisiana	PIT	20 04 135	2
+85	Ebron, Eric	TE	04/10/1993	28	6' 04"	250	North Carolina	DET	14 01 010	8
+34	Edmunds, Terrell	FS	01/20/1997	24	6' 00"	217	Virginia Tech	PIT	18 01 028	4
+67	Finney, BJ	OC	10/26/1991	30	6' 04"	318	Kansas State	PIT FA	15 CFA	6
+39	Fitzpatrick, Minkah	FS	11/17/1996	24	6' 00"	204	Alabama	MIA	18 01 011	4
+88	Freiermuth, Pat	TE	10/25/1998	23	6' 05"	258	Penn State	PIT	21 02 055	R
+81	Gentry, Zach	TE	09/10/1996	25	6' 08"	262	Michigan	PIT	19 05 141	3
+54	Gilbert III, Ulysees	IB	08/09/1997	24	6' 00"	228	Akron	PIT	19 06 207	3
+53	Green, Kendrick	OC/OG	12/22/1998	22	6' 02"	305	Illinois	PIT	21 03 087	R
+23	Haden, Joe	CB	04/14/1989	32	5' 11"	193	Florida	CLE	10 01 007	12
+71	Haeg, Joe	OT	03/11/1993	28	6' 06"	304	North Dakota State	IND	16 05 155	6
+22	Harris, Najee	RB	03/09/1998	23	6' 02"	230	Alabama	PIT	21 01 024	R
+6	Harvin III, Pressley	PT	09/17/1998	23	5' 11"	263	Georgia Tech	PIT	21 07 254	R
+3	Haskins, Dwayne	QB	05/03/1997	24	6' 03"	231	Ohio State	WAS	19 01 015	3
+60	Hassenauer, JC	OC	09/01/1994	27	6' 02"	299	Alabama	ATL FA	18 CFA	2
+97	Heyward, Cameron	DE	05/06/1989	32	6' 05"	294	Ohio State	PIT	11 01 031	11
+56	Highsmith, Alex	OB	08/07/1997	24	6' 03"	248	UNC Charlotte	PIT	20 03 102	2
+45	Johnson, Buddy	IB	02/27/1999	22	6' 01"	232	Texas A&M	PIT	21 04 140	R
+18	Johnson, Diontae	WR	07/05/1996	25	5' 10"	183	Toledo	PIT	19 03 066	3
+28	Killebrew, Miles	SS	05/10/1993	28	6' 02"	219	Southern Utah	DET	16 04 111	6
+46	Kuntz, Christian	OB	04/13/1994	27	6' 01"	223	Duquesne	NE FA	17 CFA	1
+31	Layne, Justin	CB	01/12/1998	23	6' 02"	192	Michigan State	PIT	19 03 083	3
+92	Loudermilk, Isaiahh	DT	10/10/1997	24	6' 06"	291	Wisconsin	PIT	21 05 156	R
+35	Maulet, Arthur	CB	07/13/1993	28	5' 11"	190	Memphis	NO FA	17 CFA	5
+14	McCloud, Ray-Ray	WR	10/15/1996	25	5' 09"	190	Clemson	BUF	18 06 187	4
+26	McFarland Jr., Anthony	RB	03/04/1998	23	5' 08"	208	Maryland	PIT	20 04 124	2
+99	Mondeaux, Henry	DT	09/19/1995	26	6' 04"	286	Oregon	NO FA	18 CFA	2
+65	Moore Jr., Dan	OT	09/28/1998	23	6' 05"	309	Texas A&M	PIT	21 04 128	R
+21	Norwood, Tre	FS	04/19/1999	22	6' 00"	192	Oklahoma	PIT	21 07 245	R
+76	Okorafor, Chukwuma	OT	08/08/1997	24	6' 06"	320	Western Michigan	PIT	18 03 092	4
+42	Pierre, James	CB	09/16/1996	25	6' 00"	183	Florida Atlantic	PIT FA	20 CFA	2
+87	Rader, Kevin	TE	04/26/1995	26	6' 04"	250	Youngstown State	GB FA	18 CFA	1
+7	Roethlisberger, Ben	QB	03/02/1982	39	6' 05"	241	Miami University	PIT	04 01 011	18
+2	Rudolph, Mason	QB	07/17/1995	26	6' 05"	235	Oklahoma State	PIT	18 03 076	4
+93	Schobert, Joe	IB/OB	11/06/1993	28	6' 01"	244	Wisconsin	CLE	16 04 099	6
+24	Snell Jr., Benny	RB	02/27/1998	23	5' 10"	224	Kentucky	PIT	19 04 122	3
+41	Spillane, Robert	LB	12/14/1995	25	6' 02"	220	Western Michigan	TEN FA	18 CFA	3
+20	Sutton, Cameron	CB	02/27/1995	26	5' 11"	188	Tennessee	PIT	17 03 094	5
+51	Turner, Trai	OG	06/14/1993	28	6' 03"	310	LSU	CAR	14 03 092	8
+48	Tuszka, Derrek	DE	08/17/1997	24	6' 04"	251	North Dakota State	DEN	20 07 254	2
+13	Washington, James	WR	04/02/1996	25	5' 11"	213	Oklahoma State	PIT	18 02 060	4
+44	Watt, Derek	FB	11/07/1992	29	6' 02"	234	Wisconsin	SD	16 06 198	6
+90	Watt, TJ	OB	10/11/1994	27	6' 04"	252	Wisconsin	PIT	17 01 030	5
+15	White, Cody	WR	11/28/1998	22	6' 03"	215	Michigan State	KC FA	20 CFA	1
+25	Witherspoon, Ahkello	CB	03/21/1995	26	6' 03"	198	Colorado	SF	17 03 066	5
+95	Wormley, Chris	DT	10/25/1993	28	6' 05"	297	Michigan	BAL	17 03 074	5

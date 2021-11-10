@@ -1,0 +1,53 @@
+93	Allen, Jonathan	DT	01/16/1995	26	6' 03"	286	Alabama	WAS	17 01 017	5
+8	Allen, Kyle	QB	03/08/1996	25	6' 03"	210	Houston	CAR FA	18 CFA	3
+30	Apke, Troy	SS	04/11/1995	26	6' 01"	200	Penn State	WAS	18 04 109	4
+87	Bates, John	TE	11/06/1997	24	6' 05"	250	Boise State	WAS	21 04 124	R
+0	Blewitt, Chris	PK	05/02/1995	26	5' 09"	190	Pittsburgh	CHI FA	19 SFA	1
+2	Brown, Dyami	WR	11/01/1999	22	6' 01"	185	North Carolina	WAS	21 03 082	R
+1	Carter, DeAndre	WR	04/10/1993	28	5' 09"	191	Sacramento State	BAL FA	15 CFA	4
+77	Charles, Saahdiq	OG	07/26/1999	22	6' 04"	321	LSU	WAS	20 04 108	2
+54	Cheeseman, Camaron	LS	04/26/1998	23	6' 04"	237	Michigan	WAS	21 06 225	R
+26	Collins, Landon	SS	01/10/1994	27	6' 00"	215	Alabama	NYG	15 02 033	7
+76	Cosmi, Samuel	OT	02/16/1999	22	6' 06"	314	Texas	WAS	21 02 051	R
+31	Curl, Kamren	SS	03/31/1999	22	6' 01"	206	Arkansas	WAS	20 07 216	2
+52	Davis, Jamin	IB	12/12/1998	22	6' 04"	234	Kentucky	WAS	21 01 019	R
+0	Elder, Corn	CB	10/09/1994	27	5' 10"	183	Miami	CAR	17 05 152	5
+22	Everett, Deshazor	CB	02/22/1992	29	5' 10"	185	Texas A&M	TB FA	15 CFA	7
+79	Flowers, Ereck	OG/OT	04/25/1994	27	6' 06"	329	Miami	NYG	15 01 009	7
+48	Forrest, Darrick	FS	05/22/1999	22	6' 00"	202	Cincinnati	WAS	21 05 163	R
+29	Fuller, Kendall	CB	02/13/1995	26	5' 11"	187	Virginia Tech	WAS	16 03 084	6
+18	Gandy-Golden, Antonio	WR	04/11/1998	23	6' 04"	223	Liberty	WAS	20 04 142	2
+24	Gibson, Antonio	RB	06/23/1998	23	6' 00"	228	Memphis	WAS	20 03 066	2
+4	Heinicke, Taylor	QB	03/15/1993	28	6' 00"	198	Old Dominion	MIN FA	15 CFA	4
+55	Holcomb, Cole	IB	07/30/1996	25	6' 01"	233	North Carolina	WAS	19 05 173	3
+47	Hudson, Khaleke	OB	12/06/1997	23	5' 11"	224	Michigan	WAS	20 05 162	2
+13	Humphries, Adam	WR	06/24/1993	28	5' 11"	190	Clemson	TB FA	15 CFA	7
+98	Ioannidis, Matt	DT	01/11/1994	27	6' 03"	299	Temple	WAS	16 05 152	6
+60	Ismael, Keith	OC	07/25/1998	23	6' 03"	300	San Diego State	WAS	20 05 156	2
+23	Jackson III, William	CB	10/27/1992	29	6' 00"	189	Houston	CIN	16 01 024	6
+36	Johnson, Danny	CB	11/17/1995	25	5' 09"	181	Southern	WAS FA	18 CFA	4
+59	Kunaszyk, Jordan	IB	10/15/1996	25	6' 03"	234	California	CAR FA	19 CFA	2
+69	Larsen, Tyler	OC	07/08/1991	30	6' 04"	313	Utah State	MIA FA	14 CFA	6
+72	Leno Jr., Charles	OG/OT	10/09/1991	30	6' 04"	303	Boise State	CHI	14 07 246	8
+78	Lucas, Cornelius	OT	07/18/1991	30	6' 08"	316	Kansas State	DET FA	14 CFA	7
+51	Mayo, David	IB	08/18/1993	28	6' 02"	228	Texas State	CAR	15 05 169	7
+20	McCain, Bobby	CB	08/18/1993	28	5' 09"	195	Memphis	MIA	15 05 145	7
+41	McKissic, JD	WR/RS	08/15/1993	28	5' 10"	190	Arkansas State	ATL FA	16 CFA	5
+17	McLaurin, Terry	WR	04/15/1996	25	6' 00"	208	Ohio State	WAS	19 03 076	3
+15	Milne, Dax	WR	06/23/1999	22	6' 01"	193	BYU	WAS	21 07 258	R
+32	Patterson, Jaret	RB	12/23/1999	21	5' 06"	195	Buffalo	WAS FA	21 CFA	R
+94	Payne, Da'Ron	DT	05/27/1997	24	6' 02"	311	Alabama	WAS	18 01 013	4
+80	Reyes, Sammis	TE	10/19/1995	26	6' 05"	270	Tulane	WAS FA	21 SFA	1
+10	Samuel, Curtis	WR	08/11/1996	25	5' 11"	196	Ohio State	CAR	17 02 040	5
+75	Scherff, Brandon	OG	12/26/1991	29	6' 05"	319	Iowa	WAS	15 01 005	7
+71	Schweitzer, Wes	OT	09/11/1993	28	6' 04"	290	San Jose State	ATL	16 06 195	6
+83	Seals-Jones, Ricky	TE	03/15/1995	26	6' 05"	243	Texas A&M	ARZ FA	17 CFA	5
+97	Settle, Tim	DT	07/11/1997	24	6' 03"	329	Virginia Tech	WAS	18 05 163	4
+11	Sims, Cam	WR	01/06/1996	25	6' 05"	214	Alabama	WAS FA	18 CFA	4
+96	Smith-Williams, James	DE	07/30/1997	24	6' 03"	265	North Carolina State	WAS	20 07 229	2
+25	St-Juste, Benjamin	CB	09/08/1997	24	6' 03"	200	Minnesota	WAS	21 03 074	R
+90	Sweat, Montez	DE	09/04/1996	25	6' 06"	260	Mississippi State	WAS	19 01 026	3
+58	Toney, Shaka	OB	01/07/1998	23	6' 02"	238	Penn State	WAS	21 07 246	R
+95	Toohill, Casey	OB	08/21/1996	25	6' 04"	250	Stanford	PHI	20 07 233	2
+5	Way, Tress	PT	04/18/1990	31	6' 01"	215	Oklahoma	CHI FA	13 CFA	8
+99	Young, Chase	DE	04/14/1999	22	6' 05"	264	Ohio State	WAS 	20 01 002	2

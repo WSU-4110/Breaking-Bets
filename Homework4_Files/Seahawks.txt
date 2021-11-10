@@ -1,0 +1,53 @@
+33	Adams, Jamal	SS	10/17/1995	26	6' 00"	214	LSU	NYJ	17 01 006	4
+28	Amadi, Ugochukwu	FS	05/16/1997	24	5' 09"	199	Oregon	SEA	19 04 132	3
+31	Austin, Blessuan	CB	07/19/1996	25	6' 01"	198	Rutgers	NYJ	19 06 196	3
+57	Barton, Cody	IB	11/13/1996	25	6' 02"	237	Utah	SEA	19 03 088	3
+44	Bellore, Nick	FB	04/23/1989	32	6' 01"	250	Central Michigan	NYJ FA	11 CFA	11
+27	Blair, Marquise	SS	07/18/1997	24	6' 01"	195	Utah	SEA	19 02 047	3
+56	Brooks, Jordyn	IB	10/21/1997	24	6' 00"	240	Texas Tech	SEA	20 01 027	2
+76	Brown, Duane	OT	08/30/1985	36	6' 04"	315	Virginia Tech	HOU	08 01 026	14
+22	Brown, Tre	CB	09/24/1997	24	5' 10"	188	Oklahoma	SEA	21 04 137	R
+91	Collier, LJ	DE	09/12/1995	26	6' 02"	283	TCU	SEA	19 01 029	3
+41	Collins, Alex	RB	08/26/1994	27	5' 10"	217	Arkansas	SEA	16 05 171	4
+74	Curhan, Jake	OG	02/09/1998	23	6' 06"	323	California	SEA FA	21 CFA	R
+31	Dallas, DeeJay	RB	09/16/1998	23	5' 10"	217	Miami	SEA	20 04 144	2
+4	Dickson, Michael	PT	01/04/1996	25	6' 02"	208	Texas	SEA	18 05 149	4
+6	Diggs, Quandre	CB	01/22/1993	28	5' 09"	196	Texas	DET	15 06 200	7
+89	Dissly, Will	TE	07/08/1996	25	6' 04"	262	Washington	SEA	18 04 120	4
+8	Dunlap, Carlos	DE	02/28/1989	32	6' 06"	277	Florida	CIN	10 02 054	12
+0	Eason, Jacob	QB	11/17/1997	23	6' 06"	231	Washington	IND	20 04 122	2
+81	Everett, Gerald	TE	06/25/1994	27	6' 03"	239	South Alabama	LAR	17 02 044	5
+97	Ford, Poona	DT	11/19/1995	25	5' 11"	309	Texas	SEA FA	18 CFA	4
+78	Forsythe, Stone	OT	12/29/1997	23	6' 07"	332	Florida	SEA	21 06 208	R
+61	Fuller, Kyle	OC	03/04/1994	27	6' 05"	307	Baylor	HOU	17 07 243	3
+94	Green, Rasheem	DT	05/15/1997	24	6' 04"	275	USC	SEA	18 03 079	4
+19	Hart, Penny	WR	07/05/1996	25	5' 08"	180	Georgia State	IND FA	19 CFA	2
+25	Homer, Travis	RB	08/07/1998	23	5' 10"	201	Miami	SEA	19 06 204	3
+51	Hyder, Kerry	DE	05/02/1991	30	6' 02"	290	Texas Tech	NYJ FA	14 CFA	6
+66	Jackson, Gabe	OG	07/12/1991	30	6' 03"	336	Mississippi State	OAK	14 03 081	8
+73	Jones, Jamarco	OG	06/04/1996	25	6' 04"	299	Ohio State	SEA	18 05 168	4
+23	Jones, Sidney	CB	05/23/1996	25	6' 00"	186	Washington	PHI	17 02 043	4
+68	Lewis, Damien	OG	03/21/1997	24	6' 02"	327	LSU	SEA	20 03 069	2
+16	Lockett, Tyler	WR	09/28/1992	29	5' 10"	182	Kansas State	SEA	15 03 069	7
+85	Mabry, Tyler	TE	11/21/1996	24	6' 03"	247	Maryland	SEA FA	20 CFA	1
+10	Mayowa, Benson	DE	08/03/1991	30	6' 03"	236	Idaho	SEA FA	13 CFA	9
+14	Metcalf, DK	WR	12/14/1997	23	6' 03"	228	Mississippi	SEA	19 02 064	3
+90	Mone, Bryan	DT	10/20/1995	26	6' 04"	335	Michigan	SEA FA	19 CFA	2
+5	Myers, Jason	PK	05/12/1991	30	5' 11"	190	Marist	JAX FA	15 SFA	7
+26	Neal, Ryan	S	12/24/1995	25	6' 02"	187	Southern Illinois	PHI FA	18 CFA	2
+92	Nkemdiche, Robert	DT	09/19/1994	27	6' 03"	294	Mississippi	ARZ	16 01 029	4
+69	Ott, Tyler	LS	02/28/1992	29	6' 03"	245	Harvard	NE FA	14 CFA	7
+84	Parkinson, Colby	TE	01/08/1999	22	6' 07"	252	Stanford	SEA	20 04 133	2
+20	Penny, Rashaad	RB	02/02/1996	25	5' 11"	220	San Diego State	SEA	18 01 027	4
+77	Pocic, Ethan	OC	08/05/1995	26	6' 06"	307	LSU	SEA	17 02 058	5
+2	Reed, DJ	CB	11/11/1996	25	5' 09"	188	Kansas State	SF	18 05 142	4
+29	Reid, John	CB	05/15/1996	25	5' 10"	187	Penn State	HOU	20 04 141	2
+59	Rhattigan, Jon	OB	02/02/1999	22	6' 01"	232	Army	SEA FA	21 CFA	R
+98	Robinson, Alton	DE	06/02/1998	23	6' 03"	264	Syracuse	SEA	20 05 148	2
+72	Shell, Brandon	OT	02/06/1992	29	6' 05"	324	South Carolina	NYJ	16 05 158	6
+64	Shepley, Dakoda	OT	12/27/1994	26	6' 05"	315	British Columbia, Can	NYJ FA	18 CFA	1
+7	Smith, Geno	QB	10/10/1990	31	6' 02"	218	West Virginia	NYJ	13 02 039	9
+18	Swain, Freddie	WR	08/04/1998	23	6' 00"	197	Florida	SEA	20 06 214	2
+52	Taylor, Darrell	OB	03/24/1997	24	6' 04"	267	Tennessee	SEA	20 02 048	1
+54	Wagner, Bobby	MLB	06/27/1990	31	6' 00"	241	Utah State	SEA	12 02 047	10
+99	Woods, Al	DE	05/25/1987	34	6' 04"	314	LSU	NO	10 04 123	11

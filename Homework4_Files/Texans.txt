@@ -1,0 +1,53 @@
+88	Akins, Jordan	TE	04/19/1992	29	6' 03"	249	Central Florida	HOU	18 03 098	4
+89	Amendola, Danny	WR	11/02/1985	36	5' 10"	186	Texas Tech	DAL FA	08 CFA	12
+83	Auclair, Antony	TE	05/28/1993	28	6' 06"	256	Laval	TB FA	17 CFA	5
+90	Blacklock, Ross	DT	07/09/1998	23	6' 03"	290	TCU	HOU	20 02 040	2
+85	Brown, Pharaoh	TE	05/04/1994	27	6' 05"	246	Oregon	OAK FA	17 CFA	4
+28	Burkhead, Rex	RB	07/02/1990	31	5' 10"	214	Nebraska	CIN	13 06 190	9
+72	Christian, Geron	OT	09/10/1996	25	6' 05"	298	Louisville	WAS	18 03 074	4
+97	Collins, Maliek	DT	04/08/1995	26	6' 02"	311	Nebraska	DAL	16 03 067	6
+12	Collins, Nico	WR	03/19/1999	22	6' 04"	215	Michigan	HOU	21 03 089	R
+18	Conley, Chris	WR	10/25/1992	29	6' 02"	213	Georgia	KC	15 03 076	7
+13	Cooks, Brandin	WR	09/25/1993	28	5' 10"	189	Oregon State	NO	14 01 020	8
+41	Cunningham, Zach	IB	12/12/1994	26	6' 03"	234	Vanderbilt	HOU	17 02 057	5
+0	Davis, Davion	WR	10/23/1996	25	5' 10"	182	Sam Houston State	MIN FA	19 CFA	2
+6	Driskel, Jeff	QB	04/23/1993	28	6' 04"	234	Louisiana Tech	SF	16 06 207	6
+7	Fairbairn, Ka'imi	PK	01/29/1994	27	5' 11"	182	UCLA	HOU FA	16 CFA	6
+52	Greenard, Jonathan	DE	05/25/1997	24	6' 03"	263	Florida	HOU	20 03 090	2
+51	Grugier-Hill, Kamu	LB	05/16/1994	27	6' 02"	215	Eastern Illinois	NE	16 06 208	6
+67	Heck, Charlie	OT	11/20/1996	24	6' 08"	309	North Carolina	HOU	20 04 126	2
+43	Hewitt, Neville	LB	04/06/1993	28	6' 02"	235	Marshall	MIA FA	15 CFA	7
+71	Howard, Tytus	OT	05/23/1996	25	6' 05"	322	Alabama State	HOU	19 01 023	3
+50	Jenkins, Jordan	OB	07/01/1994	27	6' 03"	259	Georgia	NYJ	16 03 083	6
+31	Johnson, David	RB	12/16/1991	29	6' 01"	224	Northern Iowa	ARZ	15 03 086	7
+93	Johnson, Jaleel	DT	07/12/1994	27	6' 03"	309	Iowa	MIN	17 04 109	5
+1	Johnson Jr., Lonnie	CB	11/04/1995	26	6' 02"	213	Kentucky	HOU	19 02 054	3
+11	Johnston, Cameron	PT	02/24/1992	29	6' 00"	197	Ohio State	PHI FA	17 CFA	4
+9	Jordan, Brevin	TE	07/16/2000	21	6' 03"	245	Miami	HOU	21 05 147	R
+25	King II, Desmond	CB	12/14/1994	26	5' 10"	206	Iowa	LAC	17 05 151	5
+34	LeBlanc, Cre'von	CB	07/25/1994	27	5' 10"	192	Florida Atlantic	NE FA	16 CFA	6
+30	Lindsay, Phillip	RB	07/24/1994	27	5' 07"	185	Colorado	DEN FA	18 CFA	4
+91	Lopez, Roy	DT	08/07/1997	24	6' 01"	302	Arizona	HOU	21 06 195	R
+54	Martin, Jacob	OB	12/11/1995	25	6' 02"	236	Temple	SEA	18 06 186	4
+64	McCray, Justin	OG	05/31/1992	29	6' 03"	310	Central Florida	TEN FA	14 CFA	5
+10	Mills, Davis	QB	10/21/1998	23	6' 04"	217	Stanford	HOU	21 03 067	R
+39	Mitchell, Terrance	CB	05/27/1992	29	5' 11"	192	Oregon	DAL	14 07 254	8
+33	Moore, AJ	CB	12/15/1995	25	5' 11"	201	Mississippi	NE FA	18 CFA	4
+15	Moore, Chris	WR	06/16/1993	28	6' 01"	206	Cincinnati	BAL	16 04 107	6
+22	Moreland, Jimmy	CB	08/26/1995	26	5' 10"	179	James Madison	WAS	19 07 227	3
+0	Morrissey, Jimmy	OC	06/09/1998	23	6' 03"	303	Pittsburgh	LV	21 07 230	R
+23	Murray, Eric	CB	01/07/1994	27	5' 11"	199	Minnesota	KC	16 04 106	6
+56	Nickerson Jr., Hardy	IB	01/05/1994	27	6' 00"	236	Illinois	CIN FA	17 CFA	5
+27	Phillips, Scottie	RB	10/06/1997	24	5' 08"	207	Mississippi	HOU FA	20 CFA	2
+57	Pierre-Louis, Kevin	OB	10/07/1991	30	6' 00"	232	Boston College	SEA	14 04 132	8
+20	Reid, Justin	SS	02/15/1997	24	6' 00"	207	Stanford	HOU	18 03 068	4
+74	Scharping, Max	OT	08/10/1996	25	6' 06"	327	Northern Illinois	HOU	19 02 055	3
+24	Smith, Tremon	CB	07/20/1996	25	6' 00"	186	Central Arkansas	KC	18 06 196	4
+5	Taylor, Tyrod	QB	08/03/1989	32	6' 01"	215	Virginia Tech	BAL	11 06 180	11
+37	Thomas, Tavierre	CB	03/11/1996	25	6' 00"	202	Ferris State	ARZ FA	18 CFA	4
+0	Toner, Cole	OT	03/13/1994	27	6' 05"	306	Harvard	ARZ	16 05 170	4
+55	Walker, DeMarcus	DE	09/30/1994	27	6' 04"	280	Florida State	DEN	17 02 051	5
+32	Wallow, Garret	IB	01/25/1999	22	6' 01"	222	TCU	HOU	21 05 170	R
+4	Watson, Deshaun	QB	09/14/1995	26	6' 02"	221	Clemson	HOU	17 01 012	5
+46	Weeks, Jonathan	LS	02/17/1986	35	5' 10"	251	Baylor	HOU FA	10 CFA	12
+0	Wilson, Eric	IB	09/26/1994	27	6' 01"	225	Cincinnati	MIN FA	17 CFA	5

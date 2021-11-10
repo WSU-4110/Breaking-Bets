@@ -1,0 +1,55 @@
+64	Bars, Alex	OG	09/08/1995	26	6' 06"	318	Notre Dame	CHI FA	19 CFA	3
+90	Blackson, Angelo	NT	11/14/1992	29	6' 04"	318	Auburn	TEN	15 04 100	7
+75	Borom, Larry	OT	03/30/1999	22	6' 05"	322	Missouri	CHI	21 05 151	R
+25	Burns, Artie	CB	05/01/1995	26	6' 00"	193	Miami	PIT	16 01 025	6
+10	Byrd, Damiere	WR	01/27/1993	28	5' 09"	162	South Carolina	CAR FA	15 CFA	6
+23	Christian, Marqui	SS	10/27/1994	27	5' 11"	194	Midwestern State	ARZ	16 05 167	5
+21	Crawford, Xavier	CB	12/10/1995	25	5' 11"	187	Central Michigan	HOU	19 06 195	2
+14	Dalton, Andy	QB	10/29/1987	34	6' 02"	215	TCU	CIN	11 02 035	11
+68	Daniels, James	OC	09/13/1997	24	6' 03"	306	Iowa	CHI	18 02 039	4
+97	Edwards Jr., Mario	DE	04/19/1994	27	6' 03"	279	Florida State	OAK	15 02 035	7
+1	Fields, Justin	QB	03/05/1999	22	6' 03"	228	Ohio State	CHI	21 01 011	R
+9	Foles, Nick	QB	01/20/1989	32	6' 05"	243	Arizona	PHI	12 03 088	10
+38	Gipson, Tashaun	FS	08/07/1990	31	5' 11"	205	Wyoming	CLE FA	12 CFA	10
+99	Gipson, Trevis	DE	06/13/1997	24	6' 03"	261	Tulsa	CHI	20 05 155	2
+91	Goldman, Eddie	NT	01/06/1994	27	6' 04"	336	Florida State	CHI	15 02 039	6
+84	Goodwin, Marquise	WR	11/19/1990	30	5' 09"	183	Texas	BUF	13 03 078	8
+80	Graham, Jimmy	TE	11/24/1986	34	6' 06"	259	Miami	NO	10 03 095	12
+0	Grant, Jakeem	WR/RS	10/30/1992	29	5' 06"	169	Texas Tech	MIA	16 06 186	6
+24	Herbert, Khalil	RB	04/21/1998	23	5' 09"	204	Virginia Tech	CHI	21 06 217	R
+96	Hicks, Akiem	DE	11/16/1989	32	6' 05"	318	Regina - Canada	NO	12 03 089	10
+81	Holtz, JP	TE	08/28/1993	28	6' 03"	242	Pittsburgh	CLE FA	16 CFA	3
+87	Horsted, Jesper	TE/WR	02/27/1997	24	6' 03"	224	Princeton	CHI FA	19 CFA	2
+36	Houston-Carson, DeAndre	FS	04/13/1993	28	6' 01"	201	William & Mary	CHI	16 06 185	6
+45	Iyiegbuniwe, Joel	OB	10/12/1995	26	6' 01"	229	Western Kentucky	CHI	18 04 115	4
+4	Jackson, Eddie	FS	12/10/1994	26	6' 00"	201	Alabama	CHI	17 04 112	5
+18	James, Jesse	TE	06/04/1994	27	6' 07"	261	Penn State	PIT	15 05 160	7
+92	Johnson, Caleb	OB	07/28/1998	23	6' 02"	220	Houston Baptist	CHI FA	21 CFA	R
+33	Johnson, Jaylon	CB	04/19/1999	22	6' 00"	193	Utah	CHI	20 02 050	2
+57	Jones, Christian	IB	02/18/1991	30	6' 03"	240	Florida State	CHI FA	14 CFA	8
+78	Kamara, Sam	LB	12/21/1997	23	6' 02"	275	Stony Brook	CHI FA	21 CFA	R
+85	Kmet, Cole	TE	03/10/1999	22	6' 06"	262	Notre Dame	CHI	20 02 043	2
+52	Mack, Khalil	OB	02/22/1991	30	6' 03"	251	Buffalo	OAK	14 01 005	8
+0	Marsh, Cassius	DE	07/07/1992	29	6' 04"	252	UCLA	SEA	14 04 108	8
+32	Montgomery, David	RB	06/07/1997	24	5' 10"	222	Iowa State	CHI	19 03 073	3
+11	Mooney, Darnell	WR	10/29/1997	24	5' 10"	169	Tulane	CHI	20 05 173	2
+67	Mustipher, Sam	OC	08/13/1996	25	6' 02"	305	Notre Dame	CHI FA	19 CFA	2
+35	Nall, Ryan	RB	12/27/1995	25	6' 02"	232	Oregon State	CHI FA	18 CFA	3
+98	Nichols, Bilal	DT	09/14/1996	25	6' 04"	306	Delaware	CHI	18 05 145	4
+16	O'Donnell, Pat	PT	02/22/1991	30	6' 04"	220	Miami	CHI	14 06 191	8
+44	Ogletree, Alec	ILB	09/25/1991	30	6' 02"	242	Georgia	SL	13 01 030	8
+71	Peters, Jason	OT	01/22/1982	39	6' 04"	340	Arkansas	BUF FA	04 CFA	18
+94	Quinn, Robert	DE	05/18/1990	31	6' 04"	265	North Carolina	SL	11 01 014	11
+12	Robinson, Allen	WR	08/24/1993	28	6' 03"	220	Penn State	JAX	14 02 061	8
+2	Santos, Cairo	PK	11/12/1991	30	5' 08"	164	Tulane	KC FA	14 CFA	7
+48	Scales, Patrick	LS	02/11/1988	33	6' 04"	248	Utah State	BAL FA	11 CFA	6
+20	Shelley, Duke	CB	10/08/1996	25	5' 08"	174	Kansas State	CHI	19 06 205	3
+73	Simmons, Lachavious	OG	09/26/1996	25	6' 05"	315	Tennessee State	CHI	20 07 227	2
+58	Smith, Roquan	IB	04/08/1997	24	6' 01"	236	Georgia	CHI	18 01 008	4
+37	Tabor, Jalen	CB	12/31/1995	25	6' 00"	199	Florida	DET	17 02 053	3
+95	Tonga, Khyiris	DT	07/07/1996	25	6' 02"	326	BYU	CHI	21 07 250	R
+6	Trevathan, Danny	ILB	03/24/1990	31	6' 00"	237	Kentucky	DEN	12 06 188	10
+22	Vildor, Kindle	CB	12/11/1997	23	5' 10"	191	Georgia Southern	CHI	20 05 163	2
+65	Whitehair, Cody	OG	07/11/1992	29	6' 04"	301	Kansas State	CHI	16 02 056	6
+70	Wilkinson, Elijah	OT	02/10/1995	26	6' 05"	329	Massachusetts	DEN FA	17 CFA	5
+8	Williams, Damien	RB	04/03/1992	29	5' 11"	222	Oklahoma	MIA FA	14 CFA	7

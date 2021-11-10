@@ -1,0 +1,53 @@
+26	Ahmed, Salvon	RB	12/29/1998	22	5' 11"	197	Washington	SF FA	20 CFA	2
+55	Baker, Jerome	OB	12/25/1996	24	6' 01"	229	Ohio State	MIA	18 03 073	4
+14	Brissett, Jacoby	QB	12/11/1992	28	6' 04"	236	North Carolina St	NE	16 03 091	6
+70	Butler, Adam	DT	04/12/1994	27	6' 04"	301	Vanderbilt	NE FA	17 CFA	5
+22	Campbell, Elijah	S	08/24/1995	26	5' 10"	196	Northern Iowa	CLE FA	18 CFA	1
+82	Carter, Cethan	TE	09/05/1993	28	6' 03"	237	Nebraska	CIN FA	17 CFA	5
+27	Coleman, Justin	CB	03/27/1993	28	5' 11"	185	Tennessee	MIN FA	15 CFA	7
+77	Davis, Jesse	OT	09/15/1991	30	6' 06"	310	Idaho	SEA FA	15 CFA	5
+98	Davis, Raekwon	DE	08/21/1997	24	6' 06"	311	Alabama	MIA	20 02 056	2
+49	Eguavoen, Sam	IB	02/22/1993	28	6' 01"	229	Texas Tech	MIA FA	19 SFA	3
+74	Eichenberg, Liam	OT	01/19/1998	23	6' 05"	302	Notre Dame	MIA	21 02 042	R
+42	Fejedelem, Clayton	FS	06/02/1993	28	6' 00"	200	Illinois	CIN	16 07 245	6
+44	Ferguson, Blake	LS	04/21/1997	24	6' 03"	235	LSU	MIA	20 06 185	2
+87	Ford, Isaiah	WR	02/09/1996	25	6' 01"	194	Virginia Tech	MIA	17 07 237	4
+37	Gaskin, Myles	RB	02/15/1997	24	5' 09"	205	Washington	MIA	19 07 234	3
+88	Gesicki, Mike	TE	10/03/1995	26	6' 05"	247	Penn State	MIA	18 02 042	4
+0	Hodge, Darius	OB	07/03/1998	23	6' 02"	245	Marshall	CIN FA	21 CFA	R
+8	Holland, Jevon	FS	03/03/2000	21	6' 01"	200	Oregon	MIA	21 02 036	R
+86	Hollins, Mack	WR	09/16/1993	28	6' 04"	221	North Carolina	PHI	17 04 118	5
+25	Howard, Xavien	CB	07/04/1993	28	6' 00"	201	Baylor	MIA	16 02 038	6
+68	Hunt, Robert	OG	08/25/1996	25	6' 05"	323	Louisiana	MIA	20 02 039	2
+9	Igbinoghene, Noah	CB	11/27/1999	21	5' 10"	198	Auburn	MIA	20 01 030	2
+73	Jackson, Austin	OT	05/17/1999	22	6' 05"	322	USC	MIA	20 01 018	2
+90	Jenkins, John	NT	07/11/1989	32	6' 04"	346	Georgia	NO	13 03 082	9
+29	Jones, Brandon	FS	04/02/1998	23	5' 11"	198	Texas	MIA	20 03 070	2
+24	Jones, Byron	CB	09/26/1992	29	6' 01"	199	Connecticut	DAL	15 01 027	7
+65	Jones, Robert	OG	01/28/1999	22	6' 04"	319	Middle Tennessee State	MIA FA	21 CFA	R
+66	Kindley, Solomon	OG	07/31/1997	24	6' 03"	337	Georgia	MIA	20 04 111	2
+32	Laird, Patrick	RB	08/17/1995	26	6' 00"	201	California	MIA FA	19 CFA	3
+75	Little, Greg	OT	11/04/1997	24	6' 05"	310	Mississippi	CAR	19 02 037	3
+84	Long, Hunter	TE	08/19/1998	23	6' 05"	254	Boston College	MIA	21 03 081	R
+62	Mancz, Greg	OC	04/23/1992	29	6' 04"	301	Toledo	HOU FA	15 CFA	6
+40	Needham, Nik	CB	11/04/1996	25	5' 11"	197	UTEP	MIA FA	19 CFA	3
+91	Ogbah, Emmanuel	DE	11/06/1993	28	6' 04"	273	Oklahoma State	CLE	16 02 032	6
+5	Palardy, Michael	PT	07/06/1992	29	5' 11"	189	Tennessee	OAK FA	14 CFA	5
+15	Phillips, Jaelan	OLB/D	05/28/1999	22	6' 05"	266	Miami	MIA	21 01 018	R
+0	Redwine, Sheldrick	FS	11/06/1996	25	6' 00"	196	Miami	CLE	19 04 119	3
+0	Reiter, Austin	OC	11/27/1991	29	6' 03"	300	South Florida	WAS	15 07 222	5
+45	Riley, Duke	OB	08/09/1994	27	6' 01"	231	LSU	ATL	17 03 075	5
+52	Roberts, Elandon	IB	04/22/1994	27	6' 00"	235	Houston	NE	16 06 214	6
+21	Rowe, Eric	CB	10/03/1992	29	6' 01"	205	Utah	PHI	15 02 047	7
+7	Sanders, Jason	PK	11/16/1995	26	5' 11"	184	New Mexico	MIA	18 07 229	4
+57	Scarlett, Brennan	LB	07/31/1993	28	6' 04"	264	Stanford	HOU FA	16 CFA	6
+80	Shaheen, Adam	TE	10/24/1994	27	6' 06"	278	Ashland	CHI	17 02 045	5
+92	Sieler, Zach	DE	09/07/1995	26	6' 05"	290	Ferris State	BAL	18 07 238	4
+81	Smythe, Durham	TE	08/09/1995	26	6' 05"	253	Notre Dame	MIA	18 04 123	4
+1	Tagovailoa, Tua	QB	03/02/1998	23	6' 00"	217	Alabama	MIA	20 01 005	2
+43	Van Ginkel, Andrew	OB	07/01/1995	26	6' 03"	241	Wisconsin	MIA	19 05 151	3
+17	Waddle, Jaylen	WR	11/25/1998	22	5' 10"	182	Alabama	MIA	21 01 006	R
+94	Wilkins, Christian	DT	12/20/1995	25	6' 03"	315	Clemson	MIA	19 01 013	3
+18	Williams, Preston	WR	03/27/1997	24	6' 03"	210	Colorado State	MIA FA	19 CFA	3
+6	Williams, Trill	FS	12/29/1999	21	6' 02"	198	Syracuse	NO FA	21 CFA	R
+2	Wilson, Albert	WR	07/12/1992	29	5' 09"	202	Georgia State	KC FA	14 CFA	7

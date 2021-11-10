@@ -1,0 +1,50 @@
+26	Barkley, Saquon	RB	02/07/1997	24	6' 00"	233	Penn State	NYG	18 01 002	4
+34	Beal, Sam	CB	08/30/1996	25	6' 01"	185	Western Michigan	NYG Supp	18 03 Supp	3
+28	Booker, Devontae	RB	05/27/1992	29	5' 11"	219	Utah	DEN	16 04 136	6
+24	Bradberry, James	CB	08/04/1993	28	6' 01"	211	Samford	CAR	16 02 062	6
+68	Bredeson, Ben	OG	02/20/1998	23	6' 05"	316	Michigan	BAL	20 04 143	2
+47	Brown, Cam	OB	04/01/1998	23	6' 05"	233	Penn State	NYG	20 06 183	2
+59	Carter, Lorenzo	OB	12/10/1995	25	6' 05"	250	Georgia	NYG	18 03 066	4
+31	Crossen, Keion	CB	04/17/1996	25	5' 09"	178	Western Carolina	NE	18 07 243	4
+48	Crowder, Tae	IB	03/12/1997	24	6' 02"	241	Georgia	NYG	20 07 255	2
+79	Cunningham, Korey	OT	05/17/1995	26	6' 06"	318	Cincinnati	ARZ	18 07 254	4
+9	Dixon, Riley	PT	07/31/1993	28	6' 04"	221	Syracuse	DEN	16 07 228	6
+43	Ebner, Nate	SS	12/14/1988	32	6' 00"	205	Ohio State	NE	12 06 197	9
+88	Engram, Evan	TE	09/02/1994	27	6' 03"	236	Mississippi	NYG	17 01 023	5
+5	Gano, Graham	PK	04/09/1987	34	6' 01"	192	Florida State	BAL FA	09 CFA	12
+36	Gillaspia, Cullen	FB	05/12/1995	26	6' 02"	235	Texas A&M	HOU	19 07 220	3
+2	Glennon, Mike	QB	12/12/1989	31	6' 07"	225	North Carolina St	TB	13 03 073	9
+19	Golladay, Kenny	WR	11/03/1993	28	6' 04"	218	Northern Illinois	DET	17 03 096	5
+71	Hernandez, Will	OG	09/02/1995	26	6' 02"	327	UTEP	NYG	18 02 034	4
+30	Holmes, Darnay	CB	06/23/1998	23	5' 10"	195	UCLA	NYG	20 04 110	2
+22	Jackson, Adoree`	CB	09/18/1995	26	5' 10"	186	USC	TEN	17 01 018	5
+98	Johnson, Austin	DT	05/08/1994	27	6' 04"	314	Penn State	TEN	16 02 043	6
+15	Johnson, Collin	WR	09/23/1997	24	6' 06"	221	Texas	JAX	20 05 165	2
+91	Johnson III, Raymond	DE			6' 02"	260	Georgia Southern	NYG FA	21 CFA	R
+8	Jones, Daniel	QB	05/27/1997	24	6' 05"	221	Duke	NYG	19 01 006	3
+58	Kreiter, Casey	LS	08/13/1990	31	6' 03"	250	Iowa	DAL FA	14 CFA	5
+97	Lawrence II, Dexter	DT	11/12/1997	24	6' 04"	342	Clemson	NYG	19 01 017	3
+20	Love, Julian	CB	03/19/1998	23	5' 11"	195	Notre Dame	NYG	19 04 108	3
+63	Martin, Wes	OG	05/09/1996	25	6' 02"	303	Indiana	WAS	19 04 131	3
+29	McKinney, Xavier	FS	08/08/1998	23	6' 00"	201	Alabama	NYG	20 02 036	2
+51	Ojulari, Azeez	OB	06/16/2000	21	6' 03"	240	Georgia	NYG	21 02 050	R
+74	Peart, Matt	OT	06/11/1997	24	6' 06"	310	Connecticut	NYG	20 03 099	2
+39	Penny, Elijhaa	RB	08/17/1993	28	6' 01"	233	Idaho	ARZ FA	16 CFA	5
+69	Price, Billy	OC	10/12/1995	26	6' 04"	305	Ohio State	CIN	18 01 021	4
+55	Ragland, Reggie	IB	09/24/1993	28	6' 01"	247	Alabama	BUF	16 02 041	6
+0	Reed, JR	FS	03/11/1995	26	6' 01"	202	Georgia	JAX FA	20 CFA	2
+33	Robinson, Aaron	CB	11/10/1998	23	5' 11"	190	Central Florida	NYG	21 03 071	R
+95	Roche, Quincy	OB	02/10/1998	23	6' 03"	243	Miami	PIT	21 06 216	R
+12	Ross III, John	WR	11/27/1994	26	5' 11"	188	Washington	CIN	17 01 009	5
+80	Rudolph, Kyle	TE	11/09/1989	32	6' 06"	258	Notre Dame	MIN	11 02 043	11
+23	Ryan, Logan	CB	02/09/1991	30	5' 11"	191	Rutgers	NE	13 03 083	9
+75	Shelton, Danny	NT	08/20/1993	28	6' 02"	339	Washington	CLE	15 01 012	7
+3	Shepard, Sterling	WR	02/10/1994	27	5' 10"	194	Oklahoma	NYG	16 02 040	6
+67	Skura, Matt	OC	02/17/1993	28	6' 03"	305	Duke	BAL FA	16 CFA	5
+86	Slayton, Darius	WR	01/12/1997	24	6' 01"	190	Auburn	NYG	19 05 171	3
+94	Smith, Elerson	DE	07/17/1998	23	6' 06"	262	Northern Iowa	NYG	21 04 116	R
+82	Smith, Kaden	TE	04/24/1997	24	6' 05"	255	Stanford	SF	19 06 176	3
+76	Solder, Nate	OT	04/12/1988	33	6' 08"	319	Colorado	NE	11 01 017	10
+89	Toney, Kadarius	WR	01/27/1999	22	5' 11"	189	Florida	NYG	21 01 020	R
+99	Williams, Leonard	DT	06/20/1994	27	6' 05"	302	USC	NYJ	15 01 006	7
+53	Ximines, Oshane	OB	12/07/1996	24	6' 03"	253	Old Dominion	NYG	19 03 095	3

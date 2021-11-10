@@ -1,0 +1,52 @@
+5	Anger, Bryan	PT	10/06/1988	33	6' 04"	208	California	JAX	12 03 070	10
+92	Armstrong, Dorance	DE	06/10/1997	24	6' 04"	257	Kansas	DAL	18 04 116	4
+93	Basham, Tarell	DE	03/18/1994	27	6' 04"	259	Ohio	IND	17 03 080	5
+53	Bernard, Francis	IB	04/08/1995	26	6' 00"	234	Utah	DAL FA	20 CFA	2
+63	Biadasz, Tyler	OC	11/20/1997	23	6' 04"	314	Wisconsin	DAL	20 04 146	2
+98	Bohanna, Quinton	NT	03/16/1999	22	6' 05"	362	Kentucky	DAL	21 06 192	R
+30	Brown, Anthony	CB	12/15/1993	27	5' 11"	192	Purdue	DAL	16 06 189	6
+85	Brown, Noah	WR	01/06/1996	25	6' 02"	222	Ohio State	DAL	17 07 239	5
+32	Clement, Corey	RB	11/02/1994	27	5' 10"	221	Wisconsin	PHI FA	17 CFA	5
+71	Collins, La'el	OG	07/26/1993	28	6' 04"	305	LSU	DAL FA	15 CFA	7
+19	Cooper, Amari	WR	06/17/1994	27	6' 01"	211	Alabama	OAK	15 01 004	7
+7	Diggs, Trevon	CB	09/20/1998	23	6' 01"	205	Alabama	DAL	20 02 051	2
+21	Elliott, Ezekiel	RB	07/22/1995	26	6' 00"	225	Ohio State	DAL	16 01 004	6
+68	Farniok, Matt	OT	09/26/1997	24	6' 05"	330	Nebraska	DAL	21 07 238	R
+81	Fehoko, Simi	WR	11/05/1997	24	6' 04"	227	Stanford	DAL	21 05 179	R
+57	Gifford, Luke	OB	08/28/1995	26	6' 03"	244	Nebraska	DAL FA	19 CFA	3
+59	Golston, Chauncey	DE	02/10/1998	23	6' 05"	268	Iowa	DAL	21 03 084	R
+29	Goodwin, CJ	CB/WR	02/04/1990	31	6' 03"	190	California (PA)	PIT FA	14 CFA	6
+94	Gregory, Randy	OB	11/23/1992	28	6' 05"	235	Nebraska	DAL	15 02 060	4
+15	Grier, Will	QB	04/03/1995	26	6' 02"	217	West Virginia	CAR	19 03 100	3
+99	Hamilton, Justin	DT	07/27/1993	28	6' 02"	304	Louisiana	BUF FA	15 CFA	5
+28	Hooker, Malik	FS	04/01/1996	25	6' 01"	206	Ohio State	IND	17 01 015	4
+24	Joseph, Kelvin	CB	11/11/2000	21	6' 01"	192	Kentucky	DAL	21 02 044	R
+54	Kamara, Azur	OB	09/26/1998	23	6' 03"	245	Kansas	DAL FA	20 CFA	2
+18	Kazee, Damontae	CB	06/05/1993	28	5' 10"	184	San Diego State	ATL	17 05 149	5
+27	Kearse, Jayron	SS	02/11/1994	27	6' 04"	216	Clemson	MIN	16 07 244	6
+88	Lamb, CeeDee	WR	04/08/1999	22	6' 02"	198	Oklahoma	DAL	20 01 017	2
+26	Lewis, Jourdan	CB	08/31/1995	26	5' 10"	188	Michigan	DAL	17 03 092	5
+70	Martin, Zack	OG	11/20/1990	30	6' 04"	308	Notre Dame	DAL	14 01 016	8
+66	McGovern, Connor	OG	11/03/1997	24	6' 05"	308	Penn State	DAL	19 03 090	3
+84	McKeon, Sean	TE	12/28/1997	23	6' 05"	242	Michigan	DAL FA	20 CFA	2
+44	McQuaide, Jake	LS	12/07/1987	33	6' 02"	247	Ohio State	SL FA	11 CFA	11
+38	Mukuamu, Israel	CB	11/28/1999	21	6' 04"	205	South Carolina	DAL	21 06 227	R
+42	Neal, Keanu	SS	07/26/1995	26	6' 00"	211	Florida	ATL	16 01 017	6
+79	Nsekhe, Ty	OT	10/27/1985	36	6' 08"	325	Texas State	IND FA	12 CFA	7
+97	Odighizuwa, Osa	DT	08/13/1998	23	6' 02"	280	UCLA	DAL	21 03 075	R
+11	Parsons, Micah	IB	05/26/1999	22	6' 02"	245	Penn State	DAL	21 01 012	R
+20	Pollard, Tony	RB	04/30/1997	24	6' 00"	210	Memphis	DAL	19 04 128	3
+4	Prescott, Dak	QB	07/29/1993	28	6' 02"	226	Mississippi State	DAL	16 04 135	6
+10	Rush, Cooper	QB	11/21/1993	27	6' 03"	229	Central Michigan	DAL FA	17 CFA	4
+86	Schultz, Dalton	TE	07/11/1996	25	6' 05"	244	Stanford	DAL	18 04 137	4
+77	Smith, Tyron	OT	12/12/1990	30	6' 05"	308	USC	DAL	11 01 009	11
+87	Sprinkle, Jeremy	TE	08/10/1994	27	6' 05"	256	Arkansas	WAS	17 05 154	5
+78	Steele, Terence	OT	06/04/1997	24	6' 06"	312	Texas Tech	DAL FA	20 CFA	2
+17	Turner, Malik	WR	01/30/1996	25	6' 03"	205	Illinois	SEA FA	18 CFA	4
+55	Vander Esch, Leighton	IB	02/08/1996	25	6' 04"	256	Boise State	DAL	18 01 019	4
+91	Watkins, Carlos	DT	12/05/1993	27	6' 04"	312	Clemson	HOU	17 04 142	5
+52	Williams, Connor	OT	05/12/1997	24	6' 05"	296	Texas	DAL	18 02 050	4
+1	Wilson, Cedrick	WR	11/20/1995	25	6' 02"	197	Boise State	DAL	18 06 208	4
+6	Wilson, Donovan	FS	02/21/1995	26	6' 00"	196	Texas A&M	DAL	19 06 213	3
+25	Wright, Nahshon	CB	09/23/1998	23	6' 04"	188	Oregon State	DAL	21 03 099	R
+2	Zuerlein, Greg	PK	12/27/1987	33	6' 00"	187	Missouri Western	SL	12 06 171	10

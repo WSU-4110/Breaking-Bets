@@ -1,0 +1,54 @@
+26	Adams, Andrew	SS	10/28/1992	29	5' 11"	203	Connecticut	NYG FA	16 CFA	6
+58	Barrett, Shaquil	OB	11/17/1992	28	6' 01"	260	Colorado State	DEN FA	14 CFA	8
+25	Bernard, Giovani	RB	11/22/1991	29	5' 08"	202	North Carolina	CIN	13 02 037	9
+12	Brady, Tom	QB	08/03/1977	44	6' 04"	225	Michigan	NE	00 06 199	22
+84	Brate, Cameron	TE	07/03/1991	30	6' 04"	245	Harvard	TB FA	14 CFA	7
+52	Britt, KJ	IB	06/04/1999	22	6' 00"	239	Auburn	TB	21 05 176	R
+81	Brown, Antonio	WR	07/10/1988	33	5' 10"	186	Central Michigan	PIT	10 06 195	11
+65	Cappa, Alex	OG	01/27/1995	26	6' 06"	305	Humboldt State	TB	18 03 094	4
+43	Cockrell, Ross	CB	08/06/1991	30	6' 00"	191	Duke	BUF	14 04 109	8
+1	Darden, Jaelon	WR	01/14/1999	22	5' 08"	175	North Texas	TB	21 04 129	R
+54	David, Lavonte	OLB	01/23/1990	31	6' 01"	233	Nebraska	TB	12 02 058	10
+35	Dean, Jamel	CB	10/15/1996	25	6' 01"	206	Auburn	TB	19 03 094	3
+30	Delaney, Dee	CB	02/20/1995	26	5' 11"	200	Miami	JAX FA	18 CFA	1
+29	Desir, Pierre	CB	09/08/1990	31	6' 01"	198	Lindenwood	CLE	14 04 127	8
+32	Edwards, Mike	SS	05/18/1996	25	5' 10"	205	Kentucky	TB	19 03 099	3
+13	Evans, Mike	WR	08/21/1993	28	6' 05"	231	Texas A&M	TB	14 01 007	8
+7	Fournette, Leonard	RB	01/18/1995	26	6' 00"	240	LSU	JAX	17 01 004	5
+11	Gabbert, Blaine	QB	10/15/1989	32	6' 04"	234	Missouri	JAX	11 01 010	11
+92	Gholston, William	DE	07/31/1991	30	6' 06"	281	Michigan State	TB	13 04 126	9
+49	Gill, Cam	OB	12/14/1997	23	6' 02"	238	Wagner	TB FA	20 CFA	2
+14	Godwin, Chris	WR	02/27/1996	25	6' 01"	209	Penn State	TB	17 03 084	5
+87	Gronkowski, Rob	TE	05/14/1989	32	6' 06"	265	Arizona	NE	10 02 042	11
+70	Hainsey, Robert	OT	08/12/1998	23	6' 04"	302	Notre Dame	TB	21 03 095	R
+80	Howard, OJ	TE	11/18/1994	26	6' 06"	249	Alabama	TB	17 01 019	5
+66	Jensen, Ryan	OC	05/27/1991	30	6' 04"	298	Colorado State - Pueblo	BAL	13 06 203	8
+18	Johnson, Tyler	WR	08/25/1998	23	6' 01"	206	Minnesota	TB	20 05 161	2
+27	Jones II, Ronald	RB	08/03/1997	24	5' 11"	205	USC	TB	18 02 038	4
+60	Leverett, Nick	OG	01/11/1997	24	6' 03"	307	Rice	TB FA	20 CFA	1
+74	Marpet, Ali	OG	04/17/1993	28	6' 04"	307	Hobart	TB	15 02 061	7
+0	McCarthy, Leighton	OB	05/27/1996	25	6' 02"	223	Florida Atlantic	TB FA	21 CFA	R
+96	McLendon, Steve	NT	01/03/1986	35	6' 04"	280	Troy	PIT FA	09 CFA	12
+51	Minter, Kevin	ILB	12/03/1990	30	6' 00"	246	LSU	ARZ	13 02 045	9
+98	Nelson, Anthony	DE	03/04/1997	24	6' 07"	271	Iowa	TB	19 04 107	3
+56	Nunez-Roches, Rakeem	DT	07/03/1993	28	6' 02"	307	Southern Miss	KC	15 06 217	7
+79	O'Connor, Patrick	DE	11/01/1993	28	6' 04"	275	Eastern Michigan	DET	17 07 250	3
+90	Pierre-Paul, Jason	DE	01/01/1989	32	6' 05"	278	South Florida	NYG	10 01 015	12
+8	Pinion, Bradley	PT	06/01/1994	27	6' 06"	230	Clemson	SF	15 05 165	7
+0	Robinson, Rashard	CB	07/23/1995	26	6' 00"	175	LSU	SF	16 04 133	4
+0	Sherman, Richard	CB	03/30/1988	33	6' 03"	195	Stanford	SEA	11 05 154	10
+76	Smith, Donovan	OT	06/23/1993	28	6' 06"	338	Penn State	TB	15 02 034	7
+64	Stinnie, Aaron	OG	02/18/1994	27	6' 04"	310	James Madison	TEN FA	18 CFA	4
+48	Stuard, Grant	OB			5' 11"	230	Houston	TB	21 07 259	R
+3	Succop, Ryan	PK	09/19/1986	35	6' 03"	218	South Carolina	KC	09 07 256	13
+93	Suh, Ndamukong	DT	01/06/1987	34	6' 04"	307	Nebraska	DET	10 01 002	12
+46	Tinker, Carson	LS	11/15/1989	32	6' 00"	233	Alabama	JAX FA	13 CFA	7
+2	Trask, Kyle	QB	03/06/1998	23	6' 05"	242	Florida	TB	21 02 064	R
+9	Tryon, Joe	DE	04/30/1999	22	6' 05"	262	Washington	TB	21 01 032	R
+21	Vaughn, Ke'Shawn	RB	05/04/1997	24	5' 10"	214	Vanderbilt	TB	20 03 076	2
+50	Vea, Vita	DT	02/05/1995	26	6' 04"	347	Washington	TB	18 01 012	4
+72	Wells, Josh	OT	02/14/1991	30	6' 06"	315	James Madison	JAX FA	14 CFA	7
+45	White, Devin	IB	02/17/1998	23	6' 00"	237	LSU	TB	19 01 005	3
+33	Whitehead, Jordan	SS	03/18/1997	24	5' 10"	198	Pittsburgh	TB	18 04 117	4
+31	Winfield Jr., Antoine	SS	08/16/1998	23	5' 09"	203	Minnesota	TB	20 02 045	2
+78	Wirfs, Tristan	OT	01/24/1999	22	6' 05"	320	Iowa	TB	20 01 013	2

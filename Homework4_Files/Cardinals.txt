@@ -1,0 +1,50 @@
+23	Alford, Robert	CB	11/01/1988	33	5' 10"	188	Southeastern Louisiana	ATL	13 02 060	9
+94	Allen, Zach	DE	08/20/1997	24	6' 04"	281	Boston College	ARZ	19 03 065	3
+3	Baker, Budda	FS	01/10/1996	25	5' 10"	195	Washington	ARZ	17 02 036	5
+31	Banjo, Chris	SS	02/26/1990	31	5' 10"	204	SMU	JAX FA	13 CFA	8
+68	Beachum, Kelvin	OT	06/08/1989	32	6' 03"	306	SMU	PIT	12 07 248	10
+26	Benjamin, Eno	RB	04/13/1999	22	5' 09"	207	Arizona State	ARZ	20 07 222	2
+46	Brewer, Aaron	LS	07/05/1990	31	6' 02"	225	San Diego State	DEN FA	12 CFA	10
+25	Collins, Zaven	IB	05/19/1999	22	6' 04"	255	Tulsa	ARZ	21 01 016	R
+6	Conner, James	RB	05/05/1995	26	6' 01"	233	Pittsburgh	PIT	17 03 105	5
+81	Daniels, Darrell	TE	11/22/1994	26	6' 03"	235	Washington	IND FA	17 CFA	5
+52	Dimukeje, Victor	OB	11/18/1999	21	6' 02"	262	Duke	ARZ	21 06 210	R
+91	Dogbe, Michael	DT	05/05/1996	25	6' 03"	286	Temple	ARZ	19 07 249	2
+2	Edmonds, Chase	RB	04/13/1996	25	5' 09"	205	Fordham	ARZ	18 04 134	4
+0	Ertz, Zach	TE	10/10/1990	31	6' 05"	249	Stanford	PHI	13 02 035	9
+95	Fotu, Leki	DT	08/23/1998	23	6' 05"	330	Utah	ARZ	20 04 114	2
+73	Garcia, Max	OC	11/09/1991	30	6' 04"	309	Florida	DEN	15 04 133	7
+45	Gardeck, Dennis	LB	08/09/1994	27	6' 00"	242	Sioux Falls	ARZ FA	18 CFA	4
+44	Golden, Markus	OB	03/13/1991	30	6' 02"	260	Missouri	ARZ	15 02 058	7
+33	Hamilton, Antonio	CB	01/24/1993	28	6' 00"	178	South Carolina State	OAK FA	16 CFA	6
+64	Harlow, Sean	OG	03/28/1995	26	6' 04"	303	Oregon State	ATL	17 04 136	2
+58	Hicks, Jordan	IB	10/14/1991	30	6' 01"	238	Texas	PHI	15 03 084	7
+10	Hopkins, DeAndre	WR	06/06/1992	29	6' 01"	214	Clemson	HOU	13 01 027	8
+61	Hudson, Rodney	OC	07/12/1989	32	6' 02"	299	Florida State	KC	11 02 055	11
+74	Humphries, DJ	OT	12/28/1993	27	6' 05"	307	Florida	ARZ	15 01 024	7
+17	Isabella, Andy	WR	11/18/1996	24	5' 09"	188	Massachusetts	ARZ	19 02 062	3
+55	Jones, Chandler	DE	02/27/1990	31	6' 05"	265	Syracuse	NE	12 01 021	10
+79	Jones, Josh	OT	06/21/1997	24	6' 05"	319	Houston	ARZ	20 03 072	2
+42	Kennard, Devon	OB	06/24/1991	30	6' 03"	249	USC	NYG	14 05 174	8
+13	Kirk, Christian	WR	11/18/1996	24	5' 10"	201	Texas A&M	ARZ	18 02 047	4
+93	Ledbetter, Jonathan	DE	09/12/1997	24	6' 04"	280	Georgia	MIA FA	19 CFA	2
+14	Lee, Andy	PT	08/11/1982	39	6' 01"	180	Pittsburgh	SF	04 06 188	18
+12	McCoy, Colt	QB	09/05/1986	35	6' 01"	215	Texas	CLE	10 03 085	12
+66	Miles, Joshua	OT	01/04/1996	25	6' 05"	314	Morgan State	ARZ	19 07 248	3
+4	Moore, Rondale	WR	06/09/2000	21	5' 09"	185	Purdue	ARZ	21 02 049	R
+7	Murphy, Byron	CB	01/18/1998	23	5' 11"	190	Washington	ARZ	19 02 033	3
+1	Murray, Kyler	QB	08/07/1997	24	5' 10"	207	Oklahoma	ARZ	19 01 001	3
+98	Peters, Corey	DT	06/08/1988	33	6' 03"	300	Kentucky	ATL	10 03 083	12
+97	Phillips, Jordan	NT	09/21/1992	29	6' 05"	329	Oklahoma	MIA	15 02 052	7
+5	Prater, Matt	PK	08/10/1984	37	5' 10"	187	Central Florida	DET FA	06 CFA	15
+67	Pugh, Justin	OT	08/15/1990	31	6' 04"	307	Syracuse	NYG	13 01 019	9
+9	Simmons, Isaiah	OB	07/26/1998	23	6' 04"	238	Clemson	ARZ	20 01 008	2
+15	Streveler, Chris	QB	01/06/1995	26	6' 03"	215	South Dakota	ARZ FA	20 SFA	2
+22	Thompson, Deionte	FS	02/11/1997	24	6' 01"	195	Alabama	ARZ	19 05 139	3
+34	Thompson, Jalen	FS	07/18/1998	23	6' 00"	195	Washington State	ARZ FA	19 S/5	3
+51	Vallejo, Tanner	IB	12/16/1994	26	6' 01"	225	Boise State	BUF	17 06 195	5
+29	Ward, Jonathan	RB	09/30/1997	24	5' 11"	195	Central Michigan	ARZ FA	20 CFA	2
+0	Wells, David	TE	05/02/1995	26	6' 06"	256	San Diego State	DAL FA	18 CFA	2
+84	Wesley, Antoine	WR	10/22/1997	24	6' 04"	206	Texas Tech	BAL FA	19 CFA	2
+38	Wiggins, James	FS	04/26/1997	24	6' 00"	207	Cincinnati	ARZ	21 07 243	R
+20	Wilson, Marco	CB	03/03/1999	22	6' 00"	191	Florida	ARZ	21 04 136	R

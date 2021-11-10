@@ -1,0 +1,53 @@
+76	Anderson, Jack	OG	10/12/1998	23	6' 05"	309	Texas Tech	BUF	21 07 236	R
+19	Arcega-Whiteside, JJ	WR	12/31/1996	24	6' 02"	225	Stanford	PHI	19 02 057	3
+58	Avery, Genard	IB	04/26/1995	26	6' 00"	248	Memphis	CLE	18 05 150	4
+96	Barnett, Derek	DE	06/25/1996	25	6' 03"	259	Tennessee	PHI	17 01 014	5
+54	Bradley, Shaun	IB	04/08/1997	24	6' 01"	235	Temple	PHI	20 06 196	2
+21	Chachere, Andre	CB	02/10/1996	25	6' 00"	197	San Jose State	HOU FA	18 CFA	1
+91	Cox, Fletcher	DE	12/13/1990	30	6' 04"	298	Mississippi State	PHI	12 01 012	10
+69	Dickerson, Landon	OC	09/30/1998	23	6' 06"	326	Alabama	PHI	21 02 037	R
+77	Dillard, Andre	OT	10/03/1995	26	6' 05"	315	Washington State	PHI	19 01 022	3
+63	Driscoll, Jack	OG	04/01/1997	24	6' 05"	306	Auburn	PHI	20 04 145	2
+57	Edwards, TJ	IB	08/12/1996	25	6' 00"	230	Wisconsin	PHI FA	19 CFA	3
+4	Elliott, Jake	PK	01/21/1995	26	5' 09"	167	Memphis	CIN	17 05 153	5
+22	Epps, Marcus	S	01/27/1996	25	6' 00"	197	Wyoming	MIN	19 06 191	3
+14	Gainwell, Kenneth	RB	03/14/1999	22	5' 08"	201	Memphis	PHI	21 05 150	R
+88	Goedert, Dallas	TE	01/03/1995	26	6' 05"	256	South Dakota State	PHI	18 02 049	4
+0	Gowan, Tay	CB	01/07/1998	23	6' 01"	177	Central Florida	ARZ	21 06 223	R
+97	Hargrave, Javon	DT	02/07/1993	28	6' 01"	309	South Carolina State	PIT	16 03 089	6
+28	Harris, Anthony	SS	10/09/1991	30	6' 01"	183	Virginia	MIN FA	15 CFA	7
+67	Herbig, Nate	OG	10/07/1994	27	6' 03"	338	Stanford	PHI FA	19 CFA	3
+1	Hurts, Jalen	QB	08/07/1998	23	6' 01"	222	Oklahoma	PHI	20 02 053	2
+75	Jackson, Tarron	DE	06/22/1998	23	6' 02"	254	Coastal Carolina	PHI	21 06 191	R
+80	Jackson, Tyree	QB/TE	11/07/1997	24	6' 07"	249	Buffalo	BUF FA	19 CFA	1
+65	Johnson, Lane	OT	05/08/1990	31	6' 06"	303	Oklahoma	PHI	13 01 004	9
+48	Johnson, Patrick	LB/DE	01/10/1999	22	6' 02"	240	Tulane	PHI	21 07 234	R
+62	Kelce, Jason	OC	11/05/1987	34	6' 03"	280	Cincinnati	PHI	11 06 191	11
+90	Kerrigan, Ryan	OLB	08/16/1988	33	6' 04"	267	Purdue	WAS	11 01 016	11
+45	Lovato, Rick	LS	09/09/1992	29	6' 02"	233	Old Dominion	CHI FA	15 CFA	5
+29	Maddox, Avonte	CB	03/31/1996	25	5' 09"	184	Pittsburgh	PHI	18 04 125	4
+68	Mailata, Jordan	OT	03/31/1997	24	6' 08"	345	No College	PHI	18 07 233	4
+37	McCain III, Mac	CB			6' 00"	177	North Carolina A&T	DEN FA	21 CFA	R
+23	McLeod, Rodney	FS	06/23/1990	31	5' 11"	183	Virginia	SL FA	12 CFA	10
+27	McPhearson, Zech	CB	03/21/1998	23	5' 11"	196	Texas Tech	PHI	21 04 123	R
+10	Minshew II, Gardner	QB	05/16/1996	25	6' 01"	225	Washington State	JAX	19 06 178	2
+3	Nelson, Steven	CB	01/22/1993	28	5' 10"	197	Oregon State	KC	15 03 098	7
+78	Opeta, Iosua	OG	08/15/1996	25	6' 04"	301	Weber State	PHI FA	19 CFA	2
+18	Reagor, Jalen	WR	01/01/1999	22	5' 11"	206	TCU	PHI	20 01 021	2
+98	Ridgeway, Hassan	DT	11/02/1994	27	6' 03"	303	Texas	IND	16 04 116	6
+35	Scott, Boston	RB	04/27/1995	26	5' 07"	203	Louisiana Tech	NO	18 06 201	3
+33	Scott, Josiah	CB	04/05/1999	22	5' 09"	185	Michigan State	JAX	20 04 137	2
+49	Singleton, Alex	OB	12/07/1993	27	6' 02"	242	Montana State	SEA FA	15 CFA	3
+0	Sinnett, Reid	QB	02/05/1997	24	6' 04"	229	San Diego	TB FA	20 CFA	1
+8	Siposs, Arryn	PT	11/25/1992	28	6' 02"	212	Auburn	DET FA	20 CFA	1
+2	Slay, Darius	CB	01/01/1991	30	6' 00"	190	Mississippi State	DET	13 02 036	9
+6	Smith, DeVonta	WR	11/14/1998	23	6' 00"	170	Alabama	PHI	21 01 010	R
+89	Stoll, Jack	TE	01/28/1998	23	6' 04"	247	Nebraska	PHI FA	21 CFA	R
+94	Sweat, Josh	OB	03/29/1997	24	6' 05"	251	Florida State	PHI	18 04 130	4
+52	Taylor, Davion	OB	08/05/1998	23	6' 00"	228	Colorado	PHI	20 03 103	2
+95	Tuipulotu, Marlon	NT	05/31/1999	22	6' 02"	308	USC	PHI	21 06 189	R
+0	Vincent Jr., Kary	CB	02/27/1999	22	5' 10"	177	LSU	DEN	21 07 237	R
+42	Wallace, K'Von	SS	07/25/1997	24	5' 11"	206	Clemson	PHI	20 04 127	2
+84	Ward Jr., Greg	WR	07/12/1995	26	5' 10"	186	Houston	PHI FA	17 CFA	3
+16	Watkins, Quez	WR	06/09/1998	23	6' 00"	185	Southern Mississippi	PHI	20 06 200	2
+93	Williams, Milton	DT	04/06/1999	22	6' 03"	284	Louisiana Tech	PHI	21 03 073	R

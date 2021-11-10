@@ -1,0 +1,50 @@
+17	Adams, Davante	WR	12/24/1992	28	6' 01"	212	Fresno State	GB	14 02 053	8
+31	Amos, Adrian	FS	04/29/1993	28	6' 00"	218	Penn State	CHI	15 05 142	7
+51	Barnes, Krys	IB	04/02/1998	23	6' 02"	232	UCLA	GB FA	20 CFA	2
+41	Black, Henry	S	01/03/1997	24	6' 00"	206	Baylor	GB FA	20 CFA	2
+7	Bojorquez, Corey	PT	09/13/1996	25	6' 00"	200	New Mexico	NE FA	18 CFA	4
+42	Burks, Oren	IB	03/21/1995	26	6' 03"	233	Vanderbilt	GB	18 03 088	4
+59	Campbell, De'Vondre	OB	07/01/1993	28	6' 04"	232	Minnesota	ATL	16 04 115	6
+97	Clark, Kenny	DT	10/04/1995	26	6' 03"	314	UCLA	GB	16 01 027	6
+18	Cobb, Randall	WR	08/22/1990	31	5' 10"	192	Kentucky	GB	11 02 064	11
+2	Crosby, Mason	PK	09/03/1984	37	6' 01"	207	Colorado	GB	07 06 193	15
+49	Dafney, Dominique	TE	06/03/1997	24	6' 02"	220	Indiana State	IND FA	20 CFA	1
+0	Davis, Tyler	TE	04/02/1997	24	6' 04"	243	Georgia Tech	JAX	20 06 206	2
+81	Deguara, Josiah	TE	02/14/1997	24	6' 02"	242	Cincinnati	GB	20 03 094	2
+28	Dillon, AJ	RB	05/02/1998	23	6' 00"	247	Boston College	GB	20 02 062	2
+0	Douglas, Rasul	CB	08/29/1995	26	6' 02"	209	West Virginia	PHI	17 03 099	5
+53	Garvin, Jonathan	DE	07/28/1999	22	6' 04"	263	Miami	GB	20 07 242	2
+52	Gary, Rashan	DE	12/03/1997	23	6' 04"	277	Michigan	GB	19 01 012	3
+54	Hamilton, LaDarius	DE	01/18/1998	23	6' 02"	262	North Texas	DAL FA	20 CFA	1
+67	Hanson, Jake	OC	04/29/1997	24	6' 04"	303	Oregon	GB	20 06 208	1
+90	Heflin, Jack	DT	03/08/1998	23	6' 03"	309	Iowa	GB FA	21 CFA	R
+22	Jean-Charles, Shemar	CB	06/28/1998	23	5' 11"	182	Appalachian State	GB	21 05 178	R
+74	Jenkins, Elgton	OC	12/26/1995	25	6' 04"	310	Mississippi State	GB	19 02 044	3
+33	Jones, Aaron	RB	12/02/1994	26	5' 10"	205	UTEP	GB	17 05 182	5
+96	Keke, Kingsley	DT	09/26/1996	25	6' 03"	288	Texas A&M	GB	19 05 150	3
+79	Kelly, Dennis	OT	01/16/1990	31	6' 08"	304	Purdue	PHI	12 05 153	10
+20	King, Kevin	CB	05/05/1995	26	6' 03"	200	Washington	GB	17 02 033	5
+95	Lancaster, Tyler	DT	11/04/1994	27	6' 03"	310	Northwestern	GB FA	18 CFA	4
+13	Lazard, Allen	WR	12/11/1995	25	6' 05"	227	Iowa State	JAX FA	18 CFA	3
+89	Lewis, Marcedes	TE	05/19/1984	37	6' 06"	275	UCLA	JAX	06 01 028	16
+10	Love, Jordan	QB	11/02/1998	23	6' 04"	224	Utah State	GB	20 01 026	2
+94	Lowry, Dean	DE	06/09/1994	27	6' 06"	296	Northwestern	GB	16 04 137	6
+58	McDuffie, Isaiah	OB	07/21/1999	22	6' 01"	224	Boston College	GB	21 06 220	R
+0	Mercilus, Whitney	OLB	07/21/1990	31	6' 04"	261	Illinois	HOU	12 01 026	10
+70	Newman, Royce	OG	08/17/1997	24	6' 05"	306	Mississippi	GB	21 04 142	R
+73	Nijman, Yosuah	OT	02/02/1996	25	6' 07"	324	Virginia Tech	GB FA	19 CFA	2
+62	Patrick, Lucas	OG	07/30/1993	28	6' 03"	313	Duke	GB FA	16 CFA	5
+8	Rodgers, Amari	WR	09/23/1999	22	5' 09"	211	Clemson	GB	21 03 085	R
+76	Runyan, Jon	OG	08/08/1997	24	6' 04"	313	Michigan	GB	20 06 192	2
+26	Savage Jr., Darnell	FS	07/30/1997	24	5' 11"	198	Maryland	GB	19 01 021	3
+36	Scott, Vernon	FS	09/11/1997	24	6' 02"	202	TCU	GB	20 07 236	2
+93	Slaton, Tedarrell	NT			6' 04"	360	Florida	GB	21 05 173	R
+91	Smith, Preston	DE	11/17/1992	28	6' 05"	271	Mississippi State	WAS	15 02 038	7
+19	St. Brown, Equanimeous	WR	09/30/1996	25	6' 05"	214	Notre Dame	GB	18 06 207	4
+21	Stokes, Eric	CB	03/01/1999	22	6' 01"	185	Georgia	GB	21 01 029	R
+39	Sullivan, Chandon	CB	08/07/1996	25	5' 11"	194	Georgia State	PHI FA	18 CFA	4
+44	Summers, Ty	IB	12/31/1995	25	6' 01"	241	TCU	GB	19 07 226	3
+86	Taylor, Malik	WR	12/21/1995	25	6' 03"	220	Ferris State	TB FA	19 CFA	2
+27	Taylor Jr., Patrick	RB	04/29/1998	23	6' 01"	217	Memphis	GB FA	20 CFA	1
+77	Turner, Billy	OT	10/17/1991	30	6' 05"	315	North Dakota State	MIA	14 03 067	8
+46	Wirtel, Steve	LS	10/03/1997	24	6' 04"	230	Iowa State	DET FA	20 CFA	1

@@ -1,0 +1,53 @@
+24	Abram, Johnathan	SS	10/25/1996	25	5' 11"	205	Mississippi State	OAK	19 01 027	3
+31	Barber, Peyton	RB	06/27/1994	27	5' 10"	228	Auburn	TB FA	16 CFA	6
+78	Barton, Jackson	OT	08/08/1995	26	6' 07"	310	Utah	IND	19 07 240	3
+84	Bushman, Matt	TE	11/03/1995	26	6' 04"	239	BYU	LV FA	21 CFA	R
+2	Carlson, Daniel	PK	01/23/1995	26	6' 05"	213	Auburn	MIN	18 05 167	4
+4	Carr, Derek	QB	03/28/1991	30	6' 02"	214	Fresno State	OAK	14 02 036	8
+6	Cole III, AJ	PT	11/27/1995	25	6' 04"	214	North Carolina State	OAK FA	19 CFA	3
+98	Crosby, Maxx	DE	08/22/1997	24	6' 05"	255	Eastern Michigan	OAK	19 04 106	3
+5	Deablo, Divine	SS	08/17/1998	23	6' 03"	226	Virginia Tech	LV	21 03 080	R
+23	Drake, Kenyan	RB	01/26/1994	27	6' 01"	210	Alabama	MIA	16 03 073	6
+89	Edwards, Bryan	WR	11/13/1998	23	6' 03"	212	South Carolina	LV	20 03 081	2
+72	Eluemunor, Jermaine	OG	12/13/1994	26	6' 04"	332	Texas A&M	BAL	17 05 159	5
+99	Ferrell, Clelin	DE	05/17/1997	24	6' 04"	264	Clemson	OAK	19 01 004	3
+37	Gillespie, Tyree	SS	09/05/1998	23	6' 00"	207	Missouri	LV	21 04 143	R
+90	Hankins, Johnathan	DT	01/01/1992	29	6' 03"	320	Ohio State	NYG	13 02 049	9
+29	Hayward, Casey	CB	09/09/1989	32	5' 11"	192	Vanderbilt	GB	12 02 062	10
+0	Helm, Daniel	TE	04/20/1995	26	6' 04"	251	Duke	LAC FA	19 CFA	1
+39	Hobbs, Nate	CB	06/24/1999	22	5' 11"	192	Illinois	LV	21 05 167	R
+45	Ingold, Alec	FB	07/09/1996	25	6' 01"	242	Wisconsin	OAK FA	19 CFA	3
+0	Jackson, DeSean	WR	12/01/1986	34	5' 10"	175	California	PHI	08 02 049	14
+28	Jacobs, Josh	RB	02/11/1998	23	5' 10"	220	Alabama	OAK	19 01 024	3
+68	James, Andre	OG	05/02/1997	24	6' 04"	305	UCLA	OAK FA	19 CFA	3
+77	Jefferson, Quinton	DT	03/31/1993	28	6' 04"	291	Maryland	SEA	16 05 147	6
+7	Jones, Zay	WR	03/30/1995	26	6' 02"	202	East Carolina	BUF	17 02 037	5
+51	Koonce, Malcolm	OB	06/06/1998	23	6' 03"	252	Buffalo	LV	21 03 079	R
+44	Kwiatkoski, Nick	IB	05/26/1993	28	6' 02"	243	West Virginia	CHI	16 04 113	6
+70	Leatherwood, Alex	OG	01/05/1999	22	6' 05"	312	Alabama	LV	21 01 017	R
+32	Leavitt, Dallin	S	08/08/1994	27	5' 10"	205	Utah State	OAK FA	18 CFA	3
+55	Lee, Marquel	OB	10/21/1995	26	6' 03"	230	Wake Forest	OAK	17 05 168	4
+42	Littleton, Cory	OB	11/18/1993	27	6' 03"	226	Washington	LAR FA	16 CFA	6
+8	Mariota, Marcus	QB	10/30/1993	28	6' 04"	222	Oregon	TEN	15 01 002	7
+66	Martin, Nick	OC	07/28/1993	28	6' 04"	299	Notre Dame	HOU	16 02 050	6
+74	Miller, Kolton	OT	10/09/1995	26	6' 09"	309	UCLA	OAK	18 01 015	4
+25	Moehrig, Trevon	FS	06/16/1999	22	6' 02"	202	TCU	LV	21 02 043	R
+87	Moreau, Foster	TE	05/06/1997	24	6' 04"	253	LSU	OAK	19 04 137	3
+94	Nassib, Carl	DE	04/12/1993	28	6' 07"	277	Penn State	CLE	16 03 065	6
+91	Ngakoue, Yannick	OB	03/31/1995	26	6' 02"	252	Maryland	JAX	16 03 069	6
+22	Nixon, Keisean	CB	06/22/1997	24	5' 10"	200	South Carolina	OAK FA	19 CFA	3
+75	Parker, Brandon	OT	10/29/1995	26	6' 08"	305	North Carolina A&T	OAK	18 03 065	4
+52	Perryman, Denzel	IB	12/05/1992	28	5' 11"	236	Miami	SD	15 02 048	7
+96	Philon, Darius	DT	01/22/1994	27	6' 01"	298	Arkansas	SD	15 06 192	5
+13	Renfrow, Hunter	WR	12/21/1995	25	5' 10"	184	Clemson	OAK	19 05 149	3
+30	Richard, Jalen	RB	10/15/1993	28	5' 08"	207	Southern Miss	OAK FA	16 CFA	6
+21	Robertson, Amik	CB	07/06/1998	23	5' 08"	187	Louisiana Tech	LV	20 04 139	2
+47	Sieg, Trent	LS	05/19/1995	26	6' 04"	240	Colorado State	BAL FA	18 CFA	4
+60	Simmons, Jordan	OG	07/15/1994	27	6' 04"	325	USC	OAK FA	17 CFA	4
+76	Simpson, John	OG	08/19/1997	24	6' 04"	321	Clemson	LV	20 04 109	2
+97	Square, Damion	DE	02/06/1989	32	6' 02"	293	Alabama	PHI FA	13 CFA	9
+16	Stoner, Dillon	WR	02/06/1998	23	6' 00"	196	Oklahoma State	LV FA	21 CFA	R
+92	Thomas, Solomon	DE	08/26/1995	26	6' 03"	273	Stanford	SF	17 01 003	5
+0	Trufant, Desmond	CB	09/10/1990	31	6' 00"	190	Washington	ATL	13 01 022	9
+83	Waller, Darren	TE	09/13/1992	29	6' 06"	238	Georgia Tech	BAL	15 06 204	5
+34	Wright, KJ	OLB	07/23/1989	32	6' 03"	246	Mississippi State	SEA	11 04 099	10

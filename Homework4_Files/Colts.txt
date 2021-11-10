@@ -1,0 +1,53 @@
+49	Adams, Matthew	IB	12/12/1995	25	6' 00"	230	Houston	IND	18 07 221	4
+81	Alie-Cox, Mo	TE	09/19/1993	28	6' 06"	260	Virginia Commonwealth	IND FA	17 SFA	4
+0	Badgley, Michael	PK	07/28/1995	26	5' 10"	186	Miami	IND FA	18 CFA	4
+52	Banogu, Ben	DE	01/19/1996	25	6' 03"	250	TCU	IND	19 02 049	2
+99	Buckner, DeForest	DE	03/17/1994	27	6' 07"	291	Oregon	SF	16 01 007	6
+47	Chesley, Anthony	CB	05/31/1995	26	6' 00"	187	Coastal Carolina	CIN FA	19 CFA	1
+73	Davenport, Julie'n	OT	01/09/1995	26	6' 07"	318	Bucknell	HOU	17 04 130	5
+84	Doyle, Jack	TE	05/05/1990	31	6' 05"	254	Western Kentucky	TEN FA	13 CFA	9
+16	Dulin, Ashton	WR	05/15/1997	24	6' 01"	215	Malone	IND FA	19 CFA	3
+4	Ehlinger, Sam	QB	09/30/1998	23	6' 01"	222	Texas	IND	21 06 218	R
+79	Fisher, Eric	OT	01/05/1991	30	6' 07"	306	Central Michigan	KC	13 01 001	9
+44	Franklin, Zaire	IB	07/02/1996	25	6' 00"	230	Syracuse	IND	18 07 235	4
+75	Fries, Will	OG	04/04/1998	23	6' 06"	309	Penn State	IND	21 07 248	R
+59	Glasgow, Jordan	OB	06/28/1996	25	6' 00"	221	Michigan	IND	20 06 213	2
+64	Glowinski, Mark	OG	05/03/1992	29	6' 04"	307	West Virginia	SEA	15 04 134	7
+83	Granson, Kylen	TE	03/27/1998	23	6' 01"	243	SMU	IND	21 04 127	R
+13	Hilton, TY	WR	11/14/1989	32	5' 09"	183	Florida International	IND	12 03 092	10
+21	Hines, Nyheim	RB	11/12/1996	25	5' 08"	198	North Carolina St	IND	18 04 104	4
+35	Jackson, Deon	RB	02/18/1999	22	6' 00"	217	Duke	IND FA	21 CFA	R
+0	Jones, Josh	FS	09/20/1994	27	6' 01"	220	North Carolina State	GB	17 02 061	5
+78	Kelly, Ryan	OC	05/30/1993	28	6' 04"	311	Alabama	IND	16 01 018	6
+33	Keyes, BoPete	CB	11/09/1997	24	6' 01"	202	Tulane	KC	20 07 237	2
+53	Leonard, Darius	IB	07/27/1995	26	6' 02"	234	South Carolina State	IND	18 02 036	4
+25	Mack, Marlon	RB	03/07/1996	25	5' 11"	213	South Florida	IND	17 04 143	5
+23	Moore II, Kenny	SS/CB	08/23/1995	26	5' 10"	185	Valdosta State	NE FA	17 CFA	5
+97	Muhammad, Al-Quadin	DE	03/28/1995	26	6' 03"	253	Miami	NO	17 06 196	5
+56	Nelson, Quenton	OG	03/19/1996	25	6' 05"	325	Notre Dame	 IND	18 01 006	4
+54	Odeyingbo, Dayo	DE	09/24/1999	22	6' 05"	279	Vanderbilt	IND	21 02 054	R
+30	Odum, George	FS	11/03/1993	28	6' 02"	185	Central Arkansas	IND FA	18 CFA	4
+58	Okereke, Bobby	IB	07/29/1996	25	6' 01"	239	Stanford	IND	19 03 089	3
+14	Pascal, Zach	WR	12/18/1994	26	6' 02"	207	Old Dominion	WAS FA	17 CFA	4
+10	Patmon, Dezmon	WR	08/06/1998	23	6' 04"	225	Washington State	IND	20 06 212	2
+51	Paye, Kwity	DE	11/19/1998	22	6' 03"	272	Michigan	IND	21 01 021	R
+63	Pinter, Danny	OG	06/19/1996	25	6' 04"	306	Ball State	IND	20 05 149	2
+11	Pittman Jr., Michael	WR	10/05/1997	24	6' 04"	223	USC	IND	20 02 034	2
+69	Pryor, Matt	OG	12/16/1994	26	6' 07"	358	TCU	PHI	18 06 206	4
+62	Reed, Chris	OG	07/22/1992	29	6' 03"	302	Minnesota State-Mankato	JAX FA	15 CFA	6
+46	Rhodes, Luke	IB	12/02/1992	28	6' 01"	236	William & Mary	TB FA	16 CFA	5
+27	Rhodes, Xavier	CB	06/19/1990	31	6' 01"	210	Florida State	MIN	13 01 025	9
+91	Rochell, Isaac	DE	04/22/1995	26	6' 04"	282	Notre Dame	LAC	17 07 225	4
+34	Rodgers, Isaiah	CB	01/07/1998	23	5' 10"	171	Massachusetts	IND	20 06 211	2
+8	Sanchez, Rigoberto	PT	09/08/1994	27	6' 00"	176	Hawaii	IND FA	17 CFA	5
+42	Sendejo, Andrew	FS	09/09/1987	34	6' 01"	200	Rice	DAL FA	10 CFA	10
+72	Smith, Braden	OG	03/25/1996	25	6' 06"	315	Auburn	IND	18 02 037	4
+45	Speed, EJ	LB	06/01/1995	26	6' 04"	230	Tarleton State	IND	19 05 164	3
+95	Stallworth, Taylor	DT	08/18/1995	26	6' 02"	312	South Carolina	NO FA	18 CFA	3
+90	Stewart, Grover	DT	10/20/1993	28	6' 04"	336	Albany State (GA)	IND	17 04 144	5
+17	Strachan, Mike	WR	08/13/1997	24	6' 05"	224	Charleston	IND	21 07 229	R
+28	Taylor, Jonathan	RB	01/19/1999	22	5' 10"	226	Wisconsin	IND	20 02 041	2
+57	Turay, Kemoko	OB	07/11/1995	26	6' 05"	253	Rutgers	IND	18 02 052	4
+2	Wentz, Carson	QB	12/30/1992	28	6' 05"	237	North Dakota State	PHI	16 01 002	6
+96	Woods, Antwaun	DT	01/03/1993	28	6' 01"	323	USC	TEN FA	16 CFA	4
+26	Ya-Sin, Rock	CB	05/23/1996	25	6' 00"	192	Temple	IND	19 02 034	3

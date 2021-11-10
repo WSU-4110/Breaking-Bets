@@ -1,0 +1,50 @@
+0	Abdullah, Ameer	RB	06/13/1993	28	5' 09"	205	Nebraska	DET	15 02 054	7
+11	Anderson, Robby	WR	05/09/1993	28	6' 03"	180	Temple	NYJ FA	16 CFA	6
+24	Bouye, AJ	CB	08/16/1991	30	6' 00"	186	Central Florida	HOU FA	13 CFA	9
+95	Brown, Derrick	DT	04/15/1998	23	6' 05"	326	Auburn	CAR	20 01 007	2
+53	Burns, Brian	OB	04/23/1998	23	6' 05"	249	Florida State	CAR	19 01 016	3
+4	Carter Jr., Jermaine	IB	01/14/1995	26	6' 00"	235	Maryland	CAR	18 05 161	4
+34	Chandler, Sean	FS	04/27/1996	25	5' 10"	205	Temple	NYG FA	18 CFA	4
+21	Chinn, Jeremy	FS	02/26/1998	23	6' 03"	221	Southern Illinois	CAR	20 02 064	2
+70	Christensen, Brady	OT	09/27/1996	25	6' 06"	300	BYU	CAR	21 03 070	R
+65	Daley, Dennis	OT	08/07/1996	25	6' 05"	317	South Carolina	CAR	19 06 212	3
+14	Darnold, Sam	QB	06/05/1997	24	6' 03"	221	USC	NYJ	18 01 003	4
+0	Edwards, Lachlan	PT	04/27/1992	29	6' 04"	211	Sam Houston State	NYJ	16 07 235	5
+60	Elflein, Pat	OC	07/06/1994	27	6' 03"	303	Ohio State	MIN	17 03 070	5
+13	Erickson, Alex	WR	11/06/1992	29	6' 00"	198	Wisconsin	CIN FA	16 CFA	6
+91	Fox, Morgan	DE	09/12/1994	27	6' 03"	245	Colorado State-Pueblo	LAR FA	16 CFA	5
+42	Franklin, Sam	OB	02/02/1996	25	6' 02"	204	Temple	CAR FA	20 CFA	2
+0	Gilmore, Stephon	CB	09/19/1990	31	6' 00"	190	South Carolina	BUF	12 01 010	10
+5	Gonzalez, Zane	PK	05/07/1995	26	6' 00"	202	Arizona State	CLE	17 07 224	5
+97	Gross-Matos, Yetur	DE	02/26/1998	23	6' 05"	266	Penn State	CAR	20 02 038	2
+38	Hartsfield, Myles	CB	08/05/1997	24	5' 11"	213	Mississippi	CAR FA	20 CFA	2
+98	Haynes, Marquis	OB	12/16/1993	27	6' 02"	235	Mississippi	CAR	18 04 136	4
+0	Henderson, CJ	CB	09/30/1998	23	6' 01"	204	Florida	JAX	20 01 009	2
+71	Hoskins, Phil	DT	01/02/1997	24	6' 04"	318	Kentucky	CAR	21 07 232	R
+30	Hubbard, Chuba	RB	06/11/1999	22	6' 00"	208	Oklahoma State	CAR	21 04 126	R
+26	Jackson, Donte	CB	11/08/1995	26	5' 10"	178	LSU	CAR	18 02 055	4
+44	Jansen, JJ	LS	01/20/1986	35	6' 02"	256	Notre Dame	GB FA	08 CFA	14
+90	Jones, DaQuan	DT	12/17/1991	29	6' 04"	322	Penn State	TEN	14 04 112	8
+73	Jordan, Michael	OG	01/25/1998	23	6' 06"	312	Ohio State	CIN	19 04 136	2
+49	Luvu, Frankie	OB	09/19/1996	25	6' 02"	242	Washington State	NYJ FA	18 CFA	4
+88	Marshall Jr., Terrace	WR	06/09/2000	21	6' 03"	200	LSU	CAR	21 02 059	R
+47	Martin, Kamal	OB	06/17/1998	23	6' 03"	240	Minnesota	GB	20 05 175	2
+22	McCaffrey, Christian	RB	06/07/1996	25	5' 11"	202	Stanford	CAR	17 01 008	5
+29	Melvin, Rashaan	CB	10/02/1989	32	6' 02"	193	Northern Illinois	TB FA	13 CFA	8
+2	Moore, DJ	WR	04/14/1997	24	6' 00"	210	Maryland	CAR	18 01 024	4
+72	Moton, Taylor	OG	08/18/1994	27	6' 05"	319	Western Michigan	CAR	17 02 064	5
+43	Reddick, Haason	OB	09/22/1994	27	6' 01"	237	Temple	ARZ	17 01 013	5
+45	Ricci, Giovanni	TE	10/16/1996	25	6' 03"	234	Western Michigan	CAR FA	20 CFA	1
+27	Robinson, Kenny	FS	01/08/1999	22	6' 01"	203	West Virginia	CAR	20 05 152	2
+93	Roy, Bravvion	DT	10/18/1997	24	6' 01"	332	Baylor	CAR	20 06 184	2
+78	Scott, Trent	OT	01/25/1994	27	6' 05"	320	Grambling	LAC FA	18 CFA	4
+12	Smith, Shi	WR	10/26/1998	23	5' 10"	186	South Carolina	CAR	21 06 204	R
+50	Stanford, Julian	OLB	09/02/1990	31	6' 01"	229	Wagner - NY	JAX FA	12 CFA	8
+28	Taylor, Keith	CB	05/03/1999	22	6' 02"	191	Washington	CAR	21 05 166	R
+68	Tecklenburg, Sam	OC	01/31/1997	24	6' 03"	312	Baylor	CAR FA	20 CFA	1
+80	Thomas, Ian	TE	06/06/1996	25	6' 04"	259	Indiana	CAR	18 04 101	4
+23	Thomas-Oliver III, Stantley	CB	06/04/1998	23	6' 00"	192	Florida International	CAR	20 07 221	2
+86	Thompson, Colin	TE	12/15/1993	27	6' 04"	255	Temple	NYG FA	17 CFA	2
+7	Thompson, Shaq	OB	04/21/1994	27	6' 00"	228	Washington	CAR	15 01 025	7
+82	Tremble, Tommy	TE	06/02/2000	21	6' 04"	248	Notre Dame	CAR	21 03 083	R
+6	Walker, P.J.	QB	02/26/1995	26	5' 11"	199	Temple	IND FA	17 CFA	2

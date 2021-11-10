@@ -1,0 +1,49 @@
+24	Alexander, Mackensie	CB	11/12/1993	28	5' 10"	190	Clemson	MIN	16 02 054	6
+55	Barr, Anthony	OB	03/18/1992	29	6' 05"	255	UCLA	MIN	14 01 009	8
+3	Berry, Jordan	PT	03/18/1991	30	6' 05"	210	Eastern Kentucky	PIT FA	15 SFA	7
+29	Boyd, Kris	CB	09/12/1996	25	5' 11"	201	Texas	MIN	19 07 217	3
+64	Brandel, Blake	OT	01/23/1997	24	6' 06"	306	Oregon State	MIN	20 06 203	1
+21	Breeland, Bashaud	CB	01/30/1992	29	5' 11"	197	Clemson	WAS	14 04 102	8
+43	Bynum, Camryn	CB	07/19/1998	23	6' 00"	198	California	MIN	21 04 125	R
+85	Chisena, Dan	WR	02/25/1997	24	6' 03"	203	Penn State	MIN FA	20 CFA	2
+72	Cleveland, Ezra	OT	05/08/1998	23	6' 06"	311	Boise State	MIN	20 02 058	2
+52	Cole, Mason	OC	03/28/1996	25	6' 04"	307	Michigan	ARZ	18 03 097	4
+83	Conklin, Tyler	TE	07/30/1995	26	6' 03"	254	Central Michigan	MIN	18 05 157	4
+33	Cook, Dalvin	RB	08/10/1995	26	5' 10"	210	Florida State	MIN	17 02 041	5
+8	Cousins, Kirk	QB	08/19/1988	33	6' 03"	214	Michigan State	WAS	12 04 102	10
+27	Dantzler, Cameron	CB	09/03/1998	23	6' 02"	188	Mississippi State	MIN	20 03 089	2
+71	Darrisaw, Christian	OT	06/02/1999	22	6' 05"	315	Virginia Tech	MIN	21 01 023	R
+51	Davis, Wyatt	OG	02/17/1999	22	6' 04"	315	Ohio State	MIN	21 03 086	R
+42	DePaola, Andrew	LS	07/28/1987	34	6' 02"	230	Rutgers	TB FA	12 CFA	7
+45	Dye, Troy	IB	09/18/1996	25	6' 03"	231	Oregon	MIN	20 04 132	2
+97	Griffen, Everson	DE	12/22/1987	33	6' 03"	273	USC	MIN	10 04 100	11
+30	Ham, CJ	RB	07/22/1993	28	6' 01"	240	Augustana-SD	MIN FA	16 CFA	5
+20	Hand, Harrison	CB	11/12/1998	23	5' 11"	197	Temple	MIN	20 05 169	2
+89	Herndon, Christopher	TE	02/23/1996	25	6' 04"	253	Miami	NYJ	18 04 107	4
+69	Hill, Rashod	OT	01/12/1992	29	6' 06"	309	Southern Miss	JAX FA	16 CFA	6
+18	Jefferson, Justin	WR	01/16/1999	22	6' 01"	202	LSU	MIN	20 01 022	2
+93	Jones II, Patrick	DE	09/29/1998	23	6' 04"	264	Pittsburgh	MIN	21 03 090	R
+1	Joseph, Greg	PK	08/04/1994	27	6' 01"	210	Florida Atlantic	MIA FA	18 CFA	2
+54	Kendricks, Eric	IB	02/29/1992	29	6' 00"	232	UCLA	MIN	15 02 045	7
+48	Lynch, Blake	OB	01/20/1999	22	6' 02"	220	Baylor	MIN FA	20 CFA	2
+92	Lynch, James	DT	01/20/1999	22	6' 04"	289	Baylor	MIN	20 04 130	2
+14	Mannion, Sean	QB	04/25/1992	29	6' 06"	229	Oregon State	SL	15 03 089	7
+25	Mattison, Alexander	RB	06/19/1998	23	5' 11"	221	Boise State	MIN	19 03 102	3
+44	Metellus, Josh	SS	01/21/1998	23	5' 11"	209	Michigan	MIN	20 06 205	2
+11	Mond, Kellen	QB	06/22/1999	22	6' 02"	205	Texas A&M	MIN	21 03 066	R
+26	Nwangwu, Kene	RB	02/09/1998	23	6' 01"	210	Iowa State	MIN	21 04 119	R
+75	O'Neill, Brian	OT	09/15/1995	26	6' 07"	297	Pittsburgh	MIN	18 02 062	4
+17	Osborn, KJ	WR	06/10/1997	24	5' 11"	203	Miami	MIN	20 05 176	2
+58	Pierce, Michael	DT	11/06/1992	29	6' 00"	329	Samford	BAL FA	16 CFA	5
+90	Richardson, Sheldon	DT	11/29/1990	30	6' 02"	294	Missouri	NYJ	13 01 013	9
+15	Smith-Marsette, Ihmir	WR	08/29/1999	22	6' 01"	187	Iowa	MIN	21 05 157	R
+0	Stocker, Luke	TE	07/01/1988	33	6' 05"	253	Tennessee	TB	11 04 104	11
+41	Surratt, Chazz	IB	02/16/1997	24	6' 01"	227	North Carolina	MIN	21 03 078	R
+19	Thielen, Adam	WR	08/22/1990	31	6' 03"	200	Minnesota State - Mankato	MIN FA	13 CFA	8
+94	Tomlinson, Dalvin	DT	02/28/1994	27	6' 03"	312	Alabama	NYG	17 02 055	5
+74	Udoh, Olisaemeka	OT	02/14/1997	24	6' 05"	323	Elon	MIN	19 06 193	3
+59	Vigil, Nick	IB	08/20/1993	28	6' 02"	239	Utah State	CIN	16 03 087	6
+96	Watts, Armon	DT	07/22/1996	25	6' 05"	300	Arkansas	MIN	19 06 190	3
+12	Westbrook, Dede	WR	11/21/1993	27	6' 00"	178	Oklahoma	JAX	17 04 110	5
+98	Wonnum, DJ	DE	10/31/1997	24	6' 05"	258	South Carolina	MIN	20 04 117	2
+23	Woods, Xavier	SS	07/26/1995	26	5' 11"	197	Louisiana Tech	DAL	17 05 191	5

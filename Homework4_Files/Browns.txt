@@ -1,0 +1,50 @@
+99	Billings, Andrew	DT	03/06/1995	26	6' 01"	311	Baylor	CIN	16 04 122	5
+75	Bitonio, Joel	OG	10/11/1991	30	6' 04"	302	Nevada	CLE	14 02 035	8
+88	Bryant, Harrison	TE	04/23/1998	23	6' 05"	242	Florida Atlantic	CLE	20 04 115	2
+24	Chubb, Nick	RB	12/27/1995	25	5' 11"	227	Georgia	CLE	18 02 035	4
+90	Clowney, Jadeveon	OB/DE	02/14/1993	28	6' 05"	266	South Carolina	HOU	14 01 001	8
+22	Delpit, Grant	FS	09/20/1998	23	6' 02"	213	LSU	CLE	20 02 044	2
+68	Dunn, Michael	OG/OT	08/28/1994	27	6' 05"	300	Maryland	LAR FA	17 CFA	2
+96	Elliott, Jordan	DT	11/23/1997	23	6' 04"	302	Missouri	CLE	20 03 088	2
+25	Felton, Demetric	RB	07/16/1998	23	5' 09"	189	UCLA	CLE	21 06 211	R
+42	Fields II, Tony	IB	06/18/1999	22	6' 01"	222	West Virginia	CLE	21 05 153	R
+0	Froholdt, Hjalte	OG	08/20/1996	25	6' 05"	306	Arkansas	NE	19 04 118	3
+95	Garrett, Myles	DE	12/29/1995	25	6' 04"	272	Texas A&M	CLE	17 01 001	5
+7	Gillan, Jamie	PT	07/04/1997	24	6' 02"	200	Arkansas-Pine Bluff	CLE FA	19 CFA	3
+38	Green, AJ	CB	06/09/1998	23	6' 01"	202	Oklahoma State	CLE FA	20 CFA	1
+62	Hance, Blake	OT	01/11/1996	25	6' 05"	301	Northwestern	BUF FA	19 CFA	1
+53	Harris, Nick	OC	11/13/1998	23	6' 01"	302	Washington	CLE	20 05 160	2
+33	Harrison, Ronnie	FS	04/18/1997	24	6' 02"	207	Alabama	JAX	18 03 093	4
+82	Higgins, Rashard	WR	10/07/1994	27	6' 01"	196	Colorado State	CLE	16 05 172	6
+23	Hill, Troy	CB	08/29/1991	30	5' 10"	182	Oregon	CIN FA	15 CFA	6
+81	Hooper, Austin	TE	10/29/1994	27	6' 04"	254	Stanford	ATL	16 03 081	6
+66	Hudson, James	OT	05/13/1999	22	6' 04"	302	Cincinnati	CLE	21 04 110	R
+47	Hughlett, Charley	LS	05/16/1990	31	6' 04"	251	Central Florida	DAL FA	12 CFA	7
+91	Jackson, Joe	DE	12/20/1996	24	6' 04"	275	Miami	DAL	19 05 165	3
+97	Jackson, Malik	DE	01/11/1990	31	6' 05"	284	Tennessee	DEN	12 05 137	10
+31	Janovich, Andy	FB	05/23/1993	28	6' 01"	230	Nebraska	DEN	16 06 176	6
+30	Johnson, D'Ernest	RB	02/27/1996	25	5' 10"	204	South Florida	CLE FA	19 SFA	3
+43	Johnson III, John	FS	12/19/1995	25	6' 00"	208	Boston College	LAR	17 03 091	5
+5	Keenum, Case	QB	02/17/1988	33	6' 01"	210	Houston	HOU FA	12 CFA	9
+80	Landry, Jarvis	WR	11/28/1992	28	5' 11"	205	LSU	MIA	14 02 063	8
+39	LeCounte, Richard	SS	09/11/1998	23	5' 11"	192	Georgia	CLE	21 05 169	R
+52	Lee, Elijah	OB	02/08/1996	25	6' 02"	229	Kansas State	MIN	17 07 232	5
+6	Mayfield, Baker	QB	04/14/1995	26	6' 01"	215	Oklahoma	CLE	18 01 001	4
+58	McDowell, Malik	DE	06/20/1996	25	6' 06"	295	Michigan State	SEA	17 02 035	1
+55	McKinley, Takkarist	OB	11/02/1995	26	6' 02"	250	UCLA	ATL	17 01 026	5
+3	McLaughlin, Chase	PK	04/09/1996	25	6' 01"	190	Illinois	BUF FA	19 CFA	13
+20	Newsome, Greg	CB	05/18/2000	21	6' 01"	190	Northwestern	CLE	21 01 026	R
+85	Njoku, David	TE	07/10/1996	25	6' 04"	246	Miami	CLE	17 01 029	5
+57	Odenigbo, Ifeadi	DE	04/08/1994	27	6' 03"	257	Northwestern	MIN	17 07 220	4
+11	Peoples-Jones, Donovan	WR	02/19/1999	22	6' 02"	212	Michigan	CLE	20 06 187	2
+10	Schwartz, Anthony	WR	09/05/2000	21	6' 00"	186	Auburn	CLE	21 03 091	R
+56	Smith, Malcolm	OLB	07/05/1989	32	6' 00"	226	USC	SEA	11 07 242	10
+44	Takitaki, Sione	OB	06/08/1995	26	6' 01"	238	BYU	CLE	19 03 080	3
+77	Teller, Wyatt	OG	11/21/1994	26	6' 04"	314	Virginia Tech	BUF	18 05 166	4
+93	Togiai, Tommy	DT	09/19/1999	22	6' 02"	300	Ohio State	CLE	21 04 132	R
+64	Tretter, JC	OC/OG	02/12/1991	30	6' 04"	307	Cornell	GB	13 04 122	9
+4	Walker, Anthony	IB	08/08/1995	26	6' 01"	238	Northwestern	IND	17 05 161	5
+21	Ward, Denzel	CB	04/28/1997	24	5' 11"	183	Ohio State	CLE	18 01 004	4
+26	Williams, Greedy	CB	12/03/1997	23	6' 02"	185	LSU	CLE	19 02 046	3
+71	Wills Jr., Jedrick	OT	05/17/1999	22	6' 04"	312	Alabama	CLE 	20 01 010	2
+51	Wilson, Mack	IB	02/24/1998	23	6' 01"	240	Alabama	CLE	19 05 155	3

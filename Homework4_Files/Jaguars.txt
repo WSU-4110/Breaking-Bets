@@ -1,0 +1,53 @@
+39	Agnew, Jamal	WR/RB	04/03/1995	26	5' 10"	194	San Diego	DET	17 05 165	5
+53	Allen, Dakota	IB	11/02/1995	26	6' 01"	230	Texas Tech	LAR	19 07 251	3
+41	Allen, Josh	OB	07/13/1997	24	6' 05"	262	Kentucky	JAX	19 01 007	3
+0	Arnold, Dan	TE	03/15/1995	26	6' 05"	225	Wisconsin-Platteville	NO FA	17 CFA	5
+7	Austin, Tavon	WR	03/15/1991	30	5' 08"	174	West Virginia	SL	13 01 008	9
+78	Bartch, Ben	OT	07/22/1998	23	6' 06"	308	St. John's (MN)	JAX	20 04 116	2
+3	Beathard, CJ	QB	11/16/1993	28	6' 03"	219	Iowa	SF	17 03 104	5
+90	Brown, Malcom	DT	02/02/1994	27	6' 02"	319	Texas	NE	15 01 032	7
+93	Bryan, Taven	DT	03/11/1996	25	6' 05"	291	Florida	JAX	18 01 029	4
+32	Campbell, Tyson	CB	03/17/2000	21	6' 01"	185	Georgia	JAX	21 02 033	R
+45	Chaisson, K'Lavon	OB	07/25/1999	22	6' 03"	254	LSU	 JAX	 20 01 20	2
+38	Cisco, Andre	SS	03/23/2000	21	6' 01"	209	Syracuse	JAX	21 03 065	R
+27	Claybrooks, Chris	CB	07/17/1997	24	6' 00"	170	Memphis	JAX	20 07 223	2
+9	Cooke, Logan	PT	07/28/1995	26	6' 05"	224	Mississippi State	JAX	18 07 247	4
+89	Farrell, Luke	TE	10/14/1997	24	6' 05"	257	Ohio State	JAX	21 05 145	R
+5	Ford, Rudy	SS	11/01/1994	27	5' 11"	205	Auburn	ARZ	17 06 208	5
+96	Gotsis, Adam	DT	09/23/1992	29	6' 04"	287	Georgia Tech	DEN	16 02 063	6
+26	Griffin, Shaquill	CB	07/20/1995	26	6' 00"	194	Central Florida	SEA	17 03 090	5
+52	Hamilton, Davon	DT	02/01/1997	24	6' 03"	320	Ohio State	JAX	20 03 073	2
+37	Herndon, Tre	CB	03/05/1996	25	5' 11"	185	Vanderbilt	JAX FA	18 CFA	4
+86	Hollister, Jacob	TE	11/18/1993	27	6' 04"	239	Wyoming	NE FA	17 CFA	5
+24	Hyde, Carlos	RB	09/20/1990	31	6' 00"	230	Ohio State	SF	14 02 057	8
+44	Jack, Myles	IB	09/03/1995	26	6' 01"	245	UCLA	JAX	16 02 036	6
+2	Jenkins, Rayshawn	FS	01/25/1994	27	6' 01"	214	Miami	LAC	17 04 113	5
+12	Johnson, Tyron	WR	01/08/1996	25	6' 01"	181	Oklahoma State	HOU FA	19 CFA	2
+11	Jones, Marvin	WR	03/12/1990	31	6' 02"	200	California	CIN	12 05 166	10
+16	Lawrence, Trevor	QB	10/06/1999	22	6' 06"	213	Clemson	JAX	21 01 001	R
+21	Lawson, Nevin	CB	04/22/1991	30	5' 09"	190	Utah State	DET	14 04 133	8
+72	Little, Walker	OT	04/01/1999	22	6' 07"	313	Stanford	JAX	21 02 045	R
+84	Manhertz, Chris	TE	04/10/1992	29	6' 06"	255	Canisius	BUF FA	14 SFA	6
+46	Matiscik, Ross	LS	09/13/1996	25	6' 00"	235	Baylor	JAX FA	20 CFA	2
+55	McCray, Lerentee	OLB	08/26/1990	31	6' 02"	249	Florida	DEN FA	13 CFA	8
+62	McDermott, Kc	OG	04/18/1996	25	6' 06"	311	Miami	JAX FA	18 CFA	3
+68	Norwell, Andrew	OG	10/25/1991	30	6' 05"	320	Ohio State	CAR FA	14 CFA	8
+33	Ogunbowale, Dare	RB	05/04/1994	27	5' 11"	213	Wisconsin	HOU FA	17 CFA	3
+0	Ozigbo, Devine	RB	10/02/1996	25	5' 11"	219	Nebraska	NO FA	19 CFA	3
+50	Quarterman, Shaquille	IB	10/28/1997	24	6' 00"	242	Miami	JAX	20 04 140	2
+76	Richardson, Will	OT	01/04/1996	25	6' 06"	306	North Carolina St	JAX	18 04 129	4
+95	Robertson-Harris, Roy	DE	07/23/1993	28	6' 05"	251	UTEP	CHI FA	16 CFA	5
+74	Robinson, Cam	OT	10/09/1995	26	6' 06"	322	Alabama	JAX	17 02 034	5
+25	Robinson, James	RB	08/09/1998	23	5' 09"	219	Illinois State	JAX FA	20 CFA	2
+49	Russell, Chapelle	OB	01/20/1997	24	6' 02"	236	Temple	TB	20 07 241	2
+69	Shatley, Tyler	OG	05/05/1991	30	6' 03"	300	Clemson	JAX FA	14 CFA	8
+10	Shenault Jr., Laviska	WR	10/05/1998	23	6' 01"	227	Colorado	JAX	20 02 042	2
+92	Smith, Jordan	OB	04/10/1998	23	6' 06"	255	UAB	JAX	21 04 1212	R
+91	Smoot, Dawuane	DE	03/02/1995	26	6' 03"	255	Illinois	JAX	17 03 068	5
+75	Taylor, Jawaan	OT	11/25/1997	23	6' 05"	312	Florida	JAX	19 02 035	3
+20	Thomas, Daniel	SS	07/01/1998	23	5' 10"	215	Auburn	JAX	20 05 157	2
+18	Treadwell, Laquon	WR	06/14/1995	26	6' 02"	221	Mississippi	MIN	16 01 023	4
+6	Ward, Jihad	DE	03/11/1994	27	6' 05"	297	Illinois	OAK	16 02 044	6
+54	Wilson, Damien	IB	05/28/1993	28	6' 00"	245	Minnesota	DAL	15 04 127	7
+42	Wingard, Andrew	SS	12/05/1996	24	6' 00"	209	Wyoming	JAX FA	19 CFA	3
+0	Wright, Matthew	PK	03/22/1996	25	5' 11"	174	Central Florida	PIT FA	19 CFA	1

@@ -1,0 +1,54 @@
+52	Adams, Montravius	DT	07/24/1995	26	6' 03"	308	Auburn	GB	17 03 093	5
+29	Adebo, Paulson	CB			6' 01"	192	Stanford	NO	21 03 076	R
+5	Alexander, Kwon	OB	08/03/1994	27	6' 01"	227	LSU	TB	15 04 124	7
+40	Armah, Alex	RB	05/17/1994	27	6' 02"	253	West Georgia	CAR	17 06 192	5
+72	Armstead, Terron	OT	07/23/1991	30	6' 05"	306	Arkansas - Pine Bluff	NO	13 03 075	9
+53	Baun, Zack	OB	12/30/1996	24	6' 02"	238	Wisconsin	NO	20 03 074	2
+16	Book, Ian	QB	03/30/1998	23	6' 00"	210	Notre Dame	NO	21 04 133	R
+1	Callaway, Marquez	WR	03/27/1998	23	6' 01"	205	Tennessee	NO FA	20 CFA	2
+92	Davenport, Marcus	DE	09/04/1996	25	6' 06"	264	UTSA	NO	18 01 014	4
+56	Davis, Demario	ILB	01/11/1989	32	6' 02"	235	Arkansas State	NYJ	12 03 077	10
+50	Dowell, Andrew	OB	11/16/1996	24	6' 00"	229	Michigan State	DAL FA	19 CFA	1
+55	Elliss, Kaden	OB	07/10/1995	26	6' 02"	238	Idaho	NO	19 07 244	3
+22	Gardner-Johnson, Chauncey	SS	12/20/1997	23	5' 11"	210	Florida	NO	19 04 105	3
+4	Gillikin, Blake	PT	01/21/1998	23	6' 02"	194	Penn State	NO FA	20 CFA	2
+96	Granderson, Carl	OB	12/18/1996	24	6' 05"	254	Wyoming	NO FA	19 CFA	3
+48	Gray, JT	SS	01/18/1996	25	5' 11"	195	Mississippi State	NO FA	18 CFA	4
+45	Griffin, Garrett	TE	03/04/1994	27	6' 04"	225	Air Force	NO FA	16 CFA	3
+42	Hansen, Chase	OB	05/20/1993	28	6' 03"	222	Utah	NO FA	19 CFA	2
+11	Harris, Deonte	WR	12/04/1997	23	5' 06"	170	Assumption	NO FA	19 CFA	3
+38	Heath, Jeff	SS	05/14/1991	30	6' 01"	210	Saginaw Valley State	DAL FA	13 CFA	8
+7	Hill, Taysom	QB	08/23/1990	31	6' 02"	235	BYU	GB FA	17 CFA	5
+57	Holmes, Jalyn	DE	01/25/1996	25	6' 05"	283	Ohio State	MIN	18 04 102	4
+74	Hurst, James	OT	12/17/1991	29	6' 05"	296	North Carolina	BAL FA	14 CFA	8
+0	Ingram, Mark	RB	12/21/1989	31	5' 09"	215	Alabama	NO	11 01 028	11
+27	Jenkins, Malcolm	FS	12/20/1987	33	6' 00"	204	Ohio State	NO	09 01 014	13
+0	Johnson, Brian	PK			6' 01"	185	Virginia Tech	CHI FA	21 CFA	R
+83	Johnson, Juwan	WR	09/13/1996	25	6' 04"	230	Oregon	NO FA	20 CFA	2
+94	Jordan, Cameron	DE	07/10/1989	32	6' 04"	287	California	NO	11 01 024	11
+41	Kamara, Alvin	RB	07/25/1995	26	5' 10"	214	Tennessee	NO	17 03 067	5
+90	Kpassagnon, Tanoh	DE	06/14/1994	27	6' 07"	280	Villanova	KC	17 02 059	5
+23	Lattimore, Marshon	CB	05/19/1996	25	6' 00"	193	Ohio State	NO	17 01 011	5
+78	McCoy, Erik	OC	08/27/1997	24	6' 04"	303	Texas A&M	NO	19 02 048	3
+0	Mills, Jordan	OT	12/24/1990	30	6' 05"	316	Louisiana Tech	CHI	13 05 163	7
+88	Montgomery, Ty	RB/WR	01/22/1993	28	6' 00"	221	Stanford	GB	15 03 094	7
+93	Onyemata, David	DE	11/13/1992	29	6' 03"	304	Manitoba-Canada	NO	16 04 120	6
+71	Ramczyk, Ryan	OT	04/22/1994	27	6' 06"	310	Wisconsin	NO	17 01 032	5
+70	Ringo, Christian	DT	03/10/1992	29	6' 01"	290	Louisiana	GB	15 06 210	4
+97	Roach, Malcolm	DT	06/09/1998	23	6' 02"	297	Texas	NO FA	20 CFA	2
+21	Roby, Bradley	CB	05/01/1992	29	5' 11"	194	Ohio State	DEN	14 01 031	8
+51	Ruiz, Cesar	OC	06/14/1999	22	6' 03"	307	Michigan	NO	20 01 024	2
+15	Siemian, Trevor	QB	12/26/1991	29	6' 03"	212	Northwestern	DEN	15 07 250	6
+10	Smith, Tre'Quan	WR	01/07/1996	25	6' 02"	203	Central Florida	NO	18 03 091	4
+12	Stills, Kenny	WR	04/22/1992	29	6' 00"	194	Oklahoma	NO	13 05 144	8
+76	Throckmorton, Calvin	OG	08/16/1996	25	6' 05"	317	Oregon	NO FA	20 CFA	1
+82	Trautman, Adam	TE	02/05/1997	24	6' 05"	255	Dayton	NO	20 03 105	2
+98	Turner, Payton	DE	01/07/1999	22	6' 05"	270	Houston	NO	21 01 028	R
+99	Tuttle, Shy	DT	10/20/1995	26	6' 02"	290	Tennessee	NO FA	19 CFA	3
+24	Washington, Dwayne	RB	04/24/1994	27	6' 02"	226	Washington	DET	16 07 236	6
+20	Werner, Pete	OB	06/05/1999	22	6' 02"	242	Ohio State	NO	21 02 060	R
+43	Williams, Marcus	FS	09/08/1996	25	6' 01"	202	Utah	NO	17 02 042	5
+26	Williams, PJ	CB	06/01/1993	28	6' 00"	194	Florida State	NO	15 03 078	7
+2	Winston, Jameis	QB	01/06/1994	27	6' 04"	231	Florida State	TB	15 01 001	7
+49	Wood, Zach	DE	01/10/1993	28	6' 03"	258	SMU	DAL FA	16 CFA	5
+67	Young, Landon	OT	08/21/1997	24	6' 06"	310	Kentucky	NO	21 06 206	R

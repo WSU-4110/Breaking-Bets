@@ -1,0 +1,52 @@
+6	Ammendola, Matt	PK	12/11/1996	24	5' 09"	195	Oklahoma State	CAR FA	21 SFA	1
+10	Berrios, Braxton	WR	10/06/1995	26	5' 09"	184	Miami	NE	18 06 210	4
+32	Carter, Michael	RB	05/07/1999	22	5' 08"	202	North Carolina	NYG	21 04 107	R
+30	Carter III, Michael	CB	03/08/1999	22	5' 11"	182	Duke	NYJ	21 05 154	R
+88	Cole, Keelan	WR	04/20/1993	28	6' 02"	175	Kentucky Wesleyan	JAX FA	17 CFA	5
+23	Coleman, Tevin	RB	04/16/1993	28	5' 11"	206	Indiana	ATL	15 03 073	7
+82	Crowder, Jamison	WR	06/17/1993	28	5' 08"	185	Duke	WAS	15 04 105	7
+21	Davis, Ashtyn	FS	10/10/1996	25	6' 01"	202	California	NYJ	20 03 068	2
+84	Davis, Corey	WR	01/11/1995	26	6' 03"	209	Western Michigan	TEN	17 01 005	5
+52	Davis, Jarrad	IB	11/16/1994	27	6' 01"	238	Florida	DET	17 01 021	5
+27	Dunn, Isaiah	CB	01/31/1999	22	5' 11"	189	Oregon State	NYJ FA	21 CFA	R
+0	Duvernay-Tardif, Laurent	OT	02/11/1991	30	6' 05"	321	McGill (Canada)	KC	14 06 200	7
+26	Echols, Brandin	CB	10/16/1997	24	5' 11"	182	Kentucky	NYJ	21 06 200	R
+70	Edoga, Chuma	OG	05/25/1997	24	6' 03"	308	USC	NYJ	19 03 092	3
+76	Fant, George	OT	07/19/1992	29	6' 05"	296	Western Kentucky	SEA FA	16 CFA	6
+94	Fatukasi, Folorunso	DT	03/04/1995	26	6' 04"	318	Connecticut	NYJ	18 06 180	4
+67	Feeney, Dan	OG	05/29/1994	27	6' 04"	304	Indiana	LAC	17 03 071	5
+0	Flacco, Joe	QB	01/16/1985	36	6' 06"	245	Delaware	BAL	08 01 018	14
+91	Franklin-Myers, John	DE	09/26/1996	25	6' 04"	283	Stephen F. Austin	LAR	18 04 135	4
+86	Griffin, Ryan	TE	01/11/1990	31	6' 06"	247	Connecticut	HOU	13 06 201	9
+40	Guidry, Javelin	CB	08/06/1998	23	5' 09"	191	Utah	NYJ FA	20 CFA	2
+37	Hall, Bryce	CB	11/05/1997	24	6' 01"	202	Virginia	NYJ	20 05 158	2
+34	Hardee, Justin	CB/WR	02/07/1994	27	6' 01"	200	Illinois	HOU FA	17 CFA	5
+42	Hennessy, Thomas	LS	06/11/1994	27	6' 03"	236	Duke	IND FA	17 CFA	5
+25	Johnson, Ty	RB	09/17/1997	24	5' 10"	213	Maryland	DET	19 06 186	3
+81	Kroft, Tyler	TE	10/15/1992	29	6' 05"	246	Rutgers	CIN	15 03 085	7
+50	Lawson, Shaq	DE	06/17/1994	27	6' 03"	269	Clemson	BUF	16 01 019	6
+96	Marshall, Jonathan	DT	09/16/1997	24	6' 03"	310	Arkansas	NYJ	21 06 207	R
+20	Maye, Marcus	FS	03/08/1994	27	6' 00"	212	Florida	NYJ	17 02 039	5
+60	McGovern, Connor	OG	04/27/1993	28	6' 04"	306	Missouri	DEN	16 05 144	6
+11	Mims, Denzel	WR	10/10/1997	24	6' 03"	207	Baylor	NYJ	20 02 059	2
+8	Moore, Elijah	WR	03/27/2000	21	5' 09"	185	Mississippi	NYJ	21 02 034	R
+78	Moses, Morgan	OT	03/03/1991	30	6' 06"	314	Virginia	WAS	14 03 066	8
+57	Mosley, CJ	IB	06/19/1992	29	6' 02"	234	Alabama	BAL	14 01 017	7
+45	Nasirildeen, Hamsah	SS	01/17/1999	22	6' 03"	213	Florida State	NYJ	21 06 186	R
+35	Neasman, Sharrod	SS	10/14/1991	30	5' 11"	213	Florida Atlantic	ATL FA	16 CFA	6
+22	Perine, Lamical	RB	01/30/1998	23	5' 11"	216	Florida	NYJ	20 04 120	2
+43	Phillips, Del'Shawn	LB	10/09/1996	25	6' 02"	229	Illinois	ATL FA	19 CFA	2
+41	Pinnock, Jason	CB	06/30/1999	22	6' 00"	197	Pittsburgh	NYJ	21 05 175	R
+98	Rankins, Sheldon	DT	04/02/1994	27	6' 01"	299	Louisville	NO	16 01 012	6
+97	Shepherd, Nathan	DT	10/09/1993	28	6' 04"	315	Fort Hays State	NYJ	18 03 072	4
+16	Smith, Jeff	WR	04/21/1997	24	6' 00"	192	Boston College	NYJ FA	19 CFA	2
+62	Van Roten, Greg	OG	02/26/1990	31	6' 03"	303	Pennsylvania	GB FA	12 CFA	7
+75	Vera-Tucker, Alijah	OG	06/17/1999	22	6' 04"	308	USC	NYJ	21 01 014	R
+51	Ward, Tim	DE	08/11/1997	24	6' 05"	242	Old Dominion	KC FA	19 CFA	2
+85	Wesco, Trevon	TE/FB	09/12/1995	26	6' 03"	267	West Virginia	NYJ	19 04 121	3
+5	White, Mike	QB	03/25/1995	26	6' 05"	224	Western Kentucky	DAL	18 05 171	3
+71	Williams, Isaiah	OT	05/05/1993	28	6' 03"	295	Akron	WAS FA	16 CFA	1
+56	Williams, Quincy	OB	08/28/1996	25	5' 10"	233	Murray State	JAX	19 03 098	3
+95	Williams, Quinnen	DT	12/21/1997	23	6' 03"	303	Alabama	NYJ	19 01 003	3
+39	Wilson, Jarrod	FS	02/09/1994	27	6' 01"	210	Michigan	JAX FA	16 CFA	6
+2	Wilson, Zach	QB	08/03/1999	22	6' 02"	214	BYU	NYJ	21 01 002	R

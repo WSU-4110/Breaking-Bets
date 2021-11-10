@@ -1,0 +1,54 @@
+24	Adderley, Nasir	FS	05/31/1997	24	6' 00"	206	Delaware	LAC	19 02 060	3
+13	Allen, Keenan	WR	04/27/1992	29	6' 02"	206	California	SD	13 03 076	9
+82	Anderson, Stephen	TE	01/30/1993	28	6' 02"	215	California	HOU FA	16 CFA	4
+97	Bosa, Joey	DE	07/11/1995	26	6' 05"	269	Ohio State	SD	16 01 003	6
+20	Campbell, Tevaughn	CB	06/14/1993	28	6' 00"	195	Regina, Canada	NYJ FA	19 SFA	2
+87	Cook, Jared	TE	04/07/1987	34	6' 05"	248	South Carolina	TEN	09 03 089	13
+95	Covington, Christian	DT	10/16/1993	28	6' 02"	289	Rice	HOU	15 06 216	7
+4	Daniel, Chase	QB	10/07/1986	35	6' 00"	225	Missouri	WAS FA	09 CFA	13
+43	Davis, Michael	CB	01/06/1995	26	6' 02"	187	BYU	LAC FA	17 CFA	5
+30	Ekeler, Austin	RB	05/17/1995	26	5' 09"	191	Western State (CO)	LAC FA	17 CFA	5
+52	Fackrell, Kyler	OB	11/25/1991	29	6' 05"	245	Utah State	GB	16 03 088	6
+0	Facyson, Brandon	CB	09/08/1994	27	6' 01"	203	Virginia Tech	LAC FA	18 CFA	4
+71	Feiler, Matt	OT	07/07/1992	29	6' 06"	330	Bloomsburg	HOU FA	14 CFA	5
+92	Gaziano, Joe	DE	09/27/1996	25	6' 04"	281	Northwestern	LAC FA	20 CFA	1
+32	Gilman, Alohi	SS	09/17/1997	24	5' 10"	201	Notre Dame	LAC	20 06 186	2
+15	Guyton, Jalen	WR	06/07/1997	24	6' 01"	208	North Texas	DAL FA	19 CFA	2
+37	Hall, Kemon	CB	06/02/1997	24	5' 11"	188	North Texas	LAC FA	19 CFA	1
+25	Harris Jr., Chris	CB	06/18/1989	32	5' 10"	190	Kansas	DEN FA	11 CFA	11
+10	Herbert, Justin	QB	03/10/1998	23	6' 06"	236	Oregon	LAC	20 01 006	2
+0	Hopkins, Dustin	PK	10/01/1990	31	6' 02"	193	Florida State	BUF	13 06 177	8
+22	Jackson, Justin	RB	04/22/1996	25	6' 00"	199	Northwestern	LAC	18 07 251	4
+64	Jaimes, Brenden	OT	05/28/1999	22	6' 05"	300	Nebraska	LAC	21 05 159	R
+33	James, Derwin	SS	08/03/1996	25	6' 02"	215	Florida State	LAC	18 01 017	4
+93	Jones, Justin	DT	08/28/1996	25	6' 02"	309	North Carolina State	LAC	18 03 084	4
+98	Joseph, Linval	DT	10/10/1988	33	6' 04"	323	East Carolina	NYG	10 02 046	12
+0	Kelemete, Senio	OG	05/10/1990	31	6' 04"	300	Washington	ARZ	12 05 151	9
+27	Kelley, Joshua	RB	11/20/1997	23	5' 11"	212	UCLA	LAC	20 04 112	2
+63	Linsley, Corey	OC	07/27/1991	30	6' 03"	296	Ohio State	GB	14 05 161	8
+1	Long, Ty	PT/PK	04/06/1993	28	6' 02"	205	UAB	WAS FA	15 CFA	3
+36	Marshall, Trey	SS	02/13/1996	25	6' 00"	210	Florida State	DEN FA	18 CFA	3
+88	McKitty, Tre`	TE	01/12/1999	22	6' 04"	247	Georgia	LAC	21 03 097	R
+40	Nabers, Gabe	RB	11/05/1997	24	6' 03"	240	Florida State	LAC FA	20 CFA	2
+31	Niemann, Nick	OB	12/02/1997	23	6' 03"	237	Iowa	LAC	21 06 185	R
+74	Norton, Storm	OT	05/16/1994	27	6' 08"	308	Toledo	DET FA	17 CFA	2
+42	Nwosu, Uchenna	OB	12/28/1996	24	6' 02"	251	USC	LAC	18 02 048	4
+57	Ogbongbemiga, Amen	IB	09/04/1998	23	6' 00"	233	Oklahoma State	LAC FA	21 CFA	R
+54	Overton, Matt	LS	07/06/1985	36	6' 00"	248	Western Washington	SEA	10 CFA	9
+5	Palmer, Josh	WR	09/22/1999	22	6' 01"	210	Tennessee	LAC	21 03 077	R
+89	Parham, Donald	TE	08/16/1997	24	6' 08"	243	Stetson	DET FA	19 CFA	2
+79	Pipkins, Trey	OT	09/05/1996	25	6' 06"	309	Sioux Falls	LAC	19 03 091	3
+61	Quessenberry, Scott	OC	03/23/1995	26	6' 04"	310	UCLA	LAC	18 05 155	4
+0	Roberts, Andre	WR	01/09/1988	33	5' 11"	195	Citadel	ARZ	10 03 088	12
+35	Rountree III, Larry	RB	02/13/1998	23	5' 11"	216	Missouri	LAC	21 06 198	R
+94	Rumph II, Chris	OB	10/19/1998	23	6' 03"	235	Duke	LAC	21 04 118	R
+26	Samuel Jr., Asante	CB	10/03/1999	22	5' 10"	184	Florida State	LAC	21 02 047	R
+72	Schofield, Michael	OT	11/15/1990	31	6' 06"	301	Michigan	DEN	14 03 095	8
+70	Slater, Rashawn	OT	03/26/1999	22	6' 04"	304	Northwestern	LAC	21 01 013	R
+23	Smith, Ryan	CB	09/07/1993	28	5' 11"	174	North Carolina Central	TB	16 04 108	6
+2	Stick, Easton	QB	09/15/1995	26	6' 01"	224	North Dakota State	LAC	19 05 166	3
+99	Tillery, Jerry	DT	10/08/1996	25	6' 06"	295	Notre Dame	LAC	19 01 028	3
+49	Tranquill, Drue	OB	08/15/1995	26	6' 02"	234	Notre Dame	LAC	19 04 130	3
+29	Webb, Mark	CB	09/10/1998	23	6' 01"	210	Georgia	LAC	21 07 241	R
+44	White, Kyzir	LB	03/24/1996	25	6' 02"	218	West Virginia	LAC	18 04 119	4
+81	Williams, Mike	WR	10/04/1994	27	6' 04"	218	Clemson	LAC	17 01 007	5

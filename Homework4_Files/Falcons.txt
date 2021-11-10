@@ -1,0 +1,53 @@
+68	Andrews, Josh	OG/OC	06/21/1991	30	6' 02"	311	Oregon State	PHI FA	14 CFA	6
+0	Bates, Daren	MLB	11/27/1990	30	5' 11"	212	Auburn	SL FA	SF20	7
+13	Blake, Christian	WR	06/08/1996	25	6' 01"	182	Northern Illinois	ATL FA	18 CFA	3
+99	Bullard, Jonathan	DE	10/22/1993	28	6' 03"	285	Florida	CHI	16 03 072	6
+12	Colquitt, Dustin	PT	05/06/1982	39	6' 02"	210	Tennessee	KC	05 03 099	15
+50	Cominsky, John	DE	11/22/1995	25	6' 05"	286	Charleston (WV)	ATL	19 04 135	3
+51	Copeland, Brandon	ILB	07/02/1991	30	6' 03"	260	Pennsylvania	BAL FA	13 CFA	7
+67	Dalman, Drew	OC	10/15/1998	23	6' 03"	286	Stanford	ATL	21 04 114	R
+88	Darby, Frank	WR	09/08/1997	24	6' 00"	194	Arizona State	ATL	21 06 187	R
+90	Davidson, Marlon	DE	05/11/1998	23	6' 03"	303	Auburn	ATL	20 02 047	2
+28	Davis, Mike	RB	02/19/1993	28	5' 09"	217	South Carolina	SF	15 04 126	7
+96	Davison, Tyeler	DT	09/23/1992	29	6' 02"	316	Fresno State	NO	15 05 154	7
+15	Franks, Feleipe	QB	12/22/1997	23	6' 06"	234	Arkansas	ATL FA	21 CFA	R
+14	Gage, Russell	WR	01/22/1996	25	6' 00"	179	LSU	ATL	18 06 194	4
+25	Gallman II, Wayne	RB	10/01/1994	27	6' 00"	215	Clemson	NYG	17 04 140	5
+66	Gossett, Colby	OG	06/23/1995	26	6' 05"	311	Appalachian State	MIN	18 06 213	2
+95	Graham, Ta'Quon	DT	12/01/1998	22	6' 03"	290	Texas	ATL	21 05 148	R
+27	Grant, Richie	FS	11/09/1997	24	6' 00"	200	Central Florida	ATL	21 02 040	R
+34	Hall, Darren	CB	05/02/2000	21	5' 11"	189	San Diego State	ATL	21 04 108	R
+21	Harmon, Duron	FS	01/24/1991	30	6' 01"	204	Rutgers	NE	13 03 091	9
+23	Harris, Erik	FS	04/02/1990	31	6' 03"	225	California (PA)	NO FA	16 SFA	6
+47	Harris, Josh	LS	04/27/1989	32	6' 01"	224	Auburn	ATL FA	12 CFA	10
+32	Hawkins, Jaylinn	SS	08/25/1997	24	6' 01"	208	California	ATL	20 04 134	2
+61	Hennessy, Matt	OC	11/17/1997	23	6' 04"	307	Temple	ATL	20 03 078	2
+81	Hurst, Hayden	TE	08/24/1993	28	6' 04"	250	South Carolina	BAL	18 01 025	4
+97	Jarrett, Grady	DT	04/28/1993	28	6' 01"	304	Clemson	ATL	15 05 137	7
+45	Jones, Deion	OB	11/04/1994	27	6' 01"	222	LSU	ATL	16 02 052	6
+7	Koo, Younghoe	PK	08/03/1994	27	5' 10"	190	Georgia Southern	LAC FA	17 CFA	3
+63	Lindstrom, Chris	OG	02/08/1997	24	6' 04"	308	Boston College	ATL	19 01 014	3
+70	Matthews, Jake	OT	02/11/1992	29	6' 05"	308	Texas A&M	ATL	14 01 006	8
+77	Mayfield, Jalen	OT	05/23/2000	21	6' 06"	320	Michigan	ATL	21 03 068	R
+76	McGary, Kaleb	OT	02/22/1995	26	6' 07"	317	Washington	ATL	19 01 031	3
+55	Means, Steven	DE	12/05/1989	31	6' 03"	250	Buffalo	TB	13 05 147	7
+22	Moreau, Fabian	CB	04/09/1994	27	6' 00"	205	UCLA	WAS	17 03 081	5
+92	Ogundeji, Adetokunbo	DE	10/09/1998	23	6' 04"	256	Notre Dame	ATL	21 05 182	R
+54	Oluokun, Foyesade	LB	08/02/1995	26	6' 02"	229	Yale	ATL	18 06 200	4
+84	Patterson, Cordarrelle	WR	03/17/1991	30	6' 02"	216	Tennessee	MIN	13 01 029	9
+98	Pennel, Mike	DT	05/09/1991	30	6' 04"	332	Colorado State-Pueblo	GB FA	14 CFA	8
+8	Pitts, Kyle	TE	10/06/2000	21	6' 05"	245	Florida	ATL	21 01 004	R
+16	Rosen, Josh	QB	02/10/1997	24	6' 04"	226	UCLA	ARZ	18 01 010	3
+0	Rush, Anthony	DT	09/01/1996	25	6' 04"	354	UAB	PHI FA	19 CFA	3
+2	Ryan, Matt	QB	05/17/1985	36	6' 05"	220	Boston College	ATL	08 01 003	14
+4	Sharpe, Tajae	WR	12/23/1994	26	6' 02"	194	Massachusetts	TEN	16 05 140	6
+20	Sheffield, Kendall	CB	05/30/1996	25	5' 11"	193	Ohio State	ATL	19 04 111	3
+40	Smith, Keith	FB	04/08/1992	29	6' 01"	230	San Jose State	DAL FA	14 CFA	8
+85	Smith, Lee	TE	11/21/1987	33	6' 06"	269	Marshall	NE	11 05 159	11
+69	Spriggs, Jason	OT	05/17/1994	27	6' 06"	301	Indiana	GB	16 02 048	6
+24	Terrell, AJ	CB	09/23/1998	23	6' 01"	195	Clemson	ATL	20 01 016	2
+91	Tuioti-Mariner, Jacob	DE	07/25/1996	25	6' 03"	266	UCLA	ATL FA	18 CFA	3
+93	Vaughters, James	IB/OB	06/27/1993	28	6' 02"	258	Stanford	GB FA	15 CFA	2
+3	Walker, Mykal	OB	08/28/1997	24	6' 03"	230	Fresno State	ATL	20 04 119	2
+35	Williams, Avery	CB	07/15/1998	23	5' 09"	202	Boise State	ATL	21 05 183	R
+17	Zaccheaus, Olamide	WR	07/23/1997	24	5' 08"	193	Virginia	ATL FA	19 CFA	3

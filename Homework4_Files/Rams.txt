@@ -1,0 +1,52 @@
+55	Allen, Brian	OC	10/11/1995	26	6' 01"	298	Michigan State	LAR	18 04 111	4
+72	Anchrum, Tremayne	OG	06/24/1998	23	6' 02"	314	Clemson	LAR	20 07 250	2
+86	Blanton, Kendall	TE	11/10/1995	26	6' 06"	262	Missouri	LAR FA	19 CFA	1
+95	Brown III, Bobby	DT	08/07/2000	21	6' 04"	325	Texas A&M	LAR	21 04 117	R
+26	Burgess, Terrell	SS	11/12/1998	23	5' 11"	202	Utah	LAR	20 03 104	2
+63	Corbett, Austin	OG	09/05/1995	26	6' 04"	306	Nevada	CLE	18 02 033	4
+21	Deayon, Donte	CB	01/28/1994	27	5' 09"	155	Boise State	NYG FA	16 CFA	4
+99	Donald, Aaron	DT	05/23/1991	30	6' 01"	285	Pittsburgh	SL	14 01 013	8
+73	Edwards, David	OT	03/20/1997	24	6' 06"	308	Wisconsin	LAR	19 05 169	3
+71	Evans, Bobby	OG	03/24/1997	24	6' 04"	312	Oklahoma	LAR	19 03 097	3
+54	Floyd, Leonard	OB	09/08/1992	29	6' 06"	244	Georgia	CHI	16 01 009	6
+4	Fuller, Jordan	FS	03/04/1998	23	6' 02"	203	Ohio State	LAR	20 06 199	2
+91	Gaines, Greg	DT	05/06/1996	25	6' 01"	312	Washington	LAR	19 04 134	3
+48	Garrett, Chris	OB	07/15/1998	23	6' 03"	243	Concordia-St. Paul	LAR	21 07 252	R
+8	Gay, Matt	PK	03/15/1994	27	6' 00"	232	Utah	TB	19 05 145	3
+87	Harris, Jacob	WR	04/16/1997	24	6' 05"	226	Central Florida	LAR	21 04 141	R
+79	Havenstein, Rob	OT	05/13/1992	29	6' 07"	321	Wisconsin	SL	15 02 057	7
+6	Hekker, Johnny	PT	02/08/1990	31	6' 05"	227	Oregon State	SL FA	12 CFA	10
+27	Henderson, Darrell	RB	08/19/1997	24	5' 08"	208	Memphis	LAR	19 03 070	3
+89	Higbee, Tyler	TE	01/01/1993	28	6' 06"	249	Western Kentucky	LAR	16 04 110	6
+96	Hoecht, Michael	DT	10/05/1997	24	6' 03"	310	Brown	LAR FA	20 CFA	1
+88	Hopkins, Brycen	TE	03/27/1997	24	6' 04"	245	Purdue	LAR	20 04 136	2
+38	Howell, Buddy	RB	03/27/1996	25	6' 01"	215	Florida Atlantic	MIA FA	18 CFA	4
+23	Hughes, Juju	SS	07/19/1998	23	5' 10"	186	Fresno State	LAR FA	20 CFA	2
+68	Jackson, Alaric	OT	07/14/1998	23	6' 06"	318	Iowa	LAR FA	21 CFA	R
+12	Jefferson, Van	WR	07/26/1996	25	6' 01"	200	Florida	LAR	20 02 057	2
+50	Jones, Ernest	IB	11/22/1999	21	6' 02"	230	South Carolina	LAR	21 03 103	R
+0	Jones, Jamir	DE	06/14/1998	23	6' 03"	248	Notre Dame	HOU FA	20 CFA	1
+17	Koski, JJ	WR	12/27/1996	24	6' 01"	192	Cal Poly	LAR FA	20 CFA	1
+10	Kupp, Cooper	WR	06/15/1993	28	6' 01"	198	Eastern Washington	LAR	17 03 069	5
+52	Lewis, Terrell	OB	08/25/1998	23	6' 05"	262	Alabama	LAR	20 03 084	2
+22	Long, David	CB	02/06/1998	23	5' 11"	196	Michigan	LAR	19 03 079	3
+25	Michel, Sony	RB	02/17/1995	26	5' 11"	214	Georgia	NE	18 01 031	4
+0	Miller, Von	OLB	02/10/1989	32	6' 03"	246	Texas A&M	DEN	11 01 002	11
+70	Noteboom, Joseph	OT	06/19/1995	26	6' 05"	309	TCU	LAR	18 03 089	4
+45	Okoronkwo, Ogbonnia	OB	04/24/1995	26	6' 02"	253	Oklahoma	LAR	18 05 160	4
+42	Orzech, Matt	LS	04/12/1995	26	6' 04"	245	Azusa Pacific	BAL FA	19 CFA	2
+16	Perkins, Bryce	QB	12/20/1996	24	6' 02"	214	Virginia	LAR FA	20 CFA	1
+5	Ramsey, Jalen	CB	10/24/1994	27	6' 01"	209	Florida State	JAX	16 01 005	6
+24	Rapp, Taylor	FS	12/22/1997	23	6' 00"	208	Washington	LAR	19 02 061	3
+51	Reeder, Troy	IB	09/13/1994	27	6' 01"	240	Delaware	LAR FA	19 CFA	3
+94	Robinson, A'Shawn	DT	03/21/1995	26	6' 04"	307	Alabama	DET	16 02 046	6
+31	Rochell, Robert	CB	04/26/1998	23	6' 00"	195	Central Arkansas	LAR	21 04 130	R
+0	Rozeboom, Christian	OB	01/30/1997	24	6' 02"	227	South Dakota State	LAR FA	20 CFA	1
+33	Scott, Nick	SS	05/17/1995	26	5' 11"	200	Penn State	LAR	19 07 243	3
+65	Shelton, Coleman	OC	07/28/1995	26	6' 03"	292	Washington	SF FA	18 CFA	3
+18	Skowronek, Ben	WR	06/27/1997	24	6' 03"	211	Notre Dame	LAR	21 07 249	R
+9	Stafford, Matthew	QB	02/07/1988	33	6' 03"	232	Georgia	DET	09 01 001	13
+77	Whitworth, Andrew	OT	12/12/1981	39	6' 07"	335	LSU	CIN	06 02 055	16
+11	Williams, Darious	CB	03/15/1993	28	5' 10"	180	UAB	BAL FA	18 CFA	4
+13	Wolford, John	QB	10/16/1995	26	6' 00"	200	Wake Forest	NYJ FA	18 CFA	2
+2	Woods, Robert	WR	04/10/1992	29	6' 00"	201	USC	BUF	13 02 041	9

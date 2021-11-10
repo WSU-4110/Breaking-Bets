@@ -1,0 +1,53 @@
+92	Adeniyi, Olasunkanmi	OB	09/12/1997	24	6' 01"	248	Toledo	PIT FA	18 CFA	4
+96	Autry, Denico	DE	07/15/1990	31	6' 04"	265	Mississippi State	OAK FA	14 CFA	8
+94	Bledsoe, Amani	DE	02/06/1998	23	6' 04"	287	Oklahoma	TEN FA	19 CFA	2
+39	Borders, Breon	CB	07/22/1995	26	5' 11"	181	Duke	OAK FA	17 CFA	3
+33	Breeze, Brady	SS	10/09/1997	24	5' 10"	190	Oregon	TEN	21 06 215	R
+62	Brewer, Aaron	OC	10/28/1997	24	6' 03"	270	Texas State	TEN FA	20 CFA	3
+11	Brown, AJ	WR	06/30/1997	24	6' 00"	226	Mississippi	TEN	19 02 051	2
+55	Brown, Jayon	IB	02/26/1995	26	6' 00"	231	UCLA	TEN	17 05 155	5
+14	Bullock, Randy	PK	12/16/1989	31	5' 09"	205	Texas A&M	HOU	12 05 161	10
+31	Byard, Kevin	SS	08/17/1993	28	5' 11"	216	Middle Tennessee State	TEN	16 03 064	6
+44	Carter, Tory	FB	03/16/1999	22	6' 01"	252	LSU	TEN FA	21 CFA	R
+46	Cox, Morgan	LS	04/26/1986	35	6' 04"	241	Tennessee	BAL FA	10 CFA	12
+29	Cruikshank, Dane	CB	04/27/1995	26	6' 01"	209	Arizona	TEN	18 05 152	4
+64	Davis, Nate	OG	09/23/1996	25	6' 03"	316	Charlotte	TEN	19 03 082	3
+48	Dupree, Bud	DE	02/12/1993	28	6' 04"	269	Kentucky	PIT	15 01 022	7
+49	Dzubnar, Nick	ILB	08/15/1991	30	6' 02"	240	Cal Poly	SD FA	15 CFA	6
+54	Evans, Rashaan	IB	11/08/1995	26	6' 02"	232	Alabama	TEN	18 01 022	4
+21	Farley, Matthias	SS	07/15/1992	29	5' 11"	204	Notre Dame	ARZ FA	16 CFA	6
+86	Firkser, Anthony	TE	02/19/1995	26	6' 02"	230	Harvard	NYJ FA	17 CFA	4
+0	Foreman, D'Onta	RB	04/24/1996	25	6' 00"	233	Texas	HOU	17 03 089	3
+0	Hart, Bobby	OG	08/21/1994	27	6' 05"	336	Florida State	NYG	15 07 226	7
+37	Hooker, Amani	SS	06/14/1998	23	5' 11"	210	Iowa	TEN	19 04 116	3
+35	Jackson, Chris	CB	04/13/1998	23	5' 10"	186	Marshall	TEN	20 07 243	2
+20	Jenkins, Janoris	CB	10/29/1988	33	5' 10"	193	North Alabama	SL	12 02 039	10
+88	Johnson, Marcus	WR	08/05/1994	27	6' 00"	192	Texas	PHI FA	16 CFA	5
+60	Jones, Ben	OG	07/02/1989	32	6' 03"	316	Georgia	HOU	12 04 099	10
+42	Jones, Joseph	LB	02/21/1994	27	6' 01"	235	Northwestern	DAL FA	17 CFA	5
+2	Jones, Julio	WR	02/03/1989	32	6' 03"	220	Alabama	ATL	11 01 006	11
+90	Jones, Naquan	NT	02/05/1998	23	6' 03"	328	Michigan State	TEN FA	21 CFA	R
+6	Kern, Brett	PT	02/17/1986	35	6' 02"	217	Toledo	DEN FA	08 CFA	14
+71	Lamm, Kendall	OT	06/05/1992	29	6' 05"	298	Appalachian State	HOU FA	15 CFA	7
+58	Landry, Harold	OB	06/05/1996	25	6' 02"	252	Boston College	TEN	18 02 041	4
+61	Levin, Corey	OG	08/12/1994	27	6' 04"	303	Tennessee-Chattanooga	TEN	17 06 217	4
+77	Lewan, Taylor	OT	07/21/1991	30	6' 07"	309	Michigan	TEN	14 01 011	8
+51	Long Jr., David	IB	10/12/1996	25	5' 11"	227	West Virginia	TEN	19 06 188	3
+0	Mabin, Greg	CB	06/25/1994	27	6' 00"	198	Iowa	TB FA	17 CFA	5
+28	McNichols, Jeremy	RB	12/26/1995	25	5' 09"	214	Boise State	TB	17 05 162	2
+24	Molden, Elijah	SS	01/30/1999	22	5' 10"	192	Washington	TEN	21 03 100	R
+91	Murchison, Larrell	DT	04/24/1997	24	6' 02"	297	North Carolina State	TEN	20 05 174	2
+0	Peterson, Adrian	RB	03/21/1985	36	6' 01"	217	Oklahoma	MIN	07 01 007	13
+85	Pruitt, MyCole	TE	03/24/1992	29	6' 02"	251	Southern Illinois	MIN	15 05 143	6
+72	Quessenberry, David	OT	08/24/1990	31	6' 05"	302	San Jose State	HOU	13 06 176	3
+75	Radunz, Dillon	OT	03/28/1998	23	6' 06"	304	North Dakota State	TEN	21 02 053	R
+18	Reynolds, Josh	WR	02/16/1995	26	6' 03"	194	Texas A&M	LAR	17 04 117	5
+56	Rice, Monty	IB	01/08/1999	22	6' 00"	238	Georgia	TEN	21 03 092	R
+80	Rogers, Chester	WR	01/12/1994	27	6' 01"	180	Grambling	IND FA	16 CFA	5
+76	Saffold, Rodger	OT	06/06/1988	33	6' 05"	318	Indiana	SL	10 02 033	12
+98	Simmons, Jeffery	DT	07/28/1997	24	6' 04"	301	Mississippi State	TEN	19 01 019	3
+87	Swaim, Geoff	TE	09/16/1993	28	6' 04"	245	Texas	DAL	15 07 246	7
+17	Tannehill, Ryan	QB	07/27/1988	33	6' 04"	222	Texas A&M	MIA	12 01 008	10
+93	Tart, Teair	DT	02/28/1997	24	6' 02"	300	Florida International	TEN FA	20 CFA	2
+15	Westbrook-Ikhine, Nick	WR	03/21/1997	24	6' 03"	211	Indiana	TEN FA	20 CFA	2
+5	Woodside, Logan	QB	01/27/1995	26	6' 01"	213	Toledo	CIN	18 07 249	1

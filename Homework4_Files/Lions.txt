@@ -1,0 +1,52 @@
+13	Allison, Geronimo	WR	01/18/1994	27	6' 03"	196	Illinois	GB FA	16 CFA	5
+34	Anzalone, Alex	OB	09/22/1994	27	6' 03"	240	Florida	NO	17 03 076	5
+55	Barnes, Derrick	IB	05/29/1999	22	6' 00"	245	Purdue	DET	21 04 113	R
+17	Benson, Trinity	WR	01/16/1997	24	5' 11"	186	East Central Oklahoma	DEN FA	19 CFA	1
+10	Blough, David	QB	07/31/1995	26	6' 00"	205	Purdue	CLE FA	19 CFA	3
+91	Brockers, Michael	DT	12/21/1990	30	6' 05"	322	LSU	SL	12 01 014	10
+63	Brown, Evan	OC	09/16/1996	25	6' 03"	308	SMU	NYG FA	18 CFA	3
+2	Bryant, Austin	DE	11/12/1996	25	6' 04"	271	Clemson	DET	19 04 117	3
+45	Cabinda, Jason	IB/FB	03/17/1996	25	6' 01"	239	Penn State	OAK FA	18 CFA	3
+96	Cornell, Jashon	DT	12/30/1996	24	6' 03"	285	Ohio State	DET	20 07 235	2
+47	Daly, Scott	LS	02/07/1994	27	6' 01"	250	Notre Dame	DAL FA	18 SFA	1
+68	Decker, Taylor	OT	08/23/1994	27	6' 07"	310	Ohio State	DET	16 01 016	6
+90	Flowers, Trey	DE	08/16/1993	28	6' 02"	266	Arkansas	NE	15 04 101	7
+3	Fox, Jack	PT	09/01/1996	25	6' 02"	211	Rice	KC FA	19 CFA	2
+0	Gilbert, Mark	CB	06/01/1997	24	6' 01"	175	Duke	PIT FA	21 CFA	R
+16	Goff, Jared	QB	10/14/1994	27	6' 04"	215	California	LAR	16 01 001	6
+93	Hand, Da'Shawn	DE	11/14/1995	26	6' 04"	297	Alabama	DET	18 04 114	4
+53	Harris, Charles	OB	03/06/1995	26	6' 03"	253	Missouri	MIA	17 01 022	5
+25	Harris, Will	SS	12/19/1995	25	6' 01"	207	Boston College	DET	19 03 081	3
+88	Hockenson, TJ	TE	07/03/1997	24	6' 05"	251	Iowa	DET	19 01 008	3
+18	Hodge, KhaDarel	WR	01/03/1995	26	6' 02"	201	Prairie View	LAR FA	18 CFA	4
+69	Holden, Will	OT	09/14/1993	28	6' 07"	313	Vanderbilt	ARZ	17 05 157	3
+35	Igwebuike, Godwin	SS	09/10/1994	27	5' 11"	213	Northwestern	TB FA	18 CFA	2
+73	Jackson, Jonah	OG	02/05/1997	24	6' 03"	306	Ohio State	DET	20 03 075	2
+39	Jacobs, Jerry	CB	09/26/1997	24	5' 11"	207	Arkansas	DET FA	21 CFA	R
+28	Jefferson, Jermar	RB	04/15/2000	21	5' 10"	208	Oregon State	DET	21 07 257	R
+52	Lemonier, Jessie	OB	01/31/1997	24	6' 02"	237	Liberty	LAC FA	20 CFA	2
+31	Marlowe, Dean	FS	07/25/1992	29	6' 01"	203	James Madison	CAR FA	15 CFA	6
+0	McCollum, Ryan	OC	03/04/1998	23	6' 05"	300	Texas A&M	HOU FA	21 CFA	R
+54	McNeill, Alim	DT	05/11/2000	21	6' 02"	315	North Carolina St	DET	21 03 072	R
+38	Moore, CJ	FS	12/15/1995	25	5' 11"	197	Mississippi	DET FA	19 CFA	3
+67	Nelson, Matt	OT	12/19/1995	25	6' 07"	294	Iowa	DET FA	19 CFA	2
+99	Okwara, Julian	OB	12/27/1997	23	6' 04"	252	Notre Dame	DET	20 03 067	2
+75	Onwuzurike, Levi	DT	03/03/1998	23	6' 03"	290	Washington	DET	21 02 041	R
+24	Oruwariye, Amani	CB	02/09/1996	25	6' 02"	205	Penn State	DET	19 05 146	3
+41	Parker, AJ	CB	02/15/1998	23	5' 10"	177	Kansas State	DET FA	21 CFA	R
+98	Penisini, John	DT	05/31/1997	24	6' 01"	318	Utah	DET	20 06 197	2
+57	Pittman, Anthony	IB	11/24/1996	24	6' 03"	222	Wayne State (MI)	DET FA	19 CFA	1
+27	Price, Bobby	SS	04/25/1998	23	6' 03"	205	Norfolk State	DET FA	20 CFA	2
+11	Raymond, Kalif	WR	08/08/1994	27	5' 09"	160	Holy Cross	DEN FA	16 CFA	5
+44	Reeves-Maybin, Jalen	OB	01/31/1995	26	6' 00"	230	Tennessee	DET	17 04 124	5
+4	Seibert, Austin	PK	11/15/1996	25	5' 09"	209	Oklahoma	CLE	19 05 170	3
+58	Sewell, Penei	OT	10/09/2000	21	6' 05"	330	Oregon	DET	21 01 007	R
+14	St. Brown, Amon-Ra	WR	10/24/1999	22	5' 11"	197	USC	DET	21 04 112	R
+92	Strong Jr., Kevin	DT	08/05/1996	25	6' 03"	295	Texas-San Antonio	DET FA	19 CFA	3
+32	Swift, D'Andre	RB	01/14/1999	22	5' 08"	212	Georgia	DET	20 02 035	2
+72	Vaitai, Halapoulivaati	OT	06/16/1993	28	6' 06"	320	TCU	PHI	16 05 164	6
+21	Walker, Tracy	SS	02/01/1995	26	6' 01"	206	UL Lafayette	DET	18 03 082	4
+30	Williams, Jamaal	RB	04/03/1995	26	6' 00"	211	BYU	GB	17 04 134	5
+97	Williams, Nicholas	DE	02/21/1990	31	6' 04"	309	Samford - AL	PIT	13 07 223	7
+51	Woods, Josh	LB	07/01/1996	25	6' 01"	204	Maryland	CHI FA	18 CFA	3
+89	Wright, Brock	TE	11/27/1998	22	6' 04"	255	Notre Dame	DET FA	21 CFA	R

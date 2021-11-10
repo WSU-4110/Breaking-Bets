@@ -1,0 +1,53 @@
+73	Allegretti, Nick	OG	04/21/1996	25	6' 04"	308	Illinois	KC	19 07 216	3
+30	Baker, Deandre	CB	09/04/1997	24	5' 11"	193	Georgia	NYG	19 01 030	2
+81	Bell, Blake	TE	08/07/1991	30	6' 06"	252	Oklahoma	SF	15 04 117	7
+66	Blythe, Austin	OC	06/16/1992	29	6' 02"	298	Iowa	IND	16 07 248	6
+54	Bolton, Nick	OB	03/10/2000	21	6' 00"	232	Missouri	KC	21 02 058	R
+0	Brown, Daniel	TE/WR	05/26/1992	29	6' 05"	250	James Madison	BAL FA	15 CFA	7
+57	Brown, Orlando	OT	05/02/1996	25	6' 08"	345	Oklahoma	BAL	18 03 083	4
+45	Burton, Mike	FB	02/01/1992	29	5' 11"	242	Rutgers	DET	15 05 168	7
+7	Butker, Harrison	PK	07/14/1995	26	6' 04"	206	Georgia Tech	CAR	17 07 233	5
+55	Clark, Frank	DE	06/14/1993	28	6' 01"	270	Michigan	SEA	15 02 063	7
+51	Danna, Mike	OB	12/01/1997	23	6' 02"	257	Michigan	KC	20 05 177	2
+27	Fenton, Rashad	CB	02/17/1997	24	5' 11"	190	South Carolina	KC	19 06 201	3
+50	Gay Jr., Willie	OB	02/15/1998	23	6' 01"	243	Mississippi State	KC	20 02 063	2
+0	Gordon, Josh	WR	04/13/1991	30	6' 03"	225	Baylor	CLE Supp	12 02 Supp	3
+40	Gore, Derrick	RB	12/13/1994	26	5' 10"	212	Louisiana-Monroe	LAC FA	19 CFA	1
+83	Gray, Noah	TE	04/30/1999	22	6' 04"	240	Duke	KC	21 05 162	R
+17	Hardman, Mecole	WR	03/12/1998	23	5' 10"	187	Georgia	KC	19 02 056	3
+4	Henne, Chad	QB	07/02/1985	36	6' 03"	230	Michigan	MIA	08 02 057	14
+10	Hill, Tyreek	WR	03/01/1994	27	5' 10"	185	West Alabama	KC	16 05 165	6
+53	Hitchens, Anthony	OB	06/10/1992	29	6' 00"	240	Iowa	DAL	14 04 119	8
+21	Hughes, Mike	CB	02/11/1997	24	5' 10"	189	Central Florida	MIN	18 01 030	4
+52	Humphrey, Creed	OC	06/28/1999	22	6' 05"	312	Oklahoma	KC	21 02 063	R
+0	Ingram, Melvin	OLB	04/26/1989	32	6' 01"	265	South Carolina	SD	12 01 018	10
+95	Jones, Chris	DT	07/03/1994	27	6' 06"	310	Mississippi State	KC	16 02 037	6
+87	Kelce, Travis	TE	10/05/1989	32	6' 05"	255	Cincinnati	KC	13 03 063	9
+85	Kemp, Marcus	WR	08/14/1995	26	6' 04"	200	Hawaii	KC FA	17 CFA	4
+26	Lammons, Chris	SS	01/31/1996	25	5' 10"	190	South Carolina	ATL FA	18 CFA	2
+15	Mahomes II, Patrick	QB	09/17/1995	26	6' 02"	225	Texas Tech	KC	17 01 010	5
+32	Mathieu, Tyrann	FS	05/13/1992	29	5' 09"	186	LSU	ARZ	13 03 069	9
+1	McKinnon, Jerick	RB	05/03/1992	29	5' 09"	209	Georgia Southern	MIN	14 03 096	8
+67	Niang, Lucas	OT	08/19/1998	23	6' 06"	315	TCU	KC	20 03 96	1
+56	Niemann, Ben	OB	07/27/1995	26	6' 03"	230	Iowa	KC FA	18 CFA	4
+91	Nnadi, Derrick	NT	05/09/1996	25	6' 01"	317	Florida State	KC	18 03 075	4
+44	O'Daniel, Dorian	OB	09/04/1994	27	6' 01"	223	Clemson	KC	18 03 100	4
+97	Okafor, Alex	OLB	02/08/1991	30	6' 04"	264	Texas	ARZ	13 04 103	9
+13	Pringle, Byron	WR	11/17/1993	27	6' 01"	203	Kansas State	KC FA	18 CFA	4
+90	Reed, Jarran	DT	12/16/1992	28	6' 03"	307	Alabama	SEA	16 02 049	6
+75	Remmers, Mike	OT	04/11/1989	32	6' 05"	303	Oregon State	DEN FA	12 CFA	9
+11	Robinson, Demarcus	WR	09/21/1994	27	6' 01"	203	Florida	KC	16 04 126	6
+99	Saunders, Khalen	DT	08/09/1996	25	6' 00"	324	Western Illinois	KC	19 03 084	3
+65	Smith, Trey	OG	06/16/1999	22	6' 05"	331	Tennessee	KC	21 06 226	R
+38	Sneed, L'Jarius	FS	01/21/1997	24	6' 00"	192	Louisiana Tech	KC	20 04 138	2
+49	Sorensen, Daniel	SS	03/05/1990	31	6' 01"	205	BYU	KC FA	14 CFA	8
+22	Thornhill, Juan	SS	10/19/1995	26	6' 00"	205	Virginia	KC	19 02 063	3
+62	Thuney, Joe	OG	11/19/1992	28	6' 05"	304	North Carolina St	NE	16 03 078	6
+5	Townsend, Tommy	PT	02/14/1995	26	6' 01"	191	Florida	KC FA	20 CFA	2
+70	Wanogho, Prince Tega	OT	11/22/1997	23	6' 05"	308	Auburn	PHI	20 06 210	1
+35	Ward, Charvarius	CB	05/16/1996	25	6' 00"	191	Middle Tennessee	DAL FA	18 CFA	4
+23	Watts, Armani	FS	03/19/1996	25	5' 10"	202	Texas A&M	KC	18 04 124	4
+98	Wharton, Tershawn	DT	06/25/1998	23	6' 01"	280	Missouri S&T	KC FA	20 CFA	2
+31	Williams, Darrel	RB	04/15/1995	26	6' 00"	225	LSU	KC FA	18 CFA	4
+41	Winchester, James	LS	08/06/1989	32	6' 03"	200	Oklahoma	PHI	13 SFA	7
+77	Wylie, Andrew	OT	08/19/1994	27	6' 06"	311	Eastern Michigan	IND FA	17 CFA	4

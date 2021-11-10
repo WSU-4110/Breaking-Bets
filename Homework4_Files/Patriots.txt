@@ -1,0 +1,52 @@
+15	Agholor, Nelson	WR	05/24/1993	28	6' 00"	198	USC	PHI	15 01 020	7
+60	Andrews, David	OC	07/10/1992	29	6' 02"	286	Georgia	NE FA	15 CFA	7
+86	Asiasi, Devin	TE	08/14/1997	24	6' 03"	257	UCLA	NE	20 03 091	2
+7	Bailey, Jake	PT	06/18/1997	24	6' 01"	197	Stanford	NE	19 05 163	3
+90	Barmore, Christian	DT	07/28/1999	22	6' 05"	310	Alabama	NE	21 02 038	R
+8	Bentley, Ja'Whaun	IB	08/24/1996	25	6' 02"	250	Purdue	NE	18 05 143	4
+29	Bethel, Justin	FS	06/17/1990	31	6' 00"	200	Presbyterian - SC	ARZ	12 06 177	10
+25	Bolden, Brandon	RB	01/26/1990	31	5' 11"	215	Mississippi	NE FA	12 CFA	9
+84	Bourne, Kendrick	WR	08/04/1995	26	6' 02"	190	Eastern Washington	SF FA	17 CFA	5
+41	Bryant, Myles	FS	01/02/1998	23	5' 08"	183	Washington	NE FA	20 CFA	2
+72	Cajuste, Yodny	OT	02/21/1996	25	6' 05"	312	West Virginia	NE	19 03 101	2
+49	Cardona, Joe	LS	04/16/1992	29	6' 02"	232	Navy	NE	15 05 166	7
+0	Collins, Jamie	OLB	05/02/1990	31	6' 03"	250	Southern Miss	NE	13 02 052	9
+98	Davis, Carl	DT	03/02/1992	29	6' 05"	321	Iowa	BAL	15 03 090	7
+22	Davis, Cody	SS	06/06/1989	32	6' 01"	204	Texas Tech	SL FA	13 CFA	9
+23	Dugger, Kyle	SS	03/22/1996	25	6' 01"	217	Lenoir-Rhyne	NE	20 02 037	2
+70	Durant, Yasir	OT	05/21/1998	23	6' 06"	331	Missouri	KC FA	20 CFA	2
+6	Folk, Nick	PK	11/05/1984	37	6' 01"	222	Arizona	DAL	07 06 178	14
+92	Godchaux, Davon	DT	11/11/1994	27	6' 03"	310	LSU	MIA	17 05 178	5
+93	Guy, Lawrence	DE	03/17/1990	31	6' 04"	300	Arizona State	GB	11 07 233	11
+37	Harris, Damien	RB	02/11/1997	24	5' 10"	216	Alabama	NE	19 03 087	3
+1	Harry, N'Keal	WR	12/17/1997	23	6' 02"	228	Arizona State	NE	19 01 032	3
+85	Henry, Hunter	TE	12/07/1994	26	6' 05"	250	Arkansas	SD	16 02 035	6
+75	Herron, Justin	OG	11/27/1995	25	6' 04"	308	Wake Forest	NE	20 06 195	2
+54	Hightower, Dont'a	OLB	03/12/1990	31	6' 02"	262	Alabama	NE	12 01 025	9
+5	Hoyer, Brian	QB	10/13/1985	36	6' 02"	215	Michigan State	NE FA	09 CFA	13
+27	Jackson, JC	CB	11/17/1995	25	5' 10"	201	Maryland	NE FA	18 CFA	4
+47	Johnson, Jakob	TE	12/15/1994	26	6' 03"	253	Tennessee	NE FA	19 SFA	3
+10	Jones, Mac	QB	09/05/1998	23	6' 03"	217	Alabama	NE	21 01 015	R
+9	Judon, Matt	DE/OB	08/15/1992	29	6' 03"	275	Grand Valley State	BAL	16 05 146	6
+67	Karras, Ted	OG	03/15/1993	28	6' 04"	308	Illinois	NE	16 06 221	6
+36	King, Brandon	S/LB	06/08/1993	28	6' 02"	212	Auburn	NE FA	15 CFA	7
+69	Mason, Shaquille	OG	08/28/1993	28	6' 02"	310	Georgia Tech	NE	15 04 131	7
+32	McCourty, Devin	FS	08/13/1987	34	5' 11"	193	Rutgers	NE	10 01 027	12
+16	Meyers, Jakobi	WR	11/09/1996	25	6' 02"	203	North Carolina State	NE FA	19 CFA	3
+2	Mills, Jalen	FS	04/06/1994	27	6' 00"	191	LSU	PHI	16 07 233	6
+0	Munson, Calvin	OB	12/27/1994	26	6' 01"	245	San Diego State	NYG FA	17 CFA	3
+80	Olszewski, Gunner	WR	11/26/1996	24	6' 00"	170	Bemidji State	NE FA	19 CFA	3
+71	Onwenu, Michael	OG	12/10/1997	23	6' 03"	344	Michigan	NE	20 06 182	2
+51	Perkins, Ronnie	DE	09/29/1999	22	6' 03"	247	Oklahoma	NE	21 03 096	R
+21	Phillips, Adrian	SS	03/28/1992	29	5' 11"	201	Texas	SD FA	14 CFA	7
+18	Slater, Matthew	WR	09/09/1985	36	6' 00"	200	UCLA	NE	08 05 153	14
+81	Smith, Jonnu	TE	08/22/1995	26	6' 03"	248	Florida International	TEN	17 03 100	5
+38	Stevenson, Rhamondre	RB	02/23/1998	23	6' 00"	227	Oklahoma	NE	21 04 120	R
+48	Tavai, Jahlani	IB	09/28/1996	25	6' 02"	250	Hawaii	DET	19 02 043	3
+42	Taylor, JJ	RB	01/04/1998	23	5' 06"	185	Arizona	NE FA	20 CFA	2
+55	Uche, Josh	OB	09/18/1998	23	6' 01"	245	Michigan	NE	20 02 060	2
+53	Van Noy, Kyle	OB	06/19/1990	31	6' 03"	243	BYU	DET	14 02 040	8
+26	Wade, Shaun	CB	09/15/1998	23	6' 01"	195	Ohio State	BAL	21 05 160	R
+33	Williams, Joejuan	CB	12/06/1997	23	6' 04"	211	Vanderbilt	NE	19 02 045	3
+91	Wise Jr., Deatrich	DE	07/26/1994	27	6' 05"	275	Arkansas	NE	17 04 131	5
+76	Wynn, Isaiah	OG	12/09/1995	25	6' 03"	313	Georgia	NE	18 01 023	4

@@ -1,0 +1,53 @@
+77	Adeniji, Hakeem	OG	12/08/1997	23	6' 04"	302	Kansas	CIN	20 06 180	2
+8	Allen, Brandon	QB	09/05/1992	29	6' 01"	212	Arkansas	JAX	16 06 201	5
+37	Allen, Ricardo	CB	12/18/1991	29	5' 09"	187	Purdue	ATL	14 05 147	7
+20	Apple, Eli	CB	08/09/1995	26	6' 01"	199	Ohio State	NYG	16 01 010	6
+22	Awuzie, Chidobe	CB	05/24/1995	26	6' 00"	202	Colorado	DAL	17 02 060	5
+49	Bachie, Joe	IB	02/26/1998	23	6' 01"	230	Michigan State	NO FA	20 CFA	1
+51	Bailey, Markus	IB	03/07/1997	24	6' 00"	235	Purdue	CIN	20 07 215	2
+30	Bates III, Jessie	FS	02/26/1997	24	6' 01"	200	Wake Forest	CIN	18 02 054	4
+24	Bell, Vonn	FS	12/12/1994	26	5' 11"	199	Ohio State	NO	16 02 061	6
+83	Boyd, Tyler	WR	11/15/1994	27	6' 01"	197	Pittsburgh	CIN	16 02 055	6
+9	Burrow, Joe	QB	12/10/1996	24	6' 03"	221	LSU	CIN  	20 01 001 	2
+79	Carman, Jackson	OT	01/22/2000	21	6' 05"	317	Clemson	CIN	21 02 046	R
+1	Chase, Ja'Marr	WR	03/01/2000	21	6' 01"	208	LSU	CIN	21 01 005	R
+35	Davis, Jalen	CB	02/02/1996	25	5' 09"	181	Utah State	MIA FA	18 CFA	2
+59	Davis-Gaither, Akeem	OB	09/21/1997	24	6' 01"	224	Appalachian State	CIN	20 04 107	2
+25	Evans, Chris	RB	10/05/1997	24	5' 11"	219	Michigan	CIN	21 06 202	R
+0	Flowers, Tre	FS	06/02/1995	26	6' 03"	202	Oklahoma State	SEA	18 05 146	4
+0	Hargreaves, Vernon	CB	06/03/1995	26	5' 10"	204	Florida	TB	16 01 011	6
+46	Harris, Clark	LS	07/10/1984	37	6' 05"	257	Rutgers	GB	07 07 243	13
+91	Hendrickson, Trey	DE	12/05/1994	26	6' 04"	255	Florida Atlantic	NO	17 03 103	5
+85	Higgins, Tee	WR	01/18/1999	22	6' 04"	216	Clemson	CIN	20 02 033	2
+92	Hill, BJ	DT	04/20/1995	26	6' 03"	311	North Carolina St	NYG	18 03 069	4
+63	Hill, Trey	OC	01/23/2000	21	6' 03"	319	Georgia	CIN	21 06 190	R
+21	Hilton, Mike	CB	03/09/1994	27	5' 09"	183	Mississippi	JAX FA	16 CFA	5
+66	Hopkins, Trey	OG	07/06/1992	29	6' 04"	302	Texas	CIN FA	14 CFA	6
+94	Hubbard, Sam	DE	06/29/1995	26	6' 05"	270	Ohio State	CIN	18 03 077	4
+10	Huber, Kevin	PT	07/16/1985	36	6' 01"	210	Cincinnati	CIN	09 05 142	13
+16	Irwin, Trenton	WR	12/10/1995	25	6' 01"	200	Stanford	MIA FA	19 CFA	1
+74	Johnson, Fred	OG	06/05/1997	24	6' 07"	326	Florida	PIT FA	19 CFA	3
+90	Kareem, Khalid	DE	04/28/1998	23	6' 04"	268	Notre Dame	CIN	20 05 147	2
+2	McPherson, Evan	PK	07/21/1999	22	5' 11"	185	Florida	CIN	21 05 149	R
+28	Mixon, Joe	RB	07/24/1996	25	6' 01"	228	Oklahoma	CIN	17 02 048	5
+17	Morgan Jr., Stanley	WR	09/07/1996	25	6' 00"	202	Nebraska	CIN FA	19 CFA	3
+65	Ogunjobi, Larry	DT	06/03/1994	27	6' 02"	304	Charlotte	CLE	17 03 065	5
+34	Perine, Samaje	RB	09/16/1995	26	5' 11"	233	Oklahoma	WAS	17 04 114	5
+23	Phillips, Darius	CB	06/26/1996	25	5' 10"	193	Western Michigan	CIN	18 05 170	4
+57	Pratt, Germaine	IB	05/21/1996	25	6' 02"	240	North Carolina State	CIN	19 03 072	3
+75	Prince, Isaiah	OT	07/29/1997	24	6' 06"	305	Ohio State	MIA	19 06 202	2
+93	Ray, Wyatt	OB	10/24/1996	25	6' 03"	257	Boston College	CLE FA	19 CFA	1
+98	Reader, DJ	DT	07/01/1994	27	6' 03"	346	Clemson	HOU	16 05 166	6
+71	Reiff, Riley	OT	12/01/1988	32	6' 06"	311	Iowa	DET	12 01 023	10
+96	Sample, Cameron	DE	09/20/1999	22	6' 03"	274	Tulane	CIN	21 04 111	R
+89	Sample, Drew	TE	04/16/1996	25	6' 05"	255	Washington	CIN	19 02 052	3
+99	Shelvin, Tyler	NT	07/22/1998	23	6' 02"	362	LSU	CIN	21 04 122	R
+67	Spain, Quinton	OG	08/07/1991	30	6' 04"	334	West Virginia	TEN FA	15 CFA	7
+19	Tate, Auden	WR	02/03/1997	24	6' 05"	228	Florida State	CIN	18 07 253	4
+80	Thomas, Mike	WR	08/16/1994	27	6' 01"	200	Southern Miss	LAR	16 06 206	6
+68	Tupou, Josh	NT	05/02/1994	27	6' 03"	362	Colorado	CIN FA	17 CFA	4
+87	Uzomah, CJ	TE	01/14/1993	28	6' 04"	264	Auburn	CIN	15 05 157	7
+84	Wilcox, Mitchell	TE	11/07/1996	25	6' 04"	247	South Florida	CIN FA	20 CFA	1
+73	Williams, Jonah	OT	11/17/1997	23	6' 04"	302	Alabama	CIN	19 01 011	3
+40	Wilson, Brandon	CB	07/27/1994	27	5' 10"	197	Houston	CIN	17 06 207	5
+55	Wilson, Logan	IB	07/08/1996	25	6' 02"	241	Wyoming	CIN	20 03 065	2
