@@ -24,8 +24,9 @@ from prettytable import PrettyTable#Used to output info into table form
 
 
 class Teams:
+    teamName = ""
     def _init_(self, n=" "):
-        self.teamName = n
+        Teams.teamName = n
 
     #Display QB's w/ age under 25 or age over 33
     def inBuilt_Iterator(self,teamFiles):
