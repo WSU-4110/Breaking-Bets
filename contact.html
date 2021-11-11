@@ -1,10 +1,11 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 
 <head>
     <meta charset="utf-8">
     <title>Breaking Bets | Contact</title>
     <link rel="stylesheet" href="Style.css"> 
+    <script src="validation.js"></script>
 </head>
 
 <body>
@@ -37,7 +38,8 @@
     <form action="mailto:breakingbets@protonmail.com" 
     method="post"
     enctype="multipart/form-data"
-    name="Breaking Bets Contact Form">
+    name="bb_contact"
+    onsubmit="return validateForm()">
     
       <fieldset>
     <legend>Your Information</legend>
@@ -47,10 +49,10 @@
       <li><label for="form-age">Age:</label> <input type="text" name="age" id="form-age"></li>
       
       <legend>What is your reason for contacting the team? <em>(Select all that apply)</em>:</legend>
-      <li><label><input type="checkbox" name="reason[]" value="questions">Questions</label></li><br>
-      <li><label><input type="checkbox" name="reason[]" value="suggestions">Suggestions</label></li><br>
-      <li><label><input type="checkbox" name="reason[]" value="report">Report an issue</label></li><br>
-      <li><label><input type="checkbox" name="reason[]" value="ad">Partnership/Advertising</label></li><br>
+      <li><label><input type="checkbox" name="questions">Questions</label></li><br>
+      <li><label><input type="checkbox" name="suggestions">Suggestions</label></li><br>
+      <li><label><input type="checkbox" name="report">Report an issue</label></li><br>
+      <li><label><input type="checkbox" name="ad">Partnership/Advertising</label></li><br>
     </ul>
     </fieldset>
     
@@ -60,7 +62,7 @@
     <fieldset>
     <legend>After reviewing our FAQ, input your unanswered question here:</em>:</legend>
     <ul>
-        <textarea name="use" rows="4" cols="60" maxlength="600" id="form-story" placeholder="600 Characters"></textarea></li>
+        <textarea name="questionsarea" rows="4" cols="60" maxlength="600" id="form-story" placeholder="600 Characters"></textarea></li>
     </ul>
     </fieldset>
     
@@ -70,7 +72,7 @@
     <fieldset>
         <legend>What suggestions do you have for the team?</em>:</legend>
         <ul>
-            <textarea name="use" rows="4" cols="60" maxlength="600" id="form-story" placeholder="600 Characters"></textarea></li>
+            <textarea name="suggestionsarea" rows="4" cols="60" maxlength="600" id="form-story" placeholder="600 Characters"></textarea></li>
         </ul>
         </fieldset>
 
@@ -85,7 +87,7 @@
             <li><label><input type="checkbox" name="reason[]" value="faqs">FAQs</label></li><br>
             <ul>
             <legend>What is occurring on the selected page(s)?</legend>
-                <textarea name="use" rows="4" cols="60" maxlength="600" id="form-story" placeholder="600 Characters"></textarea></li>
+                <textarea name="reportarea" rows="4" cols="60" maxlength="600" id="form-story" placeholder="600 Characters"></textarea></li>
             </ul>
             </fieldset>
         </fieldset>
