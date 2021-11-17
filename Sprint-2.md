@@ -69,11 +69,25 @@ all attention can be directed onto goal #2 and anything else that needs attentio
 | 2 | Finish Players page                | 10 | 10 | 10 | 10 | 10 | 10 |  8 |
 | 2 | Finish Fantasy page                | 15 | 10 | 10 | 10 | 10 | 10 |  8 |
 | 2 | Finish News page                   | 15 | 15 | 15 | 15 | 15 | 15 | 15 |
-| 3 | Develop central theme for webpages | 10 |    |    |    |    |    |    |
-| 3 | Work on live stats                 | 30 |    |    |    |    |    |    |
-| 3 | Finish Home page                   |  5 |    |    |    |    |    |    |
-| 3 | Finish Games page                  |  8 |    |    |    |    |    |    |
-| 3 | Finish Teams page                  |  8 |    |    |    |    |    |    |
-| 3 | Finish Players page                |  8 |    |    |    |    |    |    |
-| 3 | Finish Fantasy page                |  8 |    |    |    |    |    |    |
-| 3 | Finish News page                   | 15 |    |    |    |    |    |    |
+| 3 | Develop central theme for webpages | 10 | 10 | 10 | 10 | 10 | 10 | 10 |
+| 3 | Work on live stats                 | 30 | 30 | 30 | 30 | 30 | 30 | 30 |
+| 3 | Finish Home page                   |  5 |  3 |  3 |  3 |  3 |  3 |  3 |
+| 3 | Finish Games page                  |  8 |  8 |  8 |  8 |  8 |  8 |  8 |
+| 3 | Finish Teams page                  |  8 |  8 |  8 |  8 |  8 |  8 |  8 |
+| 3 | Finish Players page                |  8 |  8 |  8 |  8 |  8 |  8 |  8 |
+| 3 | Finish Fantasy page                |  8 |  8 |  8 |  8 |  8 |  8 |  8 |
+| 3 | Finish News page                   | 15 | 15 | 15 | 15 | 15 | 15 | 15 |
+
+# Sprint Retrospective #
+### *What Went Well*
+The group was able to incorporate web pages from ProFootballReference that allowed us to display player and team stats
+with a 24 hour delay.
+### *What Could Be Improved*
+Ideally, we begin designing tables using our database and fill in the "live" stats through ProFootabllReference. Using the database for
+this purpose will allow us to display unique information while also implementing more of our own source code.
+### *What We Will Commit To Improve*
+For the final sprint we will:
+1. Update the CSS of our webpages.
+2. Fill in the webpages that have missing information.
+3. Incorporate our database into our webpages.
+4. Time management will be our top priority as we have a lot of work left to complete our project.
