@@ -38,7 +38,7 @@ Tasks Accomplished: The team finalized our outline and roles for the presentatio
 
 Meeting Date: 10/14/21 <br>  
 Attendees: Colin, Hussein, Noah, George, Tyler <br>  
-Meeting Objective(s): Sprint 1 Retrospective. Sprint 2 Planning Meeting. <br>  
+Meeting Objective(s): Sprint 1 Retrospective. Sprint 2 Planning Meeting. <br><br>
 Tasks Accomplished: The team discussed the importance of solving our live stats deployment. 
 We also discussed looking into using Javascript instead of HTML for our webpages. <br>  
 Sprint 2: The Product Backlog was updated, a new Sprint 2 Backlog was created, and a new 3 week plan of work was created. <br>  
@@ -50,3 +50,25 @@ Meeting Objective(s): Provide an update on prior weeks work. <br><br>
 Tasks Accomplished: Tyler began work on implementing Javascript into our webpages. 
 George and Noah have begun working on an API that can provide live stats. Colin and Hussein will assist Tyler, George, and Noah as needed. <br>  
 <br>  
+
+Meeting Date: 10/28/21 <br>  
+Attendees: Colin, Hussein, Noah, George, Tyler <br>  
+Meeting Objective(s): Prepare for Sprint 2 demo. <br><br>
+Tasks Accomplished: We prepared for our Sprint 2 demo. <br>  
+<br>  
+
+
+## Sprint 3 Meeting Minutes
+
+Meeting Date: 11/4/21 <br>  
+Attendees: Colin, Hussein, Noah, George, Tyler <br>  
+Meeting Objective(s): Sprint 2 Retrospective and Sprint 3 Planning. <br><br>
+Tasks Accomplished: We went over our Sprint 2 Retrospective and Sprint 3 Planning. A focus for Sprint 3
+is trying to deliver on as many of our projects original promises.<br>  
+<br>  
+
+Meeting Date: 11/11/21 <br>  
+Attendees: Colin, Hussein, Noah, George, Tyler <br>  
+Meeting Objective(s): Provide weekly update. <br><br>
+Tasks Accomplished: We are continuing to focus on Sprint 3 and completing as much work from our product backlog that we can.<br>  
+<br> 
