@@ -105,4 +105,23 @@
             padding: 8px;
           }
 
+          .selectstats::after{
+              content: "";
+              clear: both;
+              display: table;
+          }
 
+          .statclass{
+              float: left;
+              width: 23.2%;
+              padding: 1em;
+          }
+
+          .selectstats img{
+              width: 100%;
+              transition: transform .25s ease;
+          }
+
+          .selectstats img:hover{
+              transform: scale(1.12);
+          }
