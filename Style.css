@@ -48,26 +48,29 @@
             display: inline;
         }
         ul{
-            color: maroon;
             font-family: "Marko One", Georgia, Serif;;
 
         }
         button{
             font-weight: bold;
             font-family: Georgia, serif;
-            color: maroon;
+            color: #374A5D;
             cursor: pointer;
+            font-size: 1em;
+            margin: .2em;
 
         }
         nav{
             text-align: center;
             margin-top: 0;
+            margin-right: 3em;
         }
         #banner img{
             display: block;
             margin: 0 auto;
-            width: 30em;
-            height: 30em;
+            width: 40em;
+            height: 20em;
+            object-fit: cover;
         }
  
           p{
@@ -103,7 +106,12 @@
             border: 1px solid #a7a7a7;
             text-align: left;
             padding: 8px;
+            background-color: #dddddd;
           }
+
+          thead {
+              background-color: #dddddd;
+          }      
 
           .selectstats::after{
               content: "";
