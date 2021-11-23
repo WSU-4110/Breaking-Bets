@@ -73,6 +73,15 @@
             object-fit: cover;
         }
  
+        @media screen and (max-width: 800px) {
+            #banner img {
+                display: block;
+                margin: 0 auto;
+                width: 30em;
+                height: 15em;
+                object-fit: cover;
+            }
+        }
           p{
               color: rgb(66, 0, 0);
               font-family: "Marko One", Georgia, serif;
@@ -85,14 +94,17 @@
               color: black;
               margin-top: 10em;
           }
-          .column {
-            float: left;
-            width: 33.33%;
-          }
-          .row:after {
-              content: "";
-              display: table;
-              clear: both;
+          @media screen and (min-width:1400px) {
+            .column {
+                float: left;
+                width: 33.33%;
+            }
+
+            .row:after {
+                content: "";
+                display: table;
+                clear: both;
+            }
           }
           table {
             font-family: "Marko One", Georgia, serif;
