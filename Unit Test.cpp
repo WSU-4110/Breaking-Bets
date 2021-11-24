@@ -17,19 +17,5 @@ class PasswordConnection
 		hashedPassword, user.EmailAddress, time.Now(),
 	)
 	return err
-}
-
-	func saveUser(db *sql.DB, user *User) error {
-	err := validateUser(user)
-	if err != nil{
-		return err
-	}
-	user.Password, err = hash(user.Password)
-	if err != nil {
-		return err
-	}
-	return saveUserInDB(user)
-}
-
 
 }
