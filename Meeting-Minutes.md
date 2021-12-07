@@ -72,3 +72,22 @@ Attendees: Colin, Hussein, Noah, George, Tyler <br>
 Meeting Objective(s): Provide weekly update. <br><br>
 Tasks Accomplished: We are continuing to focus on Sprint 3 and completing as much work from our product backlog that we can.<br>  
 <br> 
+
+Meeting Date: 11/20/21 <br>  
+Attendees: Colin, Hussein, Noah, George <br>  
+Meeting Objective(s): Provide weekly update. <br><br>
+Tasks Accomplished: We are continuing to focus on Sprint 3 and completing as much work from our product backlog that we can. Discussed and determined what is and isn't realistic for us to accomplish this semester.<br>  
+<br> 
+
+## Final Demo Meeting Minutes
+Meeting Date: 12/2/21 <br>  
+Attendees: Colin, Hussein, Noah, George <br>  
+Meeting Objective(s): Sprint 3 Retrospective. <br><br>
+Tasks Accomplished: We discussed our Sprint 3 demo as well as the Sprint 3 as a whole. Looked at how we did compared to Sprint 2 and Sprint 1. Committed ourselves to completing as much work as possible, provide proper documentation for the class.<br>  
+<br> 
+
+Meeting Date: 12/6/21 <br>  
+Attendees: Colin, Hussein, Noah, George <br>  
+Meeting Objective(s): One final team meeting. <br><br>
+Tasks Accomplished: Made a list of what we needed to get done before our final demo tomorrow. Made getting functionalities checked off where available, properly documenting our work<br>  
+<br> 
