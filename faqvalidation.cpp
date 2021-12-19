@@ -3,6 +3,8 @@
 //xUnit
 
 #include <iostream>
+#include <stdio.h>
+#include <string.h>
 using namespace std;
 
 //tests to see if characters are used in user's question
@@ -15,7 +17,7 @@ bool feedback(string input){
 }
 }
 //tests user ability to categorize the topic of their question
-void categoory(string input){
+void category(string input){
     cout<<"Please categorize the topic of your question"<<endl;
     cin>>input;
 }
@@ -23,7 +25,7 @@ void categoory(string input){
 //tests length of user input
 void characterlength(string input){
 
-    if(strlen(input))<150){
+    if((input.length())<150){
     cout<<"Thank you for your input!"<<endl;
     }
     else{
@@ -34,22 +36,12 @@ void characterlength(string input){
 
 
 //tests validity of user's chosen categorization
-bool categorychecker(string input){
-    if(input=="Design"){
-    return true;
-}
-    else if(input=="Improvement"){
-    return true;
-}
-    else if(input=="Critique"){
-    return true;
-    }
-    else if(input!="Critique"||input!="Improvement"||input!="Design"){
-    cout<<"Our three areas of feedback are Improvement, Critique, and Design"<<endl;
-        categorychecker(input);
+void categorychecker(string input){
+    if(input=="Design"||input=="Critique"||input=="Improvement"){
+        cout<<"Thank you";
 }
     else{
-    return false;
+        cout<<"Our three areas of feedback are Improvement, Critique, and Design";
 }
 }
 
@@ -61,14 +53,30 @@ void contactinfo(string input){
 }
 
 //tests for validity of user provided email
-bool emailcheck(string input){
-    if(isalpha(input.at(0))==true){
-    return true;
+void emailcheck(string input){
+    if(isalpha(input.at(0))>0){
+        cout<<"Thank you.";
     }
-    
     else{
-    cout<<"This is not a valid email"<<endl;
-        return false;
+        cout<<"This is not a valid email"<<endl;
     }
        
        }
+
+
+int main(){
+    string test;
+    string test2;
+    feedback(test);
+    cout<<endl;
+    category(test);
+    cout<<endl;
+    characterlength(test);
+    cout<<endl;
+    categorychecker(test);
+    cout<<endl;
+    contactinfo(test2);
+    cout<<endl;
+    emailcheck(test2);
+    cout<<endl;
+}
